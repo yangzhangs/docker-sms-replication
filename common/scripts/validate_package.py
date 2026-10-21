@@ -22,7 +22,6 @@ def require(condition: bool, message: str) -> None:
 def main() -> None:
     corpus = rows("common/corpus/corpus_92.csv")
     pdf = rows("common/corpus/pdf_index.csv")
-    excluded_pdf = rows("common/corpus/pdf_index_excluded.csv")
     flow = {r["stage"]: int(r["count"]) for r in rows("common/screening/screening_flow.csv")}
     reasons = rows("common/screening/exclusion_reasons.csv")
     master = rows("common/extraction/extraction_master_92.csv")
@@ -36,8 +35,7 @@ def main() -> None:
     require(len(corpus) == 92, f"corpus_92 has {len(corpus)} rows")
     require(sum(r["local_pdf_available"] == "yes" for r in corpus) == 36,
             "expected 36 active local PDFs")
-    require(len(pdf) == 96, f"pdf_index has {len(pdf)} rows")
-    require(len(excluded_pdf) == 4, f"pdf_index_excluded has {len(excluded_pdf)} rows")
+    require(len(pdf) == 92, f"pdf_index has {len(pdf)} rows")
     require(sum(1 for r in pdf if r["P"]) == 92, "pdf_index must contain 92 active rows")
 
     require(flow["records_identified"] - flow["duplicate_exports_merged"] - flow["auto_filtered_non_archival"] == flow["preliminary_screening"],
@@ -63,7 +61,7 @@ def main() -> None:
     require(sum(1 for r in rq3 if r["level"] == "subcategory") == 25, "expected 25 subcategories")
 
     print("PASS")
-    print("  92 studies; 36 active local PDFs; 56 metadata-only; 4 excluded PDFs")
+    print("  92 studies; 36 local PDFs; 56 metadata-only records")
     print("  4,382 records -> 3,727 screened -> 3,592 excluded -> 135 records -> 92 studies")
     print("  24 datasets; 38 tools from 36 studies; 10 taxonomies; 7 categories / 25 subcategories")
 

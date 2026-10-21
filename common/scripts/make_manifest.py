@@ -3,7 +3,7 @@
 """Regenerate MANIFEST.csv for the public package.
 
 PDF payloads are excluded because they are not distributed. Figure PDFs are
-included; the corpus PDF directory is excluded entirely.
+included; the local PDF directory is excluded entirely.
 """
 from __future__ import annotations
 

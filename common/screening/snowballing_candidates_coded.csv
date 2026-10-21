@@ -1,233 +1,233 @@
-﻿direction,title,doi,year,venue,pages,coder_A,coder_B,agree,final_code,flag,resolution
-forward,"Contribution Patterns in Open Source Software for Social Good: Dynamics, Individuals, and Impact CSCW010",10.1145/3788046,2026,Proceedings of the ACM on Human-Computer Interaction,26,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Navigating the International Data Space To Build Edge-Driven Cross-Domain Dataspace Ecosystem,10.1007/978-3-031-78572-6_10,2025,Communications in computer and information science,18,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,DIY Challenge Blueprint: From Organization to Technical Realization in Biomedical Image Analysis,10.1007/978-3-032-05141-7_9,2025,Lecture notes in computer science,11,ex-⑥,ex-⑥,Y,ex-⑥,,agreement
-forward,SCADA basado en software abierto para planta demostrativa de desalación,10.17979/ja-cea.2025.46.12195,2025,Jornadas de Automática,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Cloud Architecture for the Blurred Image Deconvolution in Astronomical CCD Frames,10.1109/acit65614.2025.11185731,2025,International Conference on Advanced Computer Information Technologies,4,ex-⑥,ex-⑥,Y,ex-①,,agreement; 页数门槛: 4页<5
-forward,A Hypothetical Case Study of SDN Parameters for Network-Based Container Setup on Raspberry Pi,10.1007/978-3-032-06662-6_4,2025,Lecture notes in networks and systems,10,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,An Adaptive Approach for SDN-Based Containerized Applications on Raspberry Pi Using STGP,10.1007/978-3-032-12999-4_40,2026,"Smart innovation, systems and technologies",11,keep,keep,Y,ex-⑤,,"agreement; senior: 高级审查: SDN/树莓派IoT容器应用, 基础设施研究 → ex-⑤"
-forward,IoT Architecture for Automatic Mailboxing Management,10.2139/ssrn.6172799,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,Secure Cloud-Based Firmware Distribution Architecture for Medical Devices,10.1007/978-3-032-28829-5_26,2026,Communications in computer and information science,11,ex-⑥,ex-⑥,Y,ex-⑥,,agreement
-forward,Security issues in python open-source software: a mining study from GitHub,10.1007/s10664-026-10890-8,2026,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Analysing Software Supply Chains of Infrastructure as Code: Extraction of Ansible Plugin Dependencies,10.1109/saner64311.2025.00025,2025,"IEEE International Conference on Software Analysis, Evolution and Reen",12,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Research on Multi-Level Container Security Isolation Operation Strategy Based on Static Game,10.2139/ssrn.5394551,2025,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment,10.1007/978-3-032-07894-0_20,2025,Lecture notes in computer science,20,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Research on multi-level container security isolation operation strategy based on static game,10.1016/j.aap.2026.108478,2026,Accident Analysis & Prevention,1,keep,keep,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,DIVA: Differential Integrity Verification Architecture for Containerized Supply Chains,10.1109/icccs69761.2026.11613337,2026,International Conference on Computer and Communication Systems (ICCCS),6,keep,keep,Y,ex-⑤,,"agreement; senior: 团队终审(2026-10-08): 容器供应链完整性验证架构(系统安全方向), 非Docker工件SE研究 → ex-⑤"
-forward,Enhancing reproducibility in neuroimaging with containerized archival,10.1007/s11682-026-01191-1,2026,Brain Imaging and Behavior,,keep,keep,Y,ex-⑥,page-verify,agreement; senior: 高级审查: 神经影像领域(脑成像) → ex-⑥
-forward,Semantic Integrity Verification of Locally Modified Container Images for Risk-Based Trust Decisions,10.21122/2227-1031-2026-25-4-275-291,2026,Science & Technique,17,ex-⑤,ex-⑤,Y,ex-⑤,,"agreement; senior: 团队终审(2026-10-08): 镜像完整性验证(系统/安全工程方向), venue非SE → ex-⑤"
-forward,A knowledge-based approach for guided development of Infrastructure as Code,10.1007/s10270-025-01294-1,2025,Software & Systems Modeling,34,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,ACOF: An Adaptive Container Orchestration Framework for Cloud-Native Systems,10.1109/icin69025.2026.11481806,2026,"Conference on Innovation in Clouds, Internet and Networks (ICIN)",5,ex-⑤,keep,N,ex-⑤,,discussion: exclude (Docker 工件中心性不足); dissent=keep
-forward,What does current research say about the viability of low-code development? A systematic literature review,10.1016/j.jss.2026.112893,2026,Journal of Systems and Software,1,ex-④,ex-④,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Human-Centric Orchestration Interfaces for Industry 5.0: A Prototype-Based Usability Study of Containerized Microservices Management,10.1080/10447318.2026.2701961,2026,International Journal of Human-Computer Interaction,19,keep,keep,Y,ex-⑤,,agreement; senior: 高级审查: 工业5.0人机交互/编排界面 → ex-⑤
-forward,A Comprehensive Survey of Benchmarks for Improvement of Software's Non-Functional Properties,10.1145/3711119,2025,ACM Computing Surveys,36,ex-④,ex-④,Y,ex-④,,agreement
-forward,UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization,10.1145/3727134,2025,Proceedings of the ACM on Measurement and Analysis of Computing System,23,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,SCALPEL: Structured Content Access Logging and Pruning for Efficient Layouts,10.1109/escience65000.2025.00021,2025,IEEE International Conference on eScience,9,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,The Principle of Least Privilege in Microservices: A Systematic Mapping Study,10.3390/app16031495,2026,Applied Sciences,1,ex-④,ex-④,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,From Edge to Cloud: Securing Distributed Containerized Applications,10.1109/eurospw67616.2025.00077,2025,IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization,10.1145/3726854.3727328,2025,,3,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 3页<5
-forward,UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization,10.1145/3744970.3727328,2025,ACM SIGMETRICS Performance Evaluation Review,3,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 3页<5
-forward,Extending WebAssembly for Deep-Learning Inference Across the Cloud Continuum,10.1109/tnsm.2025.3606343,2025,IEEE Transactions on Network and Service Management,17,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,DoCatch: A Leak-Free Framework for Runtime Anomaly Detection in Containerized Systems,10.2139/ssrn.6968362,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,Automating Dockerfile Refactoring to Multi-stage Builds,10.1145/3797098,2026,Proceedings of the ACM on software engineering.,22,keep,keep,Y,keep,,agreement
-forward,PLaTypus: Restricting Cross-Module Transitions to Mitigate Code-Reuse Attacks,10.1109/sp63933.2026.00189,2026,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of th,20,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Deprecated but Not Abandoned: A Large-Scale Empirical Study on Growing-User-Demand Deprecated NPM Packages,10.1145/3832180,2026,Proceedings of the ACM on software engineering.,25,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"Integrating Security Controls in DevSecOps: Challenges, Solutions, and Future Research Directions",10.1002/smr.70029,2025,Journal of Software Evolution and Process,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,An Empirical Characterization of Outages and Incidents in Public Services for Large Language Models,10.1145/3676151.3719372,2025,ACM/SPEC International Conference on Performance Engineering (ICPE),12,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"Botnet-Based DDoS Attack: Automatic Detection, Mitigation, and Real-Time Traffic Filtering in Cloud Environments",10.1007/978-3-031-83783-8_8,2025,Communications in computer and information science,22,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Make Product and Service Requirements Shippable: From the Cloud Service Vision to a Continuous Value Stream Which Satisfies Current and Future User Needs,10.1007/978-3-031-92184-1_9,2025,"Innovation, technology and knowledge management",22,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,How Can Infrastructure as Code Accelerate Data Center Bring-ups? A Case Study at ByteDance,10.1109/ase63991.2025.00256,2025,IEEE/ACM International Conference on Automated Software Engineering (A,12,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Best Practices of CI/CD Adoption in Java Cloud Environments: A Review,10.4236/jdaip.2026.141008,2026,Journal of Data Analysis and Information Processing,20,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Systematic Mapping Study of Container-Based Virtualization Technologies,10.5753/jisa.2026.6589,2026,Journal of Internet Services and Applications,33,ex-④,ex-④,Y,ex-④,,agreement
-forward,Serverless Java: Cold Start Mitigation in Cloud Run/Spring Boot,10.55640/ijiot-05-01-07,2025,International journal of IoT,20,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Unstripping Cloud Container ELF Binaries,10.1109/ic_etc65981.2025.11141058,2025,,6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,CloudImageHunt: Large-Scale Detection and Analysis of Malicious Container Images,10.1109/etaact69135.2026.11542038,2026,,8,ex-⑤,ex-⑤,Y,ex-⑤,,"agreement; senior: 团队终审(2026-10-08): 恶意镜像大规模检测(系统安全工程), 非Docker工件SE研究 → ex-⑤"
-forward,Repairing Docker Smells with Large Language Models: An Empirical Study,10.3390/app16136805,2026,Applied Sciences,1,keep,keep,Y,keep,,"agreement; 页数门槛: 1页<5; senior: 高级审查: Docker smell LLM修复实证(Applied Sciences全刊论文, article-number), 此前被脏页码(=1)误排 → keep"
-forward,"PVAC: package version activity categorizer, leveraging semantic versioning in a heterogeneous system",10.1007/s10664-025-10678-2,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Analysis and evolution of dependencies in software ecosystems,10.70675/23c6195ezb6f6z4a7dza15ez7c317c646756,2025,,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Software Supply-Chain Security of Containerized IoT Components for Sustainable Energy Systems: A Comparative Vulnerability Assessment Using Trivy and Grype,10.3390/en19163859,2026,Energies,1,keep,keep,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Janus: Coordinating Vulnerability Prevention and Exploit-Chain Mitigation for Containerized CI/CD Pipelines,10.1007/978-3-032-32767-3_9,2026,"Lecture notes of the Institute for Computer Sciences, Social Informati",27,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Design Pattern-Based Code Refactoring with LLMs,10.1109/saner67736.2026.00033,2026,"IEEE International Conference on Software Analysis, Evolution and Reen",6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Predicting Software Refactoring With a Reinforcement Learning Framework Using Deep Q Network,10.4018/ijssci.393452,2025,International Journal of Software Science and Computational Intelligen,28,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Leveraging LLMs for Detecting Security Threats in Virtual Network Functions,10.1109/cscloud66326.2025.00031,2025,IEEE International Conference on Cyber Security and Cloud Computing (C,6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Enhancing GitHub Actions Failure Explanations: Log Preprocessing and Prompt Optimization with LLMs,10.1145/3796563.3796608,2026,Innovations in Software Engineering Conference (ISEC),11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,AI-Powered Docker Image Optimization Engine,10.4018/979-8-3373-8084-1.ch005,2026,Advances in computational intelligence and robotics book series,38,ex-⑤,ex-⑤,Y,fail-in-④,,"agreement; senior: 高级审查: 书籍章节(书系列), 非期刊会议 → fail-in-④"
-forward,Comparative analysis of selected containerization tools in terms of MCP,10.35784/jcsi.9816,2026,Journal of Computer Sciences Institute,7,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,LLM-Based Misconfiguration Detection for AWS Serverless Computing,10.1145/3745766,2025,ACM Transactions on Software Engineering and Methodology,28,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Global Trends and Empirical Metrics in the Evaluation of Code Smells and Technical Debt: A Bibliometric Study,10.1109/access.2025.3594657,2025,IEEE Access,23,ex-④,ex-④,Y,ex-④,,agreement
-forward,High-Utility Sequential Rule Mining Utilizing Segmentation Guided by Confidence,10.1109/tkde.2026.3680101,2026,IEEE Transactions on Knowledge and Data Engineering,14,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Mining Long Tail Bugs: Identifying Rare and Overlooked Issues in Code,10.1145/3797071,2026,Proceedings of the ACM on software engineering.,24,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"Quality assurance in infrastructure as code: Issues, approaches, and open challenges",10.1016/j.jss.2026.113080,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Improving Smart Contract Vulnerability Detection With Correlation-Driven Semi-Supervised Learning,10.1109/tse.2025.3647014,2025,IEEE Transactions on Software Engineering,16,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Database Security and Performance: A Case of SQL Injection Attacks Using Docker-Based Virtualisation and Its Effect on Performance,10.3390/fi17040156,2025,Future Internet,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Best Practices Evidenced for Software Development Based on DevOps and Scrum: A Literature Review,10.3390/app15105421,2025,Applied Sciences,1,ex-④,ex-④,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,From challenges to metrics: An LLM-driven DevOps recommendation system grounded in evidence-based mappings,10.1016/j.array.2025.100547,2025,Array,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Prompt2DAG: A Modular Prompting Approach for Democratizing Data Pipeline Generation,10.1109/sse67621.2025.00010,2025,IEEE International Conference on Software Services Engineering (SSE),11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Security smell detection in Dockerfiles,10.1007/s10515-026-00684-z,2026,Automated Software Engineering,,keep,keep,Y,keep,page-verify,agreement
-forward,A systematic mapping study of crowd knowledge enhanced software engineering research using Stack Overflow,10.1016/j.jss.2025.112405,2025,Journal of Systems and Software,1,ex-④,ex-④,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Exploring the black box: analysing explainable AI challenges and best practices through stack exchange discussions,10.1007/s10664-025-10710-5,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Decoding the Decoders: An Empirical Study of Reverse Engineering Questions on Stack Exchange,10.1109/tps-isa67132.2025.00032,2025,"IEEE International Conference on Trust, Privacy and Security in Intell",11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Supporting the identification of prevalent quality issues in code changes by analyzing reviewers’ feedback,10.1007/s11219-025-09720-9,2025,Software Quality Journal,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Exploring and Analyzing Software Architecture Refactoring in Practice,10.1109/tse.2025.3636150,2025,IEEE Transactions on Software Engineering,18,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Unveiling Ruby: Insights from Stack Overflow and Developer Survey,10.1145/3756681.3756955,2025,International Conference on Evaluation and Assessment in Software Engi,12,ex-④,ex-④,Y,ex-④,,agreement
-forward,An Empirical Study of Database Security Topics on Technical Social Forums of Software Developers,10.1145/3756681.3756973,2025,International Conference on Evaluation and Assessment in Software Engi,11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,How to run it? Automated setup steps generation for JavaWeb application,10.1016/j.scico.2026.103448,2026,Science of Computer Programming,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,What challenges do developers face in AI agent systems? An empirical study on Stack Overflow & GitHub issues,10.1016/j.jss.2026.113108,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,On the Use of Containers for LoRaWAN Node Virtualization: Practice and Performance Evaluation,10.3390/electronics14081568,2025,Electronics,1,keep,keep,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Monero-Based Group Covert Transmission With Fine-Grained Access Control,10.1109/tc.2025.3624019,2025,IEEE Transactions on Computers,14,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Ecosystem of Large Language Models for Code,10.1145/3731753,2025,ACM Transactions on Software Engineering and Methodology,30,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Decentralized Real-Time State Estimation in European-Type LV Grids: An Implementation Using Edge Computing,10.1109/tia.2025.3544576,2025,IEEE Transactions on Industry Applications,14,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Problem-Based Learning by Building an Incremental Web Application,10.1109/educon62633.2025.11016350,2025,IEEE Global Engineering Education Conference (EDUCON),10,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,D4C: Fast and Efficient Container Image Updating for Edge with Delta Encodings,10.23919/transcom.2024ebt0008,2025,IEICE Transactions on Communications,16,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,The Kubernetes variability model,10.1145/3715340.3715440,2025,International Working Conference on Variability Modelling of Software-,10,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Improving the nutraceutical content of tomato (Lycopersicon esculentum) by advanced environmental conditions and agricultural practices,10.62940/als.v12i1.1725,2025,Advancements in Life Sciences,1,ex-⑥,ex-⑥,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,MolVE: An Open-Source Web Platform for Visualizing and Evaluating AI-Designed Molecules to Aid in Prioritization,10.1021/acs.jcim.5c02412,2026,Journal of Chemical Information and Modeling,7,ex-⑥,ex-⑥,Y,ex-⑥,,agreement
-forward,WebAssembly performance in the Node.js environment,10.7256/2454-0714.2025.2.74049,2025,Программные системы и вычислительные методы,23,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Proposal of a Web Application for the Efficient Management of Internship Projects in Higher Education: An Innovative Approach to Efficiently Manage an Ecosystem of Distributed Services,10.1007/978-3-031-93106-2_2,2025,Lecture notes in networks and systems,12,ex-⑥,ex-⑥,Y,ex-⑥,,agreement
-forward,Empowering Non-Profits Through a Collaborative Web Tool for Volunteer Developer Engagement,10.1109/icdxa69105.2025.11329616,2025,,5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Reliability Engineering Metrics in Continuous Deployment,10.1109/etcom66606.2025.11436244,2025,,6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Leadership Training Policy Implementation at Inap Timor-Leste: Diagnosing Ineffectiveness and Strengthening Bureaucratic Capacity,10.61194/ijss.v7i3.2333,2026,Ilomata International Journal of Social Science,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,SolanEdge: A Real-Time Edge-IoT Framework for Explainable Potato Disease Detection and Recommendation Using Lightweight Deep Learning,10.1007/s11540-026-10135-7,2026,Potato Research,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"Synthesis, DFT, molecular docking, and insecticidal evaluation of new pyrazole-thiazole hydrazones derivatives against Tribolium castaneum",10.1016/j.compbiolchem.2026.109455,2026,Computational Biology and Chemistry,1,ex-⑥,ex-⑥,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Dependency-Aware Reconfigurations of Kubernetes Deployments,10.1145/3837062.3838895,2026,ACM/IEEE International Conference on Model Driven Engineering Language,10,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Performance optimization model for predicting the impact of refactorings in CI/CD pipelines,10.1016/j.jss.2026.112926,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,A Co-Design Framework for Container Deployment in Mobile Edge Computing Networks,10.1109/tmc.2025.3642137,2025,IEEE Transactions on Mobile Computing,17,ex-⑤,keep,N,ex-⑤,,discussion: exclude (Docker 工件中心性不足); dissent=keep
-forward,Web-based data visualization and management for CEE slow control system,10.1088/1748-0221/20/09/p09029,2025,Journal of Instrumentation,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Why and how developers maintain smart contracts,10.1007/s10664-025-10639-9,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,PatchScope – A Modular Tool for Annotating and Analyzing Contributions,10.1145/3713081.3731727,2025,ACM SIGSOFT International Symposium on Software Testing and Analysis (,5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,InfraFix: Technology-Agnostic Repair of Infrastructure as Code,10.1145/3713081.3731735,2025,ACM SIGSOFT International Symposium on Software Testing and Analysis (,5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption,10.1109/icse55347.2025.00118,2025,IEEE/ACM International Conference on Software Engineering (ICSE),13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Binary Repository Management: An Analysis of Artifactory within Modern DevOps Ecosystems,10.1109/ines69513.2026.11661048,2026,IEEE International Conference on Intelligent Engineering Systems (INES,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Automating Security-by-Design in Microservices via Model-Driven DevSecOps,10.1007/978-3-032-37218-5_30,2026,Lecture notes in computer science,18,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study,10.1145/3786791,2026,ACM Transactions on Software Engineering and Methodology,35,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Automated detection of algorithm debt in deep learning frameworks: an empirical study,10.1007/s10664-026-10807-5,2026,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Work",10.1145/3806391,2026,ACM Computing Surveys,35,ex-④,ex-④,Y,ex-④,,agreement
-forward,Why Software Professionals Knowingly Omit Appropriate Development Quality Practices? Control Balance Viewpoint,10.1007/s10796-026-10728-0,2026,Information Systems Frontiers,29,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A First Look at the Self-Admitted Technical Debt in Test Code: Taxonomy and Detection,10.2139/ssrn.5963911,2025,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,IMPACT: Identifying and Classifying Multiple Sourced and Categorized Self-Admitted Technical Debts,10.1145/3747180,2025,ACM Transactions on Software Engineering and Methodology,36,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A First Look at the Self-Admitted Technical Debt in Test Code: Taxonomy and Detection,10.2139/ssrn.6479525,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,Towards sustainable cloud deployments: A cost (anti)patterns catalog for terraform and CloudFormation,10.1016/j.jss.2026.112870,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Characterizing and Classifying Self-Admitted Technical Debt in Infrastructure-as-Code,10.1145/3848031,2026,ACM Transactions on Software Engineering and Methodology,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A first look at the self-admitted technical debt in test code: Taxonomy and detection,10.1016/j.jss.2026.113120,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Harnessing the Power of LLMs for Code Smell Detection in Terraform Infrastructure as Code,10.1109/compsac65507.2025.00075,2025,"IEEE Annual Computers, Software, and Applications Conference (COMPSAC)",10,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,It Works (only) on My Machine: A Study on Reproducibility Smells in Ansible Scripts,10.1109/msr66628.2025.00069,2025,IEEE/ACM International Conference on Mining Software Repositories (MSR,12,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,PeH-LAA: Fine-Grained Open Source License Attitude Analysis Method Based on Parameter-Efficient Hierarchical Attention Networks,10.1109/iscait69154.2026.11477211,2026,,7,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges",10.1109/ase63991.2025.00137,2025,IEEE/ACM International Conference on Automated Software Engineering (A,13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Towards an Actionable Flakiness Score,10.1109/icst69053.2026.00028,2026,"IEEE International Conference on Software Testing, Verification and Va",5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Monitoring and Optimization of Machine Learning Workloads Using Kubernetes,10.1007/978-981-96-3250-3_8,2025,Lecture notes in networks and systems,9,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing,10.1109/icdcsw63273.2025.00024,2025,IEEE International Conference on Distributed Computing Systems Worksho,6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Measurement-Driven Approach to Enhancing Sustainability in Microservice Architectures,10.1109/icsa-c65153.2025.00031,2025,IEEE International Conference on Software Architecture Companion (ICSA,6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"GreenDevLoop: Power-Aware Software Development with CI/CD, AI, and Feedback",10.1007/978-3-032-04403-7_7,2025,Lecture notes in computer science,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Multi-Layer Digital Twin Platform with Progressive Analytics Services for Indoor Environmental Quality Management,10.2139/ssrn.6598962,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,The Impact of Network Topology on Performance Metrics and Energy Consumption for Blockchains: Towards Repeatable Benchmarking,10.1145/3828757,2026,Distributed Ledger Technologies Research and Practice,,ex-⑥,ex-⑥,Y,ex-⑥,,agreement
-forward,EcoRun: Energy-aware container scheduling and resource allocation in serverless edge computing,10.1016/j.comcom.2026.108658,2026,Computer Communications,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,A survey on large language models for software engineering,10.1007/s11432-025-4670-0,2026,Science China Information Sciences,,ex-④,ex-④,Y,ex-④,,agreement
-forward,Understanding the Faults in Serverless Computing Based Applications: An Empirical Study,10.1109/icsme64153.2025.00024,2025,IEEE International Conference on Software Maintenance and Evolution (I,13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Automated Diagnosis and Testing of Game Compatibility Layers,10.1145/3803437.3804876,2026,,2,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 2页<5
-forward,Characterizing and detecting Python version incompatibilities caused by inconsistent version specifications,10.1016/j.jss.2025.112337,2025,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Breaking the Dependency Chaos: A Constraint-Driven Python Dependency Resolution Strategy with Selective LLM Imputation,10.1145/3803437.3808241,2026,,4,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 4页<5
-forward,ConCloneDep: A Confidence-Aware Clone-Based Dependency Identification Approach in C/C++ Open-Source Components,10.1109/trustcom66490.2025.00103,2025,"IEEE International Conference on Trust, Security and Privacy in Comput",8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Explodox: unleashing exploit-DB data for automated exploits generation,10.1007/s11416-026-00617-0,2026,Journal of Computer Virology and Hacking Techniques,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Towards Automatically Inferring Constraints to Identify Implicit Assumptions in Data Analysis,10.1145/3786582.3786806,2026,IEEE/ACM International Conference on Software Engineering (ICSE),5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Record and Replay Methods for Software Engineering Reproducibility: A Cross-Layer Survey and Taxonomy,10.1145/3820002.3828587,2026,,12,ex-④,ex-④,Y,ex-④,,agreement
-forward,The Construction of a Stream Service Application with DeepStream and Simple Realtime Server Using Containerization for Edge Computing,10.3390/s25010259,2025,Sensors,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Tracking Security Smell Diffusion Patterns in Ansible Playbooks Using Metadata,10.1007/978-981-95-4674-9_19,2025,Lecture notes in computer science,20,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Directory of Datasets for Mining Software Repositories,10.3390/data10030028,2025,Data,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures,10.1145/3688842,2024,ACM Transactions on Software Engineering and Methodology,30,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,On combining commit grouping and build skip prediction to reduce redundant continuous integration activity,10.1007/s10664-024-10477-1,2024,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Build Issue Resolution from the Perspective of Non-Contributors,10.1145/3691620.3695304,2024,IEEE/ACM International Conference on Automated Software Engineering (A,5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,An Exploratory Study on Build Issue Resolution Among Computer Science Students,10.1109/cseet66350.2025.00025,2025,,11,ex-⑥,ex-⑥,Y,ex-⑥,,agreement
-forward,A Semantic Web-Enabled Approach for Dependency Management,10.1142/s0218194022500498,2022,International Journal of Software Engineering and Knowledge Engineerin,37,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Representação Baseada em Grafos de Infraestrutura como Código: Possibilitando o Raciocínio Semântico para Sistemas Conteinerizados,10.5753/sbrc.2026.19490,2026,,14,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,10.1145/3736731.3786119,10.1145/3736731.3786119,2000,Time to knit,,fail-in-③,fail-in-③,Y,fail-in-③,,agreement
-forward,What is an app store? The software engineering perspective,10.1007/s10664-023-10362-3,2024,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"Multi-Grained Trace Collection, Analysis, and Management of Diverse Container Images",10.1109/tc.2024.3383966,2024,IEEE Transactions on Computers,13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Practitioners' Perceptions of Security Issues in Software Containers: A Qualitative Study,10.1109/seaa64295.2024.00071,2024,Euromicro Conference on Software Engineering and Advanced Applications,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Exploring Solutions for Container Image Security,10.1109/uemcon59035.2023.10316032,2023,"IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication C",7,keep,keep,Y,ex-⑤,,"agreement; senior: 团队终审(2026-10-08): 容器镜像安全解决方案综述性分析, 非Docker工件SE研究 → ex-⑤"
-forward,Infrastructure-as-Code Ecosystems,10.1007/978-3-031-36060-2_9,2023,Springer eBooks,31,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Gear: Enable Efficient Container Storage and Deployment with a New Image Format,10.1109/icdcs51616.2021.00020,2021,IEEE International Conference on Distributed Computing Systems (ICDCS),11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Systematic Literature Review on Maintenance of Software Containers,10.1145/3645092,2024,ACM Computing Surveys,38,ex-④,ex-④,Y,ex-④,,agreement
-forward,Containers in Software Development: A Systematic Mapping Study,10.1007/978-3-030-35333-9_13,2019,Lecture notes in computer science,16,ex-④,ex-④,Y,ex-④,,agreement
-forward,Automatic Observability for Dockerized Java Applications,10.48550/arxiv.1912.06914,2019,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,Static Analysis of File Manipulation Scripts,10.1109/prdc47002.2019.00039,2019,IEEE Pacific Rim International Symposium on Dependable Computing (PRDC,1064,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,An Exploration Study On the Dependency Among Vulnerabilities and Bugs,10.1109/apsec53868.2021.00074,2021,Proceedings - Asia Pacific Software Engineering Conference/Proceedings,2,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 2页<5
-forward,A Web-Based Docker Image Assistant Generation Tool for User-PC Computing System,10.3390/info14060300,2023,Information,1,keep,keep,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,PExReport: Automatic Creation of Pruned Executable Cross-Project Failure Reports,10.1109/icse48619.2023.00027,2023,IEEE/ACM International Conference on Software Engineering (ICSE),12,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,SateLight: A Satellite Application Update Framework for Satellite Computing,10.1109/ase63991.2025.00018,2025,IEEE/ACM International Conference on Automated Software Engineering (A,12,ex-⑥,ex-⑥,Y,ex-⑥,,agreement
-forward,Six Open Challenges for Production-Ready Cloud-Native Security Orchestration,10.1109/isda70544.2026.11606146,2026,,7,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Demystifying the vulnerability propagation and its evolution via dependency trees in the NPM ecosystem,10.1145/3510003.3510142,2022,Proceedings/Proceedings - International Conference on Software Enginee,13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies,10.1109/tse.2020.3025443,2020,IEEE Transactions on Software Engineering,18,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Modular call graph construction for security scanning of Node.js applications,10.1145/3460319.3464836,2021,ACM SIGSOFT International Symposium on Software Testing and Analysis (,13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,An Empirical Study of Dependency Downgrades in the npm Ecosystem,10.1109/tse.2019.2952130,2019,IEEE Transactions on Software Engineering,14,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Technical Lag of Dependencies in Major Package Managers,10.1109/apsec51365.2020.00031,2020,Proceedings - Asia Pacific Software Engineering Conference/Proceedings,10,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Toward Automated Exploit Generation for Known Vulnerabilities in Open-Source Libraries,10.1109/icpc52881.2021.00046,2021,IEEE/ACM International Conference on Program Comprehension (ICPC),5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Plumber: Boosting the Propagation of Vulnerability Fixes in the npm Ecosystem,10.1109/tse.2023.3243262,2023,IEEE Transactions on Software Engineering,27,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,On the Discoverability of npm Vulnerabilities in Node.js Projects,10.1145/3571848,2022,ACM Transactions on Software Engineering and Methodology,27,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Survey on Common Threats in npm and PyPi Registries,10.1007/978-3-030-87839-9_6,2021,Communications in computer and information science,25,ex-④,ex-④,Y,ex-④,,agreement
-forward,Insight: Exploring Cross-Ecosystem Vulnerability Impacts,10.1145/3551349.3556921,2022,IEEE/ACM International Conference on Automated Software Engineering (A,13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Investigating the Resolution of Vulnerable Dependencies with Dependabot Security Updates,10.1109/msr59073.2023.00042,2023,IEEE/ACM International Conference on Mining Software Repositories (MSR,13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Securing dependencies: A comprehensive study of Dependabot’s impact on vulnerability mitigation,10.1007/s10664-025-10638-w,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Understanding the NPM Dependencies Ecosystem of a Project Using Virtual Reality,10.1109/vissoft60811.2023.00019,2023,IEEE Working Conference on Software Visualization (VISSOFT),11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Vulnerable JavaScript functions detection using stacking of convolutional neural networks,10.7717/peerj-cs.1838,2024,PeerJ Computer Science,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,On the Threat of npm Vulnerable Dependencies in Node.js Applications,10.48550/arxiv.2009.09019,2020,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,A Survey on Common Threats in npm and PyPi Registries,10.48550/arxiv.2108.09576,2021,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,An efficient image security mechanism for data handling and key priorities,10.19101/tis.2019.414004,2019,ACCENTS Transactions on Information Security,6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Studying Dependency Updates and a Framework for Multi-Versioning in Docker Containers,10.7939/r3-0hg2-5p77,2020,ERA: Education and Research Archive (University of Alberta),,keep,keep,Y,fail-in-④,page-verify,"agreement; senior: 高级审查: 大学机构库(ERA)学位论文/存储, 非期刊会议 → fail-in-④"
-forward,The Impact of the Evolution of Operating Systems on Older Web Applications,10.1007/978-3-031-52524-7_2,2024,"Lecture notes of the Institute for Computer Sciences, Social Informati",13,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Boosting the Propagation of Vulnerability Fixes in the npm Ecosystem,10.1007/978-981-96-1797-5_8,2024,Springer eBooks,54,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Exploring Cross Ecosystem Vulnerability Impacts,10.1007/978-981-96-1797-5_7,2024,Springer eBooks,29,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Uncover the Risks of Outdated Dependencies in Software Supply Chains: Insights from the npm Ecosystem,10.1007/978-3-032-00828-2_22,2025,Lecture notes in computer science,21,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Comprehensive Study of the Lifecycle of Dormant npm Packages,10.1007/s10664-025-10753-8,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Tool for Learning About Outdated Software Vulnerabilities and End-of-Life,10.1007/978-3-032-26616-3_7,2026,IFIP advances in information and communication technology,16,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Case Study on Virtual HPC Container Clusters and Machine Learning Applications,10.3390/app15137433,2025,Applied Sciences,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Quantifying and characterizing clones of self-admitted technical debt in build systems,10.1007/s10664-024-10449-5,2024,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,"Nearest‐neighbor, BERT‐based, scalable clone detection: A practical approach for large‐scale industrial code bases",10.1002/spe.3355,2024,Software Practice and Experience,26,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A comprehensive review on code clone detection techniques,10.1063/5.0285785,2026,AIP conference proceedings,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Dockerized Architecture for a Progressive Web App: An Italian Collocations Dictionary,10.1007/978-3-031-97617-9_3,2025,Lecture notes in computer science,11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,VWA-6G AI assisted continuous security monitoring over open RAN service management orchestration,10.1016/j.cose.2025.104566,2025,Computers & Security,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Table of Contents,10.1109/sose58276.2023.00004,2023,IEEE International Conference on Service-Oriented System Engineering (,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,LiScopeLens: An Open-Source License Incompatibility Analysis Tool Based on Scope Representation of License Terms,10.1109/issre62328.2024.00013,2024,IEEE International Symposium on Software Reliability Engineering (ISSR,12,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Towards a comprehensive framework for verifying open-source software license compatibility,10.1007/s10664-025-10751-w,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Deployment and verification of machine learning tool-chain based on kubernetes distributed clusters,10.1007/s42514-021-00065-w,2021,CCF Transactions on High Performance Computing,14,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Investigating the impact of microservice-oriented platform configurations on application performance,10.35784/jcsi.6090,2024,Journal of Computer Sciences Institute,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Characterizing and Codifying Malware Sophistication,10.1109/ietc69527.2026.11568673,2026,"Intermountain Engineering, Technology and Computing (IETC)",6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Exploiting dynamic analysis for architectural smell detection: a preliminary study,10.1109/seaa56994.2022.00051,2022,Euromicro Conference on Software Engineering and Advanced Applications,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,A Review of Bad Smells in Cloud-based Applications and Microservices,10.1109/icicas53977.2021.00059,2021,"International Conference on Intelligent Computing, Automation and Syst",5,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Déploiement efficace d'applications cloud dans les infrastructures fog distribuées,10.70675/408ea09cz67a2z4947zaca0z6dc18db265b7,2020,,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,IoT Service Slicing and Task Offloading for Edge Computing,10.1109/jiot.2021.3052498,2021,IEEE Internet of Things Journal,22,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Virtual IoT Service Slice Functions for Multiaccess Edge Computing Platform,10.1109/jiot.2021.3051652,2021,IEEE Internet of Things Journal,16,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Container-Based Support for Autonomic Data Stream Processing Through the Fog,10.1007/978-3-319-75178-8_2,2018,Lecture notes in computer science,12,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Smart Infrastructures: Artificial Intelligence-Enabled Lifecycle Automation,10.1109/mie.2022.3165673,2022,IEEE Industrial Electronics Magazine,11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Offline Mining of Microservice-Based Architectures (Extended Version),10.1007/s42979-023-01721-4,2023,SN Computer Science,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Particle Swarm Optimization Algorithm for Container Deployment,10.1088/1742-6596/1544/1/012020,2020,Journal of Physics Conference Series,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Integration With Docker Container Technologies for Distributed and Microservices Applications,10.4018/ijssoe.297136,2022,International Journal of Systems and Service-Oriented Engineering,22,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,IoT service slicing and task offloading for edge computing,10.48550/arxiv.2008.10210,2020,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-forward,Analysing and Deploying (Micro)service-Based Applications,10.1007/978-3-030-63161-1_14,2020,Communications in computer and information science,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Tackling Cold Start in Serverless Computing with Multi-Level Container Reuse,10.1109/ipdps57955.2024.00017,2024,Proceedings - IEEE International Parallel and Distributed Processing S,11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Fault-Tolerant Trust-Based Task Scheduling Algorithm Using Harris Hawks Optimization in Cloud Computing,10.3390/s23188009,2023,Sensors,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Enhancing Security and Trust in Internet of Things through Meshtastic Protocol Utilising Low-Range Technology,10.3390/electronics13061055,2024,Electronics,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,LWN Simulator - A LoRaWAN Network Simulator,10.1109/wetice57085.2023.10477816,2023,IEEE International Conference on Enabling Technologies: Infrastructure,6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Automatic tuning of radio stations based on listener’s preference using Software Defined Radio and MATLAB,10.1016/j.engappai.2024.109117,2024,Engineering Applications of Artificial Intelligence,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,Enhancing LoRaWAN Simulator for Real-World Integration and Research Experimentation,10.1109/picom68402.2025.00019,2025,,8,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,Enhancing fault tolerance: dual Q-learning with dynamic scheduling,10.11591/ijeecs.v33.i2.pp1150-1168,2024,Indonesian Journal of Electrical Engineering and Computer Science,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-forward,A Few to Unveil Them All: Leveraging Mixture of Experts on Minimal Data for Detecting Covert Channels in Containerized Cloud Infrastructures,10.1109/eurospw61312.2024.00090,2024,IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),9,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-forward,KubePhaistos: An Automated Framework for Enhancing File Access Policies in Containerized Environments,10.2139/ssrn.5784173,2025,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-backward,containerit: Generating Dockerfiles for reproducible research with R,10.21105/joss.01603,2019,The Journal of Open Source Software,1,keep,keep,Y,ex-①,,agreement; 页数门槛: 1页<5
-backward,Ten simple rules for writing Dockerfiles for reproducible data science,10.1371/journal.pcbi.1008316,2020,PLoS Computational Biology,,keep,keep,Y,ex-④,page-verify,agreement; senior: 高级审查: 'Ten simple rules'为指南/教程体裁(非研究论文) → ex-④
-backward,Container-Based Performance Isolation for Multi-Tenant SaaS Applications in Micro-Service Architecture,10.1088/1742-6596/1486/5/052032,2020,Journal of Physics Conference Series,1,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 1页<5
-backward,"A Container Security Survey: Exploits, Attacks, and Defenses",10.1145/3715001,2025,ACM Computing Surveys,36,ex-④,ex-④,Y,ex-④,,agreement
-backward,Static Vulnerability Analysis of Docker Images,10.1088/1757-899x/1131/1/012018,2021,IOP Conference Series Materials Science and Engineering,1,keep,keep,Y,ex-④,,agreement; 页数门槛: 1页<5; senior: 团队终审(2026-10-08): 综述性质论文(无实证实验) → Exclusion ④ 移出
-backward,Container Security in Cloud Environments: A Comprehensive Analysis and Future Directions for DevSecOps,10.3390/engproc2023059057,2023,,1,keep,keep,Y,ex-①,,agreement; 页数门槛: 1页<5
-backward,Containers Runtimes War: A Comparative Study,10.1007/978-3-030-63089-8_9,2020,Advances in intelligent systems and computing,27,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-backward,Implementation and Analysis of Container Image Optimization Using Alpine Linux and Multi-Stage Builds,10.34148/teknika.v14i1.1118,2025,Teknika,10,keep,keep,Y,ex-⑤,,agreement; senior: 高级审查: 非SE期刊的图像优化实现类 → ex-⑤
-backward,CONTAIN4n6: a systematic evaluation of container artifacts,10.1186/s13677-022-00303-8,2022,Journal of Cloud Computing Advances Systems and Applications,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-backward,Self-Adaptive Secure Mechanism for Containers,10.1109/mysurucon55714.2022.9972505,2022,IEEE Mysore Sub Section International Conference (MysuruCon),6,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-backward,Gear: Enable Efficient Container Storage and Deployment with a New Image Format,10.1109/icdcs51616.2021.00020,2021,IEEE International Conference on Distributed Computing Systems (ICDCS),11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-backward,"Docker : build, ship, and run any app, anywhere",,2017,DR-NTU (Nanyang Technological University),,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-backward,Understanding the Quality of Container Security Vulnerability Detection Tools,10.48550/arxiv.2101.03844,2021,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,,agreement
-backward,CNTR: lightweight OS containers,,2018,Edinburgh Research Explorer (University of Edinburgh),14,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-backward,Representing Dockerfiles in RDF.,,2017,Ghent University Academic Bibliography (Ghent University),4,ex-⑤,ex-⑤,Y,ex-①,,agreement; 页数门槛: 4页<5
-backward,Smart Container: an Ontology Towards Conceptualizing Docker.,,2015,International Semantic Web Conference,,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
-backward,DockerPedia: a knowledge graph for Docker images,10.6084/m9.figshare.6108482,2018,Figshare,,keep,keep,Y,fail-in-④,page-verify,"agreement; senior: 高级审查: Figshare存储库(海报/数据集条目), 非期刊会议 → fail-in-④"
-backward,A Study on the Security Implications of Information Leakages in Container Clouds,10.1109/tdsc.2018.2879605,2018,IEEE Transactions on Dependable and Secure Computing,18,keep,keep,Y,ex-⑤,,"agreement; senior: 团队终审(2026-10-08): 研究对象为容器云(container clouds)安全, 非Docker工件/实践 → ex-⑤"
-backward,"Containers for Portable, Productive, and Performant Scientific Computing",10.1109/mcse.2017.2421459,2017,Computing in Science & Engineering,11,ex-⑤,ex-⑤,Y,ex-⑤,,agreement
+﻿direction,title,doi,year,venue,pages,coder_A,coder_B,agree,final_code,flag
+forward,"Contribution Patterns in Open Source Software for Social Good: Dynamics, Individuals, and Impact CSCW010",10.1145/3788046,2026,Proceedings of the ACM on Human-Computer Interaction,26,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Navigating the International Data Space To Build Edge-Driven Cross-Domain Dataspace Ecosystem,10.1007/978-3-031-78572-6_10,2025,Communications in computer and information science,18,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,DIY Challenge Blueprint: From Organization to Technical Realization in Biomedical Image Analysis,10.1007/978-3-032-05141-7_9,2025,Lecture notes in computer science,11,ex-⑥,ex-⑥,Y,ex-⑥,
+forward,SCADA basado en software abierto para planta demostrativa de desalación,10.17979/ja-cea.2025.46.12195,2025,Jornadas de Automática,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Cloud Architecture for the Blurred Image Deconvolution in Astronomical CCD Frames,10.1109/acit65614.2025.11185731,2025,International Conference on Advanced Computer Information Technologies,4,ex-⑥,ex-⑥,Y,ex-①,
+forward,A Hypothetical Case Study of SDN Parameters for Network-Based Container Setup on Raspberry Pi,10.1007/978-3-032-06662-6_4,2025,Lecture notes in networks and systems,10,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,An Adaptive Approach for SDN-Based Containerized Applications on Raspberry Pi Using STGP,10.1007/978-3-032-12999-4_40,2026,"Smart innovation, systems and technologies",11,keep,keep,Y,ex-⑤,
+forward,IoT Architecture for Automatic Mailboxing Management,10.2139/ssrn.6172799,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,Secure Cloud-Based Firmware Distribution Architecture for Medical Devices,10.1007/978-3-032-28829-5_26,2026,Communications in computer and information science,11,ex-⑥,ex-⑥,Y,ex-⑥,
+forward,Security issues in python open-source software: a mining study from GitHub,10.1007/s10664-026-10890-8,2026,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Analysing Software Supply Chains of Infrastructure as Code: Extraction of Ansible Plugin Dependencies,10.1109/saner64311.2025.00025,2025,"IEEE International Conference on Software Analysis, Evolution and Reen",12,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Research on Multi-Level Container Security Isolation Operation Strategy Based on Static Game,10.2139/ssrn.5394551,2025,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment,10.1007/978-3-032-07894-0_20,2025,Lecture notes in computer science,20,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Research on multi-level container security isolation operation strategy based on static game,10.1016/j.aap.2026.108478,2026,Accident Analysis & Prevention,1,keep,keep,Y,ex-①,
+forward,DIVA: Differential Integrity Verification Architecture for Containerized Supply Chains,10.1109/icccs69761.2026.11613337,2026,International Conference on Computer and Communication Systems (ICCCS),6,keep,keep,Y,ex-⑤,
+forward,Enhancing reproducibility in neuroimaging with containerized archival,10.1007/s11682-026-01191-1,2026,Brain Imaging and Behavior,,keep,keep,Y,ex-⑥,page-verify
+forward,Semantic Integrity Verification of Locally Modified Container Images for Risk-Based Trust Decisions,10.21122/2227-1031-2026-25-4-275-291,2026,Science & Technique,17,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A knowledge-based approach for guided development of Infrastructure as Code,10.1007/s10270-025-01294-1,2025,Software & Systems Modeling,34,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,ACOF: An Adaptive Container Orchestration Framework for Cloud-Native Systems,10.1109/icin69025.2026.11481806,2026,"Conference on Innovation in Clouds, Internet and Networks (ICIN)",5,ex-⑤,keep,N,ex-⑤,
+forward,What does current research say about the viability of low-code development? A systematic literature review,10.1016/j.jss.2026.112893,2026,Journal of Systems and Software,1,ex-④,ex-④,Y,ex-①,
+forward,Human-Centric Orchestration Interfaces for Industry 5.0: A Prototype-Based Usability Study of Containerized Microservices Management,10.1080/10447318.2026.2701961,2026,International Journal of Human-Computer Interaction,19,keep,keep,Y,ex-⑤,
+forward,A Comprehensive Survey of Benchmarks for Improvement of Software's Non-Functional Properties,10.1145/3711119,2025,ACM Computing Surveys,36,ex-④,ex-④,Y,ex-④,
+forward,UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization,10.1145/3727134,2025,Proceedings of the ACM on Measurement and Analysis of Computing System,23,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,SCALPEL: Structured Content Access Logging and Pruning for Efficient Layouts,10.1109/escience65000.2025.00021,2025,IEEE International Conference on eScience,9,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,The Principle of Least Privilege in Microservices: A Systematic Mapping Study,10.3390/app16031495,2026,Applied Sciences,1,ex-④,ex-④,Y,ex-①,
+forward,From Edge to Cloud: Securing Distributed Containerized Applications,10.1109/eurospw67616.2025.00077,2025,IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization,10.1145/3726854.3727328,2025,,3,ex-⑤,ex-⑤,Y,ex-①,
+forward,UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization,10.1145/3744970.3727328,2025,ACM SIGMETRICS Performance Evaluation Review,3,ex-⑤,ex-⑤,Y,ex-①,
+forward,Extending WebAssembly for Deep-Learning Inference Across the Cloud Continuum,10.1109/tnsm.2025.3606343,2025,IEEE Transactions on Network and Service Management,17,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,DoCatch: A Leak-Free Framework for Runtime Anomaly Detection in Containerized Systems,10.2139/ssrn.6968362,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,Automating Dockerfile Refactoring to Multi-stage Builds,10.1145/3797098,2026,Proceedings of the ACM on software engineering.,22,keep,keep,Y,keep,
+forward,PLaTypus: Restricting Cross-Module Transitions to Mitigate Code-Reuse Attacks,10.1109/sp63933.2026.00189,2026,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of th,20,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Deprecated but Not Abandoned: A Large-Scale Empirical Study on Growing-User-Demand Deprecated NPM Packages,10.1145/3832180,2026,Proceedings of the ACM on software engineering.,25,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"Integrating Security Controls in DevSecOps: Challenges, Solutions, and Future Research Directions",10.1002/smr.70029,2025,Journal of Software Evolution and Process,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,An Empirical Characterization of Outages and Incidents in Public Services for Large Language Models,10.1145/3676151.3719372,2025,ACM/SPEC International Conference on Performance Engineering (ICPE),12,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"Botnet-Based DDoS Attack: Automatic Detection, Mitigation, and Real-Time Traffic Filtering in Cloud Environments",10.1007/978-3-031-83783-8_8,2025,Communications in computer and information science,22,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Make Product and Service Requirements Shippable: From the Cloud Service Vision to a Continuous Value Stream Which Satisfies Current and Future User Needs,10.1007/978-3-031-92184-1_9,2025,"Innovation, technology and knowledge management",22,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,How Can Infrastructure as Code Accelerate Data Center Bring-ups? A Case Study at ByteDance,10.1109/ase63991.2025.00256,2025,IEEE/ACM International Conference on Automated Software Engineering (A,12,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Best Practices of CI/CD Adoption in Java Cloud Environments: A Review,10.4236/jdaip.2026.141008,2026,Journal of Data Analysis and Information Processing,20,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Systematic Mapping Study of Container-Based Virtualization Technologies,10.5753/jisa.2026.6589,2026,Journal of Internet Services and Applications,33,ex-④,ex-④,Y,ex-④,
+forward,Serverless Java: Cold Start Mitigation in Cloud Run/Spring Boot,10.55640/ijiot-05-01-07,2025,International journal of IoT,20,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Unstripping Cloud Container ELF Binaries,10.1109/ic_etc65981.2025.11141058,2025,,6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,CloudImageHunt: Large-Scale Detection and Analysis of Malicious Container Images,10.1109/etaact69135.2026.11542038,2026,,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Repairing Docker Smells with Large Language Models: An Empirical Study,10.3390/app16136805,2026,Applied Sciences,1,keep,keep,Y,keep,
+forward,"PVAC: package version activity categorizer, leveraging semantic versioning in a heterogeneous system",10.1007/s10664-025-10678-2,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Analysis and evolution of dependencies in software ecosystems,10.70675/23c6195ezb6f6z4a7dza15ez7c317c646756,2025,,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Software Supply-Chain Security of Containerized IoT Components for Sustainable Energy Systems: A Comparative Vulnerability Assessment Using Trivy and Grype,10.3390/en19163859,2026,Energies,1,keep,keep,Y,ex-①,
+forward,Janus: Coordinating Vulnerability Prevention and Exploit-Chain Mitigation for Containerized CI/CD Pipelines,10.1007/978-3-032-32767-3_9,2026,"Lecture notes of the Institute for Computer Sciences, Social Informati",27,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Design Pattern-Based Code Refactoring with LLMs,10.1109/saner67736.2026.00033,2026,"IEEE International Conference on Software Analysis, Evolution and Reen",6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Predicting Software Refactoring With a Reinforcement Learning Framework Using Deep Q Network,10.4018/ijssci.393452,2025,International Journal of Software Science and Computational Intelligen,28,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Leveraging LLMs for Detecting Security Threats in Virtual Network Functions,10.1109/cscloud66326.2025.00031,2025,IEEE International Conference on Cyber Security and Cloud Computing (C,6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Enhancing GitHub Actions Failure Explanations: Log Preprocessing and Prompt Optimization with LLMs,10.1145/3796563.3796608,2026,Innovations in Software Engineering Conference (ISEC),11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,AI-Powered Docker Image Optimization Engine,10.4018/979-8-3373-8084-1.ch005,2026,Advances in computational intelligence and robotics book series,38,ex-⑤,ex-⑤,Y,fail-in-④,
+forward,Comparative analysis of selected containerization tools in terms of MCP,10.35784/jcsi.9816,2026,Journal of Computer Sciences Institute,7,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,LLM-Based Misconfiguration Detection for AWS Serverless Computing,10.1145/3745766,2025,ACM Transactions on Software Engineering and Methodology,28,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Global Trends and Empirical Metrics in the Evaluation of Code Smells and Technical Debt: A Bibliometric Study,10.1109/access.2025.3594657,2025,IEEE Access,23,ex-④,ex-④,Y,ex-④,
+forward,High-Utility Sequential Rule Mining Utilizing Segmentation Guided by Confidence,10.1109/tkde.2026.3680101,2026,IEEE Transactions on Knowledge and Data Engineering,14,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Mining Long Tail Bugs: Identifying Rare and Overlooked Issues in Code,10.1145/3797071,2026,Proceedings of the ACM on software engineering.,24,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"Quality assurance in infrastructure as code: Issues, approaches, and open challenges",10.1016/j.jss.2026.113080,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Improving Smart Contract Vulnerability Detection With Correlation-Driven Semi-Supervised Learning,10.1109/tse.2025.3647014,2025,IEEE Transactions on Software Engineering,16,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Database Security and Performance: A Case of SQL Injection Attacks Using Docker-Based Virtualisation and Its Effect on Performance,10.3390/fi17040156,2025,Future Internet,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Best Practices Evidenced for Software Development Based on DevOps and Scrum: A Literature Review,10.3390/app15105421,2025,Applied Sciences,1,ex-④,ex-④,Y,ex-①,
+forward,From challenges to metrics: An LLM-driven DevOps recommendation system grounded in evidence-based mappings,10.1016/j.array.2025.100547,2025,Array,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Prompt2DAG: A Modular Prompting Approach for Democratizing Data Pipeline Generation,10.1109/sse67621.2025.00010,2025,IEEE International Conference on Software Services Engineering (SSE),11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Security smell detection in Dockerfiles,10.1007/s10515-026-00684-z,2026,Automated Software Engineering,,keep,keep,Y,keep,page-verify
+forward,A systematic mapping study of crowd knowledge enhanced software engineering research using Stack Overflow,10.1016/j.jss.2025.112405,2025,Journal of Systems and Software,1,ex-④,ex-④,Y,ex-①,
+forward,Exploring the black box: analysing explainable AI challenges and best practices through stack exchange discussions,10.1007/s10664-025-10710-5,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Decoding the Decoders: An Empirical Study of Reverse Engineering Questions on Stack Exchange,10.1109/tps-isa67132.2025.00032,2025,"IEEE International Conference on Trust, Privacy and Security in Intell",11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Supporting the identification of prevalent quality issues in code changes by analyzing reviewers’ feedback,10.1007/s11219-025-09720-9,2025,Software Quality Journal,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Exploring and Analyzing Software Architecture Refactoring in Practice,10.1109/tse.2025.3636150,2025,IEEE Transactions on Software Engineering,18,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Unveiling Ruby: Insights from Stack Overflow and Developer Survey,10.1145/3756681.3756955,2025,International Conference on Evaluation and Assessment in Software Engi,12,ex-④,ex-④,Y,ex-④,
+forward,An Empirical Study of Database Security Topics on Technical Social Forums of Software Developers,10.1145/3756681.3756973,2025,International Conference on Evaluation and Assessment in Software Engi,11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,How to run it? Automated setup steps generation for JavaWeb application,10.1016/j.scico.2026.103448,2026,Science of Computer Programming,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,What challenges do developers face in AI agent systems? An empirical study on Stack Overflow & GitHub issues,10.1016/j.jss.2026.113108,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,On the Use of Containers for LoRaWAN Node Virtualization: Practice and Performance Evaluation,10.3390/electronics14081568,2025,Electronics,1,keep,keep,Y,ex-①,
+forward,Monero-Based Group Covert Transmission With Fine-Grained Access Control,10.1109/tc.2025.3624019,2025,IEEE Transactions on Computers,14,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Ecosystem of Large Language Models for Code,10.1145/3731753,2025,ACM Transactions on Software Engineering and Methodology,30,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Decentralized Real-Time State Estimation in European-Type LV Grids: An Implementation Using Edge Computing,10.1109/tia.2025.3544576,2025,IEEE Transactions on Industry Applications,14,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Problem-Based Learning by Building an Incremental Web Application,10.1109/educon62633.2025.11016350,2025,IEEE Global Engineering Education Conference (EDUCON),10,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,D4C: Fast and Efficient Container Image Updating for Edge with Delta Encodings,10.23919/transcom.2024ebt0008,2025,IEICE Transactions on Communications,16,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,The Kubernetes variability model,10.1145/3715340.3715440,2025,International Working Conference on Variability Modelling of Software-,10,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Improving the nutraceutical content of tomato (Lycopersicon esculentum) by advanced environmental conditions and agricultural practices,10.62940/als.v12i1.1725,2025,Advancements in Life Sciences,1,ex-⑥,ex-⑥,Y,ex-①,
+forward,MolVE: An Open-Source Web Platform for Visualizing and Evaluating AI-Designed Molecules to Aid in Prioritization,10.1021/acs.jcim.5c02412,2026,Journal of Chemical Information and Modeling,7,ex-⑥,ex-⑥,Y,ex-⑥,
+forward,WebAssembly performance in the Node.js environment,10.7256/2454-0714.2025.2.74049,2025,Программные системы и вычислительные методы,23,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Proposal of a Web Application for the Efficient Management of Internship Projects in Higher Education: An Innovative Approach to Efficiently Manage an Ecosystem of Distributed Services,10.1007/978-3-031-93106-2_2,2025,Lecture notes in networks and systems,12,ex-⑥,ex-⑥,Y,ex-⑥,
+forward,Empowering Non-Profits Through a Collaborative Web Tool for Volunteer Developer Engagement,10.1109/icdxa69105.2025.11329616,2025,,5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Reliability Engineering Metrics in Continuous Deployment,10.1109/etcom66606.2025.11436244,2025,,6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Leadership Training Policy Implementation at Inap Timor-Leste: Diagnosing Ineffectiveness and Strengthening Bureaucratic Capacity,10.61194/ijss.v7i3.2333,2026,Ilomata International Journal of Social Science,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,SolanEdge: A Real-Time Edge-IoT Framework for Explainable Potato Disease Detection and Recommendation Using Lightweight Deep Learning,10.1007/s11540-026-10135-7,2026,Potato Research,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"Synthesis, DFT, molecular docking, and insecticidal evaluation of new pyrazole-thiazole hydrazones derivatives against Tribolium castaneum",10.1016/j.compbiolchem.2026.109455,2026,Computational Biology and Chemistry,1,ex-⑥,ex-⑥,Y,ex-①,
+forward,Dependency-Aware Reconfigurations of Kubernetes Deployments,10.1145/3837062.3838895,2026,ACM/IEEE International Conference on Model Driven Engineering Language,10,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Performance optimization model for predicting the impact of refactorings in CI/CD pipelines,10.1016/j.jss.2026.112926,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,A Co-Design Framework for Container Deployment in Mobile Edge Computing Networks,10.1109/tmc.2025.3642137,2025,IEEE Transactions on Mobile Computing,17,ex-⑤,keep,N,ex-⑤,
+forward,Web-based data visualization and management for CEE slow control system,10.1088/1748-0221/20/09/p09029,2025,Journal of Instrumentation,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Why and how developers maintain smart contracts,10.1007/s10664-025-10639-9,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,PatchScope – A Modular Tool for Annotating and Analyzing Contributions,10.1145/3713081.3731727,2025,ACM SIGSOFT International Symposium on Software Testing and Analysis (,5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,InfraFix: Technology-Agnostic Repair of Infrastructure as Code,10.1145/3713081.3731735,2025,ACM SIGSOFT International Symposium on Software Testing and Analysis (,5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption,10.1109/icse55347.2025.00118,2025,IEEE/ACM International Conference on Software Engineering (ICSE),13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Binary Repository Management: An Analysis of Artifactory within Modern DevOps Ecosystems,10.1109/ines69513.2026.11661048,2026,IEEE International Conference on Intelligent Engineering Systems (INES,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Automating Security-by-Design in Microservices via Model-Driven DevSecOps,10.1007/978-3-032-37218-5_30,2026,Lecture notes in computer science,18,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study,10.1145/3786791,2026,ACM Transactions on Software Engineering and Methodology,35,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Automated detection of algorithm debt in deep learning frameworks: an empirical study,10.1007/s10664-026-10807-5,2026,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Work",10.1145/3806391,2026,ACM Computing Surveys,35,ex-④,ex-④,Y,ex-④,
+forward,Why Software Professionals Knowingly Omit Appropriate Development Quality Practices? Control Balance Viewpoint,10.1007/s10796-026-10728-0,2026,Information Systems Frontiers,29,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A First Look at the Self-Admitted Technical Debt in Test Code: Taxonomy and Detection,10.2139/ssrn.5963911,2025,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,IMPACT: Identifying and Classifying Multiple Sourced and Categorized Self-Admitted Technical Debts,10.1145/3747180,2025,ACM Transactions on Software Engineering and Methodology,36,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A First Look at the Self-Admitted Technical Debt in Test Code: Taxonomy and Detection,10.2139/ssrn.6479525,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,Towards sustainable cloud deployments: A cost (anti)patterns catalog for terraform and CloudFormation,10.1016/j.jss.2026.112870,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Characterizing and Classifying Self-Admitted Technical Debt in Infrastructure-as-Code,10.1145/3848031,2026,ACM Transactions on Software Engineering and Methodology,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A first look at the self-admitted technical debt in test code: Taxonomy and detection,10.1016/j.jss.2026.113120,2026,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Harnessing the Power of LLMs for Code Smell Detection in Terraform Infrastructure as Code,10.1109/compsac65507.2025.00075,2025,"IEEE Annual Computers, Software, and Applications Conference (COMPSAC)",10,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,It Works (only) on My Machine: A Study on Reproducibility Smells in Ansible Scripts,10.1109/msr66628.2025.00069,2025,IEEE/ACM International Conference on Mining Software Repositories (MSR,12,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,PeH-LAA: Fine-Grained Open Source License Attitude Analysis Method Based on Parameter-Efficient Hierarchical Attention Networks,10.1109/iscait69154.2026.11477211,2026,,7,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges",10.1109/ase63991.2025.00137,2025,IEEE/ACM International Conference on Automated Software Engineering (A,13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Towards an Actionable Flakiness Score,10.1109/icst69053.2026.00028,2026,"IEEE International Conference on Software Testing, Verification and Va",5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Monitoring and Optimization of Machine Learning Workloads Using Kubernetes,10.1007/978-981-96-3250-3_8,2025,Lecture notes in networks and systems,9,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing,10.1109/icdcsw63273.2025.00024,2025,IEEE International Conference on Distributed Computing Systems Worksho,6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Measurement-Driven Approach to Enhancing Sustainability in Microservice Architectures,10.1109/icsa-c65153.2025.00031,2025,IEEE International Conference on Software Architecture Companion (ICSA,6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"GreenDevLoop: Power-Aware Software Development with CI/CD, AI, and Feedback",10.1007/978-3-032-04403-7_7,2025,Lecture notes in computer science,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Multi-Layer Digital Twin Platform with Progressive Analytics Services for Indoor Environmental Quality Management,10.2139/ssrn.6598962,2026,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,The Impact of Network Topology on Performance Metrics and Energy Consumption for Blockchains: Towards Repeatable Benchmarking,10.1145/3828757,2026,Distributed Ledger Technologies Research and Practice,,ex-⑥,ex-⑥,Y,ex-⑥,
+forward,EcoRun: Energy-aware container scheduling and resource allocation in serverless edge computing,10.1016/j.comcom.2026.108658,2026,Computer Communications,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,A survey on large language models for software engineering,10.1007/s11432-025-4670-0,2026,Science China Information Sciences,,ex-④,ex-④,Y,ex-④,
+forward,Understanding the Faults in Serverless Computing Based Applications: An Empirical Study,10.1109/icsme64153.2025.00024,2025,IEEE International Conference on Software Maintenance and Evolution (I,13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Automated Diagnosis and Testing of Game Compatibility Layers,10.1145/3803437.3804876,2026,,2,ex-⑤,ex-⑤,Y,ex-①,
+forward,Characterizing and detecting Python version incompatibilities caused by inconsistent version specifications,10.1016/j.jss.2025.112337,2025,Journal of Systems and Software,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Breaking the Dependency Chaos: A Constraint-Driven Python Dependency Resolution Strategy with Selective LLM Imputation,10.1145/3803437.3808241,2026,,4,ex-⑤,ex-⑤,Y,ex-①,
+forward,ConCloneDep: A Confidence-Aware Clone-Based Dependency Identification Approach in C/C++ Open-Source Components,10.1109/trustcom66490.2025.00103,2025,"IEEE International Conference on Trust, Security and Privacy in Comput",8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Explodox: unleashing exploit-DB data for automated exploits generation,10.1007/s11416-026-00617-0,2026,Journal of Computer Virology and Hacking Techniques,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Towards Automatically Inferring Constraints to Identify Implicit Assumptions in Data Analysis,10.1145/3786582.3786806,2026,IEEE/ACM International Conference on Software Engineering (ICSE),5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Record and Replay Methods for Software Engineering Reproducibility: A Cross-Layer Survey and Taxonomy,10.1145/3820002.3828587,2026,,12,ex-④,ex-④,Y,ex-④,
+forward,The Construction of a Stream Service Application with DeepStream and Simple Realtime Server Using Containerization for Edge Computing,10.3390/s25010259,2025,Sensors,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Tracking Security Smell Diffusion Patterns in Ansible Playbooks Using Metadata,10.1007/978-981-95-4674-9_19,2025,Lecture notes in computer science,20,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Directory of Datasets for Mining Software Repositories,10.3390/data10030028,2025,Data,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures,10.1145/3688842,2024,ACM Transactions on Software Engineering and Methodology,30,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,On combining commit grouping and build skip prediction to reduce redundant continuous integration activity,10.1007/s10664-024-10477-1,2024,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Build Issue Resolution from the Perspective of Non-Contributors,10.1145/3691620.3695304,2024,IEEE/ACM International Conference on Automated Software Engineering (A,5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,An Exploratory Study on Build Issue Resolution Among Computer Science Students,10.1109/cseet66350.2025.00025,2025,,11,ex-⑥,ex-⑥,Y,ex-⑥,
+forward,A Semantic Web-Enabled Approach for Dependency Management,10.1142/s0218194022500498,2022,International Journal of Software Engineering and Knowledge Engineerin,37,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Representação Baseada em Grafos de Infraestrutura como Código: Possibilitando o Raciocínio Semântico para Sistemas Conteinerizados,10.5753/sbrc.2026.19490,2026,,14,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,10.1145/3736731.3786119,10.1145/3736731.3786119,2000,Time to knit,,fail-in-③,fail-in-③,Y,fail-in-③,
+forward,What is an app store? The software engineering perspective,10.1007/s10664-023-10362-3,2024,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"Multi-Grained Trace Collection, Analysis, and Management of Diverse Container Images",10.1109/tc.2024.3383966,2024,IEEE Transactions on Computers,13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Practitioners' Perceptions of Security Issues in Software Containers: A Qualitative Study,10.1109/seaa64295.2024.00071,2024,Euromicro Conference on Software Engineering and Advanced Applications,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Exploring Solutions for Container Image Security,10.1109/uemcon59035.2023.10316032,2023,"IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication C",7,keep,keep,Y,ex-⑤,
+forward,Infrastructure-as-Code Ecosystems,10.1007/978-3-031-36060-2_9,2023,Springer eBooks,31,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Gear: Enable Efficient Container Storage and Deployment with a New Image Format,10.1109/icdcs51616.2021.00020,2021,IEEE International Conference on Distributed Computing Systems (ICDCS),11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Systematic Literature Review on Maintenance of Software Containers,10.1145/3645092,2024,ACM Computing Surveys,38,ex-④,ex-④,Y,ex-④,
+forward,Containers in Software Development: A Systematic Mapping Study,10.1007/978-3-030-35333-9_13,2019,Lecture notes in computer science,16,ex-④,ex-④,Y,ex-④,
+forward,Automatic Observability for Dockerized Java Applications,10.48550/arxiv.1912.06914,2019,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,Static Analysis of File Manipulation Scripts,10.1109/prdc47002.2019.00039,2019,IEEE Pacific Rim International Symposium on Dependable Computing (PRDC,1064,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,An Exploration Study On the Dependency Among Vulnerabilities and Bugs,10.1109/apsec53868.2021.00074,2021,Proceedings - Asia Pacific Software Engineering Conference/Proceedings,2,ex-⑤,ex-⑤,Y,ex-①,
+forward,A Web-Based Docker Image Assistant Generation Tool for User-PC Computing System,10.3390/info14060300,2023,Information,1,keep,keep,Y,ex-①,
+forward,PExReport: Automatic Creation of Pruned Executable Cross-Project Failure Reports,10.1109/icse48619.2023.00027,2023,IEEE/ACM International Conference on Software Engineering (ICSE),12,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,SateLight: A Satellite Application Update Framework for Satellite Computing,10.1109/ase63991.2025.00018,2025,IEEE/ACM International Conference on Automated Software Engineering (A,12,ex-⑥,ex-⑥,Y,ex-⑥,
+forward,Six Open Challenges for Production-Ready Cloud-Native Security Orchestration,10.1109/isda70544.2026.11606146,2026,,7,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Demystifying the vulnerability propagation and its evolution via dependency trees in the NPM ecosystem,10.1145/3510003.3510142,2022,Proceedings/Proceedings - International Conference on Software Enginee,13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies,10.1109/tse.2020.3025443,2020,IEEE Transactions on Software Engineering,18,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Modular call graph construction for security scanning of Node.js applications,10.1145/3460319.3464836,2021,ACM SIGSOFT International Symposium on Software Testing and Analysis (,13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,An Empirical Study of Dependency Downgrades in the npm Ecosystem,10.1109/tse.2019.2952130,2019,IEEE Transactions on Software Engineering,14,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Technical Lag of Dependencies in Major Package Managers,10.1109/apsec51365.2020.00031,2020,Proceedings - Asia Pacific Software Engineering Conference/Proceedings,10,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Toward Automated Exploit Generation for Known Vulnerabilities in Open-Source Libraries,10.1109/icpc52881.2021.00046,2021,IEEE/ACM International Conference on Program Comprehension (ICPC),5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Plumber: Boosting the Propagation of Vulnerability Fixes in the npm Ecosystem,10.1109/tse.2023.3243262,2023,IEEE Transactions on Software Engineering,27,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,On the Discoverability of npm Vulnerabilities in Node.js Projects,10.1145/3571848,2022,ACM Transactions on Software Engineering and Methodology,27,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Survey on Common Threats in npm and PyPi Registries,10.1007/978-3-030-87839-9_6,2021,Communications in computer and information science,25,ex-④,ex-④,Y,ex-④,
+forward,Insight: Exploring Cross-Ecosystem Vulnerability Impacts,10.1145/3551349.3556921,2022,IEEE/ACM International Conference on Automated Software Engineering (A,13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Investigating the Resolution of Vulnerable Dependencies with Dependabot Security Updates,10.1109/msr59073.2023.00042,2023,IEEE/ACM International Conference on Mining Software Repositories (MSR,13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Securing dependencies: A comprehensive study of Dependabot’s impact on vulnerability mitigation,10.1007/s10664-025-10638-w,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Understanding the NPM Dependencies Ecosystem of a Project Using Virtual Reality,10.1109/vissoft60811.2023.00019,2023,IEEE Working Conference on Software Visualization (VISSOFT),11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Vulnerable JavaScript functions detection using stacking of convolutional neural networks,10.7717/peerj-cs.1838,2024,PeerJ Computer Science,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,On the Threat of npm Vulnerable Dependencies in Node.js Applications,10.48550/arxiv.2009.09019,2020,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,A Survey on Common Threats in npm and PyPi Registries,10.48550/arxiv.2108.09576,2021,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,An efficient image security mechanism for data handling and key priorities,10.19101/tis.2019.414004,2019,ACCENTS Transactions on Information Security,6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Studying Dependency Updates and a Framework for Multi-Versioning in Docker Containers,10.7939/r3-0hg2-5p77,2020,ERA: Education and Research Archive (University of Alberta),,keep,keep,Y,fail-in-④,page-verify
+forward,The Impact of the Evolution of Operating Systems on Older Web Applications,10.1007/978-3-031-52524-7_2,2024,"Lecture notes of the Institute for Computer Sciences, Social Informati",13,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Boosting the Propagation of Vulnerability Fixes in the npm Ecosystem,10.1007/978-981-96-1797-5_8,2024,Springer eBooks,54,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Exploring Cross Ecosystem Vulnerability Impacts,10.1007/978-981-96-1797-5_7,2024,Springer eBooks,29,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Uncover the Risks of Outdated Dependencies in Software Supply Chains: Insights from the npm Ecosystem,10.1007/978-3-032-00828-2_22,2025,Lecture notes in computer science,21,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Comprehensive Study of the Lifecycle of Dormant npm Packages,10.1007/s10664-025-10753-8,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Tool for Learning About Outdated Software Vulnerabilities and End-of-Life,10.1007/978-3-032-26616-3_7,2026,IFIP advances in information and communication technology,16,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Case Study on Virtual HPC Container Clusters and Machine Learning Applications,10.3390/app15137433,2025,Applied Sciences,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Quantifying and characterizing clones of self-admitted technical debt in build systems,10.1007/s10664-024-10449-5,2024,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,"Nearest‐neighbor, BERT‐based, scalable clone detection: A practical approach for large‐scale industrial code bases",10.1002/spe.3355,2024,Software Practice and Experience,26,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A comprehensive review on code clone detection techniques,10.1063/5.0285785,2026,AIP conference proceedings,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Dockerized Architecture for a Progressive Web App: An Italian Collocations Dictionary,10.1007/978-3-031-97617-9_3,2025,Lecture notes in computer science,11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,VWA-6G AI assisted continuous security monitoring over open RAN service management orchestration,10.1016/j.cose.2025.104566,2025,Computers & Security,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Table of Contents,10.1109/sose58276.2023.00004,2023,IEEE International Conference on Service-Oriented System Engineering (,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,LiScopeLens: An Open-Source License Incompatibility Analysis Tool Based on Scope Representation of License Terms,10.1109/issre62328.2024.00013,2024,IEEE International Symposium on Software Reliability Engineering (ISSR,12,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Towards a comprehensive framework for verifying open-source software license compatibility,10.1007/s10664-025-10751-w,2025,Empirical Software Engineering,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Deployment and verification of machine learning tool-chain based on kubernetes distributed clusters,10.1007/s42514-021-00065-w,2021,CCF Transactions on High Performance Computing,14,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Investigating the impact of microservice-oriented platform configurations on application performance,10.35784/jcsi.6090,2024,Journal of Computer Sciences Institute,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Characterizing and Codifying Malware Sophistication,10.1109/ietc69527.2026.11568673,2026,"Intermountain Engineering, Technology and Computing (IETC)",6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Exploiting dynamic analysis for architectural smell detection: a preliminary study,10.1109/seaa56994.2022.00051,2022,Euromicro Conference on Software Engineering and Advanced Applications,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,A Review of Bad Smells in Cloud-based Applications and Microservices,10.1109/icicas53977.2021.00059,2021,"International Conference on Intelligent Computing, Automation and Syst",5,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Déploiement efficace d'applications cloud dans les infrastructures fog distribuées,10.70675/408ea09cz67a2z4947zaca0z6dc18db265b7,2020,,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,IoT Service Slicing and Task Offloading for Edge Computing,10.1109/jiot.2021.3052498,2021,IEEE Internet of Things Journal,22,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Virtual IoT Service Slice Functions for Multiaccess Edge Computing Platform,10.1109/jiot.2021.3051652,2021,IEEE Internet of Things Journal,16,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Container-Based Support for Autonomic Data Stream Processing Through the Fog,10.1007/978-3-319-75178-8_2,2018,Lecture notes in computer science,12,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Smart Infrastructures: Artificial Intelligence-Enabled Lifecycle Automation,10.1109/mie.2022.3165673,2022,IEEE Industrial Electronics Magazine,11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Offline Mining of Microservice-Based Architectures (Extended Version),10.1007/s42979-023-01721-4,2023,SN Computer Science,,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Particle Swarm Optimization Algorithm for Container Deployment,10.1088/1742-6596/1544/1/012020,2020,Journal of Physics Conference Series,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Integration With Docker Container Technologies for Distributed and Microservices Applications,10.4018/ijssoe.297136,2022,International Journal of Systems and Service-Oriented Engineering,22,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,IoT service slicing and task offloading for edge computing,10.48550/arxiv.2008.10210,2020,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,
+forward,Analysing and Deploying (Micro)service-Based Applications,10.1007/978-3-030-63161-1_14,2020,Communications in computer and information science,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Tackling Cold Start in Serverless Computing with Multi-Level Container Reuse,10.1109/ipdps57955.2024.00017,2024,Proceedings - IEEE International Parallel and Distributed Processing S,11,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Fault-Tolerant Trust-Based Task Scheduling Algorithm Using Harris Hawks Optimization in Cloud Computing,10.3390/s23188009,2023,Sensors,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Enhancing Security and Trust in Internet of Things through Meshtastic Protocol Utilising Low-Range Technology,10.3390/electronics13061055,2024,Electronics,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,LWN Simulator - A LoRaWAN Network Simulator,10.1109/wetice57085.2023.10477816,2023,IEEE International Conference on Enabling Technologies: Infrastructure,6,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Automatic tuning of radio stations based on listener’s preference using Software Defined Radio and MATLAB,10.1016/j.engappai.2024.109117,2024,Engineering Applications of Artificial Intelligence,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,Enhancing LoRaWAN Simulator for Real-World Integration and Research Experimentation,10.1109/picom68402.2025.00019,2025,,8,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,Enhancing fault tolerance: dual Q-learning with dynamic scheduling,10.11591/ijeecs.v33.i2.pp1150-1168,2024,Indonesian Journal of Electrical Engineering and Computer Science,1,ex-⑤,ex-⑤,Y,ex-①,
+forward,A Few to Unveil Them All: Leveraging Mixture of Experts on Minimal Data for Detecting Covert Channels in Containerized Cloud Infrastructures,10.1109/eurospw61312.2024.00090,2024,IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),9,ex-⑤,ex-⑤,Y,ex-⑤,
+forward,KubePhaistos: An Automated Framework for Enhancing File Access Policies in Containerized Environments,10.2139/ssrn.5784173,2025,SSRN Electronic Journal,,fail-in-④,fail-in-④,Y,fail-in-④,
+backward,containerit: Generating Dockerfiles for reproducible research with R,10.21105/joss.01603,2019,The Journal of Open Source Software,1,keep,keep,Y,ex-①,
+backward,Ten simple rules for writing Dockerfiles for reproducible data science,10.1371/journal.pcbi.1008316,2020,PLoS Computational Biology,,keep,keep,Y,ex-④,page-verify
+backward,Container-Based Performance Isolation for Multi-Tenant SaaS Applications in Micro-Service Architecture,10.1088/1742-6596/1486/5/052032,2020,Journal of Physics Conference Series,1,ex-⑤,ex-⑤,Y,ex-①,
+backward,"A Container Security Survey: Exploits, Attacks, and Defenses",10.1145/3715001,2025,ACM Computing Surveys,36,ex-④,ex-④,Y,ex-④,
+backward,Static Vulnerability Analysis of Docker Images,10.1088/1757-899x/1131/1/012018,2021,IOP Conference Series Materials Science and Engineering,1,keep,keep,Y,ex-④,
+backward,Container Security in Cloud Environments: A Comprehensive Analysis and Future Directions for DevSecOps,10.3390/engproc2023059057,2023,,1,keep,keep,Y,ex-①,
+backward,Containers Runtimes War: A Comparative Study,10.1007/978-3-030-63089-8_9,2020,Advances in intelligent systems and computing,27,ex-⑤,ex-⑤,Y,ex-⑤,
+backward,Implementation and Analysis of Container Image Optimization Using Alpine Linux and Multi-Stage Builds,10.34148/teknika.v14i1.1118,2025,Teknika,10,keep,keep,Y,ex-⑤,
+backward,CONTAIN4n6: a systematic evaluation of container artifacts,10.1186/s13677-022-00303-8,2022,Journal of Cloud Computing Advances Systems and Applications,,ex-⑤,ex-⑤,Y,ex-⑤,
+backward,Self-Adaptive Secure Mechanism for Containers,10.1109/mysurucon55714.2022.9972505,2022,IEEE Mysore Sub Section International Conference (MysuruCon),6,ex-⑤,ex-⑤,Y,ex-⑤,
+backward,Gear: Enable Efficient Container Storage and Deployment with a New Image Format,10.1109/icdcs51616.2021.00020,2021,IEEE International Conference on Distributed Computing Systems (ICDCS),11,ex-⑤,ex-⑤,Y,ex-⑤,
+backward,"Docker : build, ship, and run any app, anywhere",,2017,DR-NTU (Nanyang Technological University),,fail-in-④,fail-in-④,Y,fail-in-④,
+backward,Understanding the Quality of Container Security Vulnerability Detection Tools,10.48550/arxiv.2101.03844,2021,arXiv (Cornell University),,fail-in-④,fail-in-④,Y,fail-in-④,
+backward,CNTR: lightweight OS containers,,2018,Edinburgh Research Explorer (University of Edinburgh),14,ex-⑤,ex-⑤,Y,ex-⑤,
+backward,Representing Dockerfiles in RDF.,,2017,Ghent University Academic Bibliography (Ghent University),4,ex-⑤,ex-⑤,Y,ex-①,
+backward,Smart Container: an Ontology Towards Conceptualizing Docker.,,2015,International Semantic Web Conference,,ex-⑤,ex-⑤,Y,ex-⑤,
+backward,DockerPedia: a knowledge graph for Docker images,10.6084/m9.figshare.6108482,2018,Figshare,,keep,keep,Y,fail-in-④,page-verify
+backward,A Study on the Security Implications of Information Leakages in Container Clouds,10.1109/tdsc.2018.2879605,2018,IEEE Transactions on Dependable and Secure Computing,18,keep,keep,Y,ex-⑤,
+backward,"Containers for Portable, Productive, and Performant Scientific Computing",10.1109/mcse.2017.2421459,2017,Computing in Science & Engineering,11,ex-⑤,ex-⑤,Y,ex-⑤,

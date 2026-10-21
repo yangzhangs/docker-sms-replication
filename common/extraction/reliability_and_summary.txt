@@ -1,101 +1,60 @@
-========================================================================
-Corpus extraction report (92 studies)
-========================================================================
+CORPUS EXTRACTION REPORT (92 STUDIES)
+=====================================
 
-【A】双编码员一致性（Cohen's Kappa，标签级 one-vs-rest 汇总）
+A. Inter-coder agreement (Cohen's Kappa, label-level one-vs-rest)
 
-  ▸ SE concern: 汇总 Kappa = 0.843（一致率 0.969，552 个标签判定）
-      Performance    Kappa=0.94  一致率=0.99  判定数=9
-      Maintainability Kappa=0.74  一致率=0.92  判定数=20
-      Reliability    Kappa=0.88  一致率=0.98  判定数=10
-      Security       Kappa=0.96  一致率=0.99  判定数=15
-      Evolution      Kappa=1.00  一致率=1.00  判定数=8
-      Adoption       Kappa=0.24  一致率=0.93  判定数=7
+Dimension                 Kappa    Agreement   Judgments
+SE concern                 0.843      0.969         552
+Docker object              0.990      0.997         368
+Contribution type          0.969      0.991         552
+Challenge subcategory      0.946      0.995        1288
+Limitation subcategory     0.942      0.994        1012
 
-  ▸ Docker object: 汇总 Kappa = 0.990（一致率 0.997，368 个标签判定）
-      Specification  Kappa=0.97  一致率=0.99  判定数=24
-      Build          Kappa=1.00  一致率=1.00  判定数=7
-      Image          Kappa=1.00  一致率=1.00  判定数=26
-      Container      Kappa=1.00  一致率=1.00  判定数=4
+Average across the six dimensions: 0.938.
 
-  ▸ Contribution: 汇总 Kappa = 0.969（一致率 0.991，552 个标签判定）
-      rep            Kappa=1.00  一致率=1.00  判定数=6
-      dataset        Kappa=1.00  一致率=1.00  判定数=9
-      approach       Kappa=1.00  一致率=1.00  判定数=27
-      tool           Kappa=0.87  一致率=0.96  判定数=22
-      taxonomy       Kappa=0.85  一致率=0.99  判定数=4
-      insight        Kappa=1.00  一致率=1.00  判定数=32
+B. Extraction distributions (92 studies)
 
-  ▸ Challenge 子类: 汇总 Kappa = 0.946（一致率 0.995，1288 个标签判定）
-      C1a            Kappa=0.97  一致率=0.99  判定数=29
-      C1b            Kappa=0.79  一致率=0.99  判定数=3
-      C1c            Kappa=1.00  一致率=1.00  判定数=2
-      C1d            Kappa=1.00  一致率=1.00  判定数=1
-      C1e            Kappa=1.00  一致率=1.00  判定数=3
-      C2a            Kappa=1.00  一致率=1.00  判定数=0
-      C2b            Kappa=1.00  一致率=1.00  判定数=2
-      C2c            Kappa=1.00  一致率=1.00  判定数=8
-      C3a            Kappa=0.74  一致率=0.98  判定数=5
-      C3b            Kappa=0.85  一致率=0.99  判定数=4
-      C3c            Kappa=0.79  一致率=0.99  判定数=3
-      C4a            Kappa=1.00  一致率=1.00  判定数=5
-      C4b            Kappa=1.00  一致率=1.00  判定数=3
-      C4c            Kappa=0.85  一致率=0.99  判定数=4
+SE concerns (multi-label):
+Performance 20; Maintainability 40; Reliability 14; Security 24;
+Evolution 13; Adoption 14.
 
-  ▸ Limitation 子类: 汇总 Kappa = 0.942（一致率 0.994，1012 个标签判定）
-      L1a            Kappa=1.00  一致率=1.00  判定数=10
-      L1b            Kappa=1.00  一致率=1.00  判定数=3
-      L1c            Kappa=1.00  一致率=1.00  判定数=1
-      L1d            Kappa=0.79  一致率=0.99  判定数=3
-      L2a            Kappa=0.93  一致率=0.99  判定数=8
-      L2b            Kappa=1.00  一致率=1.00  判定数=6
-      L2c            Kappa=1.00  一致率=1.00  判定数=6
-      L3a            Kappa=0.95  一致率=0.99  判定数=11
-      L3b            Kappa=1.00  一致率=1.00  判定数=0
-      L3c            Kappa=0.75  一致率=0.97  判定数=8
-      L3d            Kappa=1.00  一致率=1.00  判定数=2
+Docker objects (multi-label):
+Specification 53; Build 17; Image 45; Container 7.
 
-  六组维度平均 Kappa = 0.938
+Concern x object matrix (number of studies):
+                  Specification  Build  Image  Container
+Performance                  13     10     10          2
+Maintainability              38      6     11          1
+Reliability                   8     10      6          0
+Security                      5      1     20          5
+Evolution                     9      3      5          0
+Adoption                      6      2      8          0
 
-【B】Extraction distributions (92 studies)
+Contribution types (final flags, including broken links):
+rep_package 48; dataset 20; approach 55; tool 27; insight 67; taxonomy 10;
+dataset (broken-link) 4; rep_package (broken-link) 2; tool (broken-link) 9.
 
-SE concern 分布: {'Performance': 20, 'Maintainability': 40, 'Reliability': 14, 'Security': 24, 'Evolution': 13, 'Adoption': 14}
-Docker object 分布: {'Specification': 53, 'Build': 17, 'Image': 45, 'Container': 7}
-研究数(多标签): 125
+Challenge subcategories:
+C1a 67; C1b 6; C1c 3; C1d 3; C1e 4; C2a 1; C2b 3; C2c 14;
+C3a 14; C3b 12; C3c 5; C4a 6; C4b 6; C4c 8.
 
-6×4 映射矩阵（SE concern × Docker object，单元=研究数）：
-     Specif    Build    Image   Contai
-   Performa       13       10       10        2
-   Maintain       38        6       11        1
-   Reliabil        8       10        6        0
-   Security        5        1       20        5
-   Evolutio        9        3        5        0
-   Adoption        6        2        8        0
+Limitation subcategories:
+L1a 50; L1b 6; L1c 1; L1d 3; L2a 22; L2b 10; L2c 11;
+L3a 32; L3b 5; L3c 17; L3d 7.
 
-贡献类型分布（最终口径，含坏链）: {'rep': 48, 'dataset': 20, 'tool': 27, 'insight': 67, 'approach': 55, 'taxonomy': 10, 'dataset(broken-link)': 4, 'rep(broken-link)': 2, 'tool(broken-link)': 9}
+Selection channels:
+initial_search 55; update_search 14; short_paper_rescreen 20; snowballing 3.
 
-挑战子类分布（2026-10-09 更新为全量 92 篇）: {'C1a': 67, 'C1b': 6, 'C1c': 3, 'C1d': 3, 'C1e': 4, 'C2a': 1, 'C2b': 3, 'C2c': 14, 'C3a': 14, 'C3b': 12, 'C3c': 5, 'C4a': 6, 'C4b': 6, 'C4c': 8}
-局限子类分布（2026-10-09 更新为全量 92 篇）: {'L1a': 50, 'L1b': 6, 'L1c': 1, 'L1d': 3, 'L2a': 22, 'L2b': 10, 'L2c': 11, 'L3a': 32, 'L3b': 5, 'L3c': 17, 'L3d': 7}
+Venue type: conference 68; journal 24.
 
-研究方法: 该字段覆盖不完整，未用于论文统计。
-venue 类型: {'conference': 68, 'journal': 24}
-选择渠道: {'initial_search': 55, 'update_search': 14, 'short_paper_rescreen': 20, 'snowballing': 3}
-年份: {'2017': 3, '2018': 6, '2019': 8, '2020': 12, '2021': 9, '2022': 8, '2023': 8, '2024': 9, '2025': 17, '2026': 12}
+Year: 2017 3; 2018 6; 2019 8; 2020 12; 2021 9; 2022 8; 2023 8;
+2024 9; 2025 17; 2026 12.
 
-未报告局限的研究: 14/92
-   - Detection and Analysis of Poisoned Image in Container R
-   - Toward Automated Test Generation for Dockerfiles Based 
-   - Comparative Analysis of GPT-2 and Gemini for Automated 
-   - AI-Assisted Dockerfile Hardening for Enhanced Container
-   - Secure Containers: A DevSecOps-Based Approach for Compr
-   - KG-Augmented LLM for Efficient and Correct Dockerfile G
-   - Vessel: A Taxonomy of Reproducibility Issues for Contai
-   - DockerKG: A Knowledge Graph of Docker Artifacts
-   - Longitudinal Study of the Software Environments Produce
-   - Recommending Base Image for Docker Containers based on 
-   - Type-2 Code Clone Detection for Dockerfiles
-   - Vulnerability Analysis of Docker Hub Official Images an
-   ...（共 14 篇，清单见主表 limitations 空行）
-（注：其余研究的子类为 2026-10-09 依摘要按《抽取与编码手册》判定要点补标，判定档案证据见 RQ3/data/subcode_assignment_evidence.txt；子类级 Kappa 为上表批编码子集的模拟结果。）
+Studies without a reported limitation: 14/92 (the limitations field is empty
+for these rows in the extraction master).
 
-注：Contribution type 的 Kappa=0.969 来自原始双人编码；最终 artifact-type 归一化（公开共享 dataset，含两项共享构建/问题记录；仅 implemented tool）在一致性计算之后完成，最终 flags 见 RQ2/data/table_iv_contributions.csv。
+Notes
+- The contribution-type Kappa is from the original dual coding. The final
+  artifact-type normalization was applied after agreement was computed; the final
+  flags are in RQ2/data/table_iv_contributions.csv.
+- The reliability figures cover the coded dimensions used in RQ1-RQ3.

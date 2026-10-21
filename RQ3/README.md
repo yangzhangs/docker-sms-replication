@@ -9,8 +9,6 @@ at least one subcategory for each category to which it is mapped.
   with code, name, P list, and count.
 - `data/rq3_category_summary.csv`: category counts and number of subcategories.
 - `data/rq3_subcategory_summary.csv`: subcategory counts and P lists.
-- `data/subcode_assignment_evidence.txt`: evidence notes for the retrospective
-  subcategory assignments.
 
 Category counts are C1 71, C2 18, C3 31, C4 19, L1 53, L2 35, L3 59. The
 subcategory lists are checked against the `challenges` and `limitations` fields in

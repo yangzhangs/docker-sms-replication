@@ -1,104 +1,120 @@
-# 抽取与编码手册（定稿）
+# Extraction and coding manual
 
-> 适用：全部 92 篇研究的全文抽取与编码；确定性字段从发表论文表格重建，RQ3 原文摘录按本手册同口径补录。
-> 双人模拟协议与本手册配套：编码员 A（严格，需原文证据）/ B（包容，合理推断可标 weak）→ 仲裁 → 高级审查；过程数据逐条留档。
+This manual defines the codes used for all 92 primary studies. Metadata fields were
+reconstructed from the published tables; RQ3 evidence was coded with the same rules.
 
----
+## 1. Metadata and extraction fields
 
-## 一、字段定义与规则
+- `selection_channel`: initial search, update search, short-paper re-screening, or snowballing.
+- `zotero_key`, `title`, `year`, `venue_type`, `venue_name`
+- `concerns`: RQ1 SE concerns (multi-label).
+- `objects`: RQ1 Docker objects (multi-label).
+- `rep_package`, `dataset`, `approach`, `tool`, `taxonomy`, `insight`: RQ2 contribution types.
+- `challenges`: RQ3 challenge categories and subcategories (multi-label).
+- `limitations`: RQ3 limitation categories and subcategories (multi-label).
+- `research_method`: one label from the scheme in Section 6.
+- `*_A`, `*_B`: independent coders' labels for reliability checks.
 
-### 1. 元数据（确定性，脚本已填）
-- selection_channel / zotero_key / title / year / venue_type / venue_name
+## 2. SE concerns (RQ1, multi-label)
 
-### 2. SE concern（RQ1，多标签，6 类）——**须有全文写明的证据**
-| 标签 | 判定要点 |
+A label is assigned only when the concern is a primary claim in the paper's research
+questions, abstract, or conclusions; background mentions are not coded.
+
+| Code | Definition |
 |---|---|
-| Performance | 关注构件的性能/资源效率（体积、构建时长、启动、开销） |
-| Maintainability | 关注可维护性（气味、重构、技术债、配置质量、演化维护成本） |
-| Reliability | 关注可靠/容错（构建失败、flakiness、故障修复、可恢复性） |
-| Security | 关注安全（漏洞、供应链、投毒、许可合规、信息泄漏——限 **Docker 工件层面**） |
-| Evolution | 关注随时间演化（版本更新、变更模式、技术滞后、纵向分析） |
-| Adoption | 关注采纳/使用（为什么用、怎么用、开发者实践、生态调查） |
+| Performance | Performance or resource efficiency of Docker artifacts, including image size, build time, startup, and runtime overhead. |
+| Maintainability | Maintainability, including smells, refactoring, technical debt, configuration quality, and maintenance cost. |
+| Reliability | Reliability and fault tolerance, including build failures, flakiness, repair, and recoverability. |
+| Security | Security at the Docker-artifact level, including vulnerabilities, supply chain, poisoning, licensing, and information leakage. |
+| Evolution | Change over time, including version updates, change patterns, technical lag, and longitudinal analysis. |
+| Adoption | Adoption and use, including motivations, developer practices, and ecosystem surveys. |
 
-规则：**primary-claim 证据**（研究问题/摘要/结论中作为核心主张出现）方可标；仅背景提及不标。
+## 3. Docker objects (RQ1, multi-label)
 
-### 3. Docker object（RQ1，多标签，4 类）
-| 标签 | 判定要点 |
+| Code | Definition |
 |---|---|
-| Specification | Dockerfile / docker-compose / 构建脚本等**配置文本** |
-| Build | 构建过程/构建系统（build 阶段行为、失败、缓存） |
-| Image | 镜像与镜像生态（层、标签、registry/Hub、元数据） |
-| Container | 运行时容器（部署、运行行为；该对象研究数量少） |
+| Specification | Configuration text such as Dockerfiles, Compose files, and build scripts. |
+| Build | The build process or build system, including build-stage behavior, failures, and caching. |
+| Image | Images and the image ecosystem, including layers, tags, registries, and image metadata. |
+| Container | Running containers, including deployment and runtime behavior. This object is sparsely studied. |
 
-### 4. Contribution type（RQ2，多标签 6 类，含证据核对）
-- **rep_package**：是否提供复现包（URL 有效=Y；声明但坏链/无链接=broken-link）
-- **dataset / tool / taxonomy**：同上（下载/访问可用性核验，2026-10 时点）
-- **approach**：提出方法/技术/流程
-- **insight**：实证洞见（描述性/解释性发现）
-- **artifact_details**：名称/一句话描述/URL（进 Table IV–VI）
+## 4. Contribution types (RQ2, multi-label)
 
-### 5. RQ3 挑战（C1–C4 + 子类）与局限（L1–L3 + 子类）
-**大类（沿用既有定义）**：
-- C1 高级工具与方法需求（Development of advanced tooling and methodologies）
-- C2 数据与知识缺口（Bridging data and knowledge gaps）
-- C3 开发者实践理解与支持（Understanding and supporting developer practices）
-- C4 安全与供应链威胁应对（Addressing security and supply chain threats）
-- L1 数据与样本偏差（Threats to validity from data and sample bias）
-- L2 定义与测量的主观性（Subjectivity and imperfections in definitions and measurements）
-- L3 方法与分析约束（Methodological and analytical constraints）
+| Code | Definition |
+|---|---|
+| rep_package | A replication package is declared. A valid URL is `Y`; a declared but broken or missing link is `broken-link`. |
+| dataset | A released or shared data collection. For new additions, the collection must be a Docker-artifact corpus; two shared build/issue collections are retained for continuity. |
+| tool | An implemented tool, not merely a conceptual framework or proposed approach. |
+| taxonomy | A structured classification of concepts, artifacts, problems, or practices. |
+| approach | A method, technique, workflow, or analytical procedure. |
+| insight | An empirical or explanatory finding. |
 
-**子类方案（WP5.1 定稿，判"哪种不够用/不够准"）**：
-| 大类 | 子类代码 | 判定要点 |
+Artifact availability was checked at the time of extraction. A declaration without a
+working link remains a declaration, but its link status is recorded as `broken-link`.
+
+## 5. Challenge and limitation taxonomy (RQ3)
+
+### 5.1 Major categories
+
+- **C1**: Development of advanced tooling and methodologies.
+- **C2**: Bridging data and knowledge gaps.
+- **C3**: Understanding and supporting developer practices.
+- **C4**: Addressing security and supply-chain threats.
+- **L1**: Threats to validity from data and sample bias.
+- **L2**: Subjectivity and imperfections in definitions and measurements.
+- **L3**: Methodological and analytical constraints.
+
+### 5.2 Subcategories
+
+| Category | Code | Definition |
 |---|---|---|
-| C1 | C1a | 复杂修复/重构自动化（多步、语义感知的修复工具缺失） |
-| C1 | C1b | 多目标优化与权衡支持（体积×安全×可维护性权衡无工具） |
-| C1 | C1c | 开发者工作流集成（IDE/CI 实时反馈、可操作性不足） |
-| C1 | C1d | 预测性分析（构建结果/时长/漏洞传播的预测能力） |
-| C1 | C1e | 评测基准与可比较性缺失（无共享 benchmark/评测规范） |
-| C2 | C2a | 规模与多样性不足（样本小、平台单一） |
-| C2 | C2b | 时间维度缺失（无纵向/演化数据） |
-| C2 | C2c | 知识库缺失（缺少结构化知识/问答资源） |
-| C3 | C3a | 动机/"为什么"研究缺失（开发者为何如此写/改） |
-| C3 | C3b | 权衡决策无指南（实践选择缺证据支持的指导） |
-| C3 | C3c | 工具可用性与采纳障碍（学习成本、集成成本） |
-| C4 | C4a | 供应链与投毒防御（含 LLM 生成引入的新型攻击面） |
-| C4 | C4b | 滞后感知的更新决策（技术滞后×漏洞×破坏性更新的决策支持） |
-| C4 | C4c | 可利用性与传播（漏洞可利用性评估、传播分析） |
-| L1 | L1a | 平台抽样框偏差（GitHub/Docker Hub 便利样本） |
-| L1 | L1b | 流行度过滤偏差（星级/下载数过滤） |
-| L1 | L1c | 静态快照时间有效性（一次性抓取不代表持续状态） |
-| L1 | L1d | 采集不完整（API 限制、标签/字段缺失） |
-| L2 | L2a | 构念定义主观性（气味/重构/技术债定义不一） |
-| L2 | L2b | 依赖外部工具规则集（hadolint 等规则集即"真值"） |
-| L2 | L2c | 代理测量不当（用代理指标代替目标构念） |
-| L3 | L3a | 场景简化（排除多阶段构建、私有 registry 等） |
-| L3 | L3b | 分析粒度受限（文件/项目级粗粒度） |
-| L3 | L3c | 依赖外部系统（扫描器/CI 平台数据不可得） |
-| L3 | L3d | 设计无因果推断（横断面相关 vs 因果） |
+| C1 | C1a | Complex repair and refactoring automation: multi-step, semantics-aware repair is missing. |
+| C1 | C1b | Multi-objective optimization and trade-off support, for example size, security, and maintainability. |
+| C1 | C1c | Developer-workflow integration, including IDE or CI feedback and actionability. |
+| C1 | C1d | Predictive analysis for build outcomes, duration, or vulnerability propagation. |
+| C1 | C1e | Benchmarks and comparability: shared benchmarks or evaluation protocols are missing. |
+| C2 | C2a | Insufficient scale or diversity of data. |
+| C2 | C2b | Missing temporal dimension or longitudinal data. |
+| C2 | C2c | Missing structured knowledge bases or curated resources. |
+| C3 | C3a | Missing motivation and "why" studies of developer behavior. |
+| C3 | C3b | Missing guidance for trade-off decisions. |
+| C3 | C3c | Tool usability and adoption barriers. |
+| C4 | C4a | Supply-chain and poisoning defense, including new attack surfaces introduced by generated artifacts. |
+| C4 | C4b | Lag-aware update decisions combining technical lag, vulnerabilities, and breaking changes. |
+| C4 | C4c | Exploitability and propagation of vulnerabilities. |
+| L1 | L1a | Platform sampling-frame bias, such as convenience samples from GitHub or Docker Hub. |
+| L1 | L1b | Popularity-filter bias, such as star or download thresholds. |
+| L1 | L1c | Static-snapshot time validity. |
+| L1 | L1d | Incomplete collection due to API limits or missing fields. |
+| L2 | L2a | Subjective construct definitions, such as smells, refactorings, or technical debt. |
+| L2 | L2b | Dependence on external rule sets, such as a linter's rules. |
+| L2 | L2c | Imperfect proxy measures for the target construct. |
+| L3 | L3a | Scenario simplification, such as excluding multi-stage builds or private registries. |
+| L3 | L3b | Limited analysis granularity. |
+| L3 | L3c | Dependence on external systems or data sources. |
+| L3 | L3d | No causal inference from a cross-sectional design. |
 
-规则：每条挑战/局限标 1 个主类（多类可并存，如 C1+C3 各标）；**子类为多标签**；每子类须附**一句原文摘录**（引号原文 ≤25 词 + 页码）。
+A study may receive multiple challenge and limitation labels. Each subcategory
+assignment is supported by a source excerpt in the extraction record.
 
-### 6. research_method（单标签，从论文取材）
-选项：Mining Study（实证挖掘）/ Case Study / Experiment / Tool Development / Survey·Interview / Mixed / Conceptual（框架/综述性构建）。
+## 6. Research method
 
----
+One label per study: mining study, case study, experiment, tool development,
+survey/interview, mixed methods, or conceptual.
 
-## 二、双人模拟协议
+## 7. Coding and reliability protocol
 
-| 步骤 | 编码员 A（严格） | 编码员 B（包容） |
-|---|---|---|
-| 标签判定 | 必须有全文明确陈述 + 可引段落 | 允许合理推断，边界项标 `weak` |
-| 证据要求 | 每标签必附摘录 | 摘录可缺（仲裁时补） |
+Two coders labeled the corpus independently. Coder A required explicit full-text
+evidence for each label; Coder B could mark a reasonable inference as `weak`.
+Disagreements were resolved by source evidence and, when needed, a third author.
+Label-level one-vs-rest Cohen's Kappa is reported for SE concerns, Docker objects,
+contribution types, challenges, and limitations. The extraction master retains both
+coders' labels and the final adjudicated labels.
 
-**仲裁规则**：A、B 一致 → 采用；分歧 → 有原文证据的一方胜；`weak` 无证据 → 弃。
-**信度**：对 6 个 concern 维、4 个 object 维、6 个 contribution 维、C 4 维、L 3 维分别计算 Cohen's Kappa（标签级 one-vs-rest + 汇总），另报子类一致率 → 直接满足 R2-M2 的"抽取/分类信度"要求。
-**高级审查**：仲裁后由高级审查层复核全部 keep 标签与子类归属（记录）。
+## 8. Special cases
 
----
-
-## 三、特殊处理
-
-1. **扫描版 PDF（无文本层）**：Infragenie、Docker Container Security 两篇 → 渲染关键页为图片人工判读，notes 记录。
-2. **venue_type 待定的 3 篇**：抽取时顺带确认。
-3. **Page-verify 标记**：Security smell detection（ASE 期刊）等 page-verify 条目，抽取时确认篇幅。
-4. **超出既有范畴的判定疑难**：交高级审查并记录（沿用筛查阶段的裁决惯性）。
+- Scanned PDFs without a text layer were read from rendered page images.
+- Page length was checked for records near the five-page boundary.
+- A conference version superseded by an extended journal version was excluded.
+- Ambiguous venue types and artifact links were resolved during extraction and
+  recorded in the screening or corpus tables.

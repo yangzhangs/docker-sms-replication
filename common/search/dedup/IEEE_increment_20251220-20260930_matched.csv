@@ -1,6 +1,0 @@
-﻿type,title,doi,year,venue,match,score,zotero_key,zotero_title,zotero_year
-CHAP,Docker,10.1002/9781394361120.ch03,2026,Zero Trust Security: A Hands-on Guide,title,1.00,27I65JXP,Docker,2018
-CHAP,Initial Design of the Juice Factory Network,10.1002/9781394361120.ch04,2026,Zero Trust Security: A Hands-on Guide,title,1.00,RH4L5JH9,Initial Design of the Juice Factory Network,2025
-CHAP,Identity Access Management and Jump Box,10.1002/9781394361120.ch07,2026,Zero Trust Security: A Hands-on Guide,title,1.00,QCLGB5FY,Identity Access Management and Jump Box,2025
-CHAP,Endpoint Detection and Response,10.1002/9781394361120.ch08,2026,Zero Trust Security: A Hands-on Guide,title,1.00,KN8DP25G,Endpoint Detection and Response,2025
-CHAP,Vulnerability Management,10.1002/9781394361120.ch10,2026,Zero Trust Security: A Hands-on Guide,title,1.00,9DBEBSL2,Vulnerability Management,2025

@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Venue-name normalization for figures and statistics。
-规则顺序敏感：先特化（ESEM/TOSEM/SCAM/SANER截断等），后泛化。
-截断串兜底：80字符导入截断场景下用缩写 token 兜底匹配。
+"""Venue-name normalization for figures and statistics.
+
+Specific venue names are matched before generic patterns. Truncated venue
+strings are matched by their acronym token.
 """
 import re
 
@@ -59,10 +60,10 @@ def canon(v):
     for pat, short in rules:
         if pat in vl:
             return short
-    # 兜底：80字符截断串里的缩写 token（如 "FSE 2025 (PACMSE)"、"SANER 2019"、"ICSE 2026"）
+    # Fallback for acronym tokens in truncated venue strings.
     tok = {'fse': 'FSE', 'issta': 'ISSTA', 'icse': 'ICSE', 'saner': 'SANER',
            'msr': 'MSR', 'icsme': 'ICSME', 'compsac': 'COMPSAC'}
     for t, short in tok.items():
         if re.search(r'(?<![a-z])' + t + r'(?![a-z])', vl):
             return short
-    return v  # 原样
+    return v  # unchanged

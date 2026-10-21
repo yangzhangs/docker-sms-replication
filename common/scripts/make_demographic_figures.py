@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
-"""Figure 3 demographic panels（数字驱动，数据源 common/extraction/study_ledger.csv）。
-环境：本机 Python 3.14.0a1 与 numpy ABI 不兼容、matplotlib 不可用，
-改用 PyMuPDF 矢量直绘（base-14 Times-Roman，贴合论文 serif 风格）。
-输出：common/figures/fig3_demographics/plots0..plots6.pdf
-数据源：common/extraction/study_ledger.csv
+"""Regenerate the Figure 3 demographic panels from study_ledger.csv.
+
+The panels are drawn as vector PDFs with PyMuPDF and the base-14 Times-Roman
+font so that they match the manuscript's serif typography.
+
+Input : common/extraction/study_ledger.csv
+Output: common/figures/fig3_demographics/plots0..plots6.pdf
 """
 import csv, json, math, sys, os
 from pathlib import Path
@@ -24,7 +26,7 @@ BLUE = hx('#4472C4'); ORANGE = hx('#ED7D31'); LBLUE = hx('#B4C7E7')
 GRID = hx('#D9D9D9'); FRAME = hx('#BFBFBF'); DARK = hx('#333333'); WHITE = (1, 1, 1)
 GREYM = hx('#D1D4DB'); BORDERM = hx('#B9BEC7')
 
-# ---------------- 数据 ----------------
+# ---------------- Data ----------------
 rows = list(csv.DictReader(open(LEDGER, encoding='utf-8-sig')))
 
 pub = {}
@@ -58,7 +60,7 @@ CORE = [('A*', core['A*']), ('A', core['A']), ('B', core['B']), ('C', core['C'])
 country = {}
 for r in rows: country[r['country']] = country.get(r['country'], 0) + 1
 
-# ---------------- 绘制工具 ----------------
+# ---------------- Drawing helpers ----------------
 def tl(s, fs):
     return pymupdf.get_text_length(s, fontname='tiro', fontsize=fs)
 
@@ -84,7 +86,7 @@ def barh(W, H, labels, values, xlabel, xmax, tickstep, fs=9):
     sh.finish(color=FRAME, width=0.6)
     rowh = ph / len(labels); bh = rowh * 0.62
     for i, v in enumerate(values):
-        cy = top + rowh * (i + 0.5)          # PDF 坐标（自顶向下）
+        cy = top + rowh * (i + 0.5)          # PDF coordinates (top-down)
         bw = pw * v / xmax
         sh.draw_rect(pymupdf.Rect(left, cy - bh / 2, left + bw, cy + bh / 2))
     sh.finish(fill=BLUE, color=None)
@@ -176,7 +178,7 @@ def year_stacked(W, H):
         if YJ[i]:
             sh.draw_rect(pymupdf.Rect(x0, ybase - h1 - h2, x0 + bw, ybase - h1))
     sh.commit()
-    # 柱内数值
+    # In-bar values
     for i in range(n):
         x0 = left + slot * i + (slot - bw) / 2
         h1 = ph * YC[i] / ymax; h2 = ph * YJ[i] / ymax
@@ -192,7 +194,7 @@ def year_stacked(W, H):
         t += tick
     for i, y in enumerate(years):
         txt(page, H, left + slot * (i + 0.5), 6.5, str(y), 8, DARK, 'center')
-    # 图例（顶部居中）
+    # Legend (top center)
     items = [('Conference', ORANGE), ('Journal', BLUE)]
     wds = [10 + tl(t, 8.5) for t, _ in items]
     x0 = left + pw / 2 - (sum(wds) + 10) / 2
@@ -203,7 +205,7 @@ def year_stacked(W, H):
         x0 += wd + 10
     return doc
 
-# ---------------- 生成 7 张图 ----------------
+# ---------------- Generate the seven panels ----------------
 cn_sorted = sorted(country.items(), key=lambda x: (-x[1], x[0]))
 TOP_CN = [(k, v) for k, v in cn_sorted if v >= 2]
 OTH_N = len(cn_sorted) - len(TOP_CN)
@@ -234,8 +236,8 @@ for name, d in jobs.items():
     d.close()
 # Selection figure (Fig. 2) is distributed as a final PDF; no process copy needed here.
 
-print('生成完成:', ', '.join(jobs))
-print('数值核对: publisher', pub_items, '| author', at, '| venue_type', vt)
+print('Generated:', ', '.join(jobs))
+print('Value check: publisher', pub_items, '| author', at, '| venue_type', vt)
 print('top venues', TOP)
 print('years conf', YC, 'jour', YJ)
 print('core', CORE, '| countries', sorted(country.items(), key=lambda x: -x[1]))

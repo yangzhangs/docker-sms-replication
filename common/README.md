@@ -8,11 +8,9 @@ paper's selection flow.
 - `corpus_92.csv`: one row per primary study with P number, Zotero key, title,
   year, venue, DOI/URL, publisher, CORE rank, selection channel, first-author country,
   contribution flags, and PDF availability.
-- `pdf_index.csv`: complete PDF information table, 96 rows: 92 active studies
-  (36 with a local copy, 56 metadata-only) and 4 excluded/duplicate local copies.
-  `pdf_bytes` and `pdf_sha256` describe the local copies used during the study;
-  no PDF payload is distributed.
-- `pdf_index_excluded.csv`: the four excluded/duplicate local copies with reasons.
+- `pdf_index.csv`: PDF information table for the 92 studies (36 with a local
+  copy, 56 metadata-only). `pdf_bytes` and `pdf_sha256` describe the local copies
+  used during the study; no PDF payload is distributed.
 
 `local_pdf_available=yes` means a copy existed on the authors' machine for
 verification. `pdf_status=metadata_only_no_local_pdf` means the study has a
@@ -39,19 +37,19 @@ corpus; the paper's reported statistic is the N = 3,727 one.
 ## extraction/
 
 - `extraction_master_92.csv`: final extraction for the full 92-study corpus.
-  The two removed records are in `removal_records.csv`.
 - `study_ledger.csv`: demographic and bibliographic ledger for the 92 studies.
 - `demographic_statistics.md`: demographic statistics used in the paper.
 - `coding_manual.md`: coding definitions and subcategory rules.
 - `reliability_and_summary.txt`: per-dimension extraction reliability and coded
   distributions.
+- `data_dictionary.md`: field-level definitions for the extraction and result tables.
 
 ## search/
 
-`search_log.csv` records every run, exact query, fields, date filter, and hit count.
-`raw/` contains the per-library exports, `dedup/` the per-library deduplication
-outputs and Google Scholar classification, and `increment/` the update-search
-candidate tables. JSONL checkpoints and transient working files are excluded.
+`search_log.csv` records the library-level queries, fields, date filters, and hit
+counts. `google_scholar_rank_classification.csv` supports the saturation check.
+The saturation figure is in `figures/`. Intermediate raw exports and dedup files
+are not needed to reproduce the reported tables.
 
 ## tables/ and figures/
 

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Regenerate the Google Scholar saturation curve (screened depth: top 500) into figures/.
 
-Input : common/search/dedup/GoogleScholar_top990_notincorpus_classified.csv
+Input : common/search/google_scholar_rank_classification.csv
 Output: common/search/figures/gs_saturation.pdf + .png
 Requires: Python 3 + PyMuPDF (pymupdf).
 """
@@ -20,7 +20,7 @@ def txt(page, H, x, y_math, s, fs=8.5, color=DARK, align='left'):
     elif align == 'right': x -= pymupdf.get_text_length(s, fontname='tiro', fontsize=fs)
     page.insert_text((x, H - y_math), s, fontname='tiro', fontsize=fs, color=color)
 
-cls = list(csv.DictReader(open(PKG / 'common' / 'search' / 'dedup' / 'GoogleScholar_top990_notincorpus_classified.csv', encoding='utf-8-sig')))
+cls = list(csv.DictReader(open(PKG / 'common' / 'search' / 'google_scholar_rank_classification.csv', encoding='utf-8-sig')))
 notin = defaultdict(int)
 for r in cls:
     notin[(int(float(r['rank'])) - 1) // 100] += 1

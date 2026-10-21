@@ -8,14 +8,15 @@ Final corpus: **92 primary studies**.
 This package is organized around the three research questions. `common/`
 contains the search, screening, corpus, extraction, and cross-RQ material. `RQ1/`,
 `RQ2/`, and `RQ3/` contain the data and scripts behind the corresponding results.
+`REVIEWER_EVIDENCE.md` maps revision requests to the supporting files, and
+`common/extraction/data_dictionary.md` defines the data fields.
 
 ## Directory map
 
 ```text
 common/
   protocol/                  Search protocol, inclusion/exclusion review, screening notes
-  search/                    Search log, per-library raw exports, deduplication outputs,
-                             update-search candidates, Google Scholar saturation figure
+  search/                    Search log, Google Scholar rank classification, and saturation figure
   screening/                 Screening flow, per-criterion exclusions, dual-coding worksheets,
                              adjudication records, page-count re-screening data, Kappa report
   corpus/                    corpus_92.csv and the complete PDF metadata index
@@ -82,17 +83,14 @@ The public repository does **not** contain article PDFs, to respect publisher
 copyright. `common/corpus/pdf_index.csv` is the complete information table:
 
 - one row for each of the 92 active studies;
-- one row for each of the 4 local copies that were excluded or duplicate;
 - `P`, Zotero key, title, year, venue, DOI, public URL, publisher, and selection channel;
 - `local_pdf_available`, `pdf_filename`, `pdf_bytes`, and `pdf_sha256` for every
   local copy used during the study;
-- `pdf_status` distinguishes active local copies, metadata-only records, and
-  excluded local copies;
-- `notes` gives the exclusion reason or the copyright/availability note.
+- `pdf_status` distinguishes active local copies from metadata-only records;
+- `notes` gives the copyright or availability note.
 
-The 36 active local copies and 4 excluded copies are retained only on the authors'
-machines for verification. All 92 active studies have a bibliographic record and,
-where available, a DOI URL in the table.
+The 36 local copies are retained only on the authors' machines for verification.
+All 92 studies have a bibliographic record and, where available, a DOI URL in the table.
 
 ## Reproduction
 
@@ -126,9 +124,9 @@ paper and fail if a data table drifts from those counts.
 
 ## Search and screening data
 
-`common/search/` retains the search log, the five-library raw exports, the
-Google Scholar scrape used for saturation, and the per-library deduplication
-outputs. Intermediate JSONL checkpoints and transient working files are removed.
+`common/search/` retains the search log, the Google Scholar rank classification
+used for the saturation check, and the saturation figure. Intermediate raw exports
+and working files are not needed to reproduce the reported tables.
 `common/screening/` retains the dual-coding worksheets, adjudication records,
 page-count re-screening data, the preliminary-screening Kappa report, and the
 per-record process log. The report includes a reference note for the larger N = 4,379
@@ -141,8 +139,7 @@ corpus; the paper's reported statistic is the N = 3,727 one.
 - Contribution flags are the final post-audit flags. Dataset declarations include
   two shared build/issue collections; see
   `RQ2/README.md` and the extraction notes.
-- `common/extraction/extraction_master_92.csv` contains the 92-study full corpus;
-  the two removed records are in `common/extraction/removal_records.csv`.
+- `common/extraction/extraction_master_92.csv` contains the 92-study full corpus.
 - The public package contains the final vector figures and their source data. The
   selection figure was assembled from the authors' vector source; the PDF is the
   version used in the manuscript. One-off local Zotero synchronization, PowerPoint
