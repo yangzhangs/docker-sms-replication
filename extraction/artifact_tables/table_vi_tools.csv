@@ -24,7 +24,7 @@ P46,RAYZ6GFV,Dockleaner,Automatically detect and fix common Dockerfile smells,pr
 P48,CNEIA3CF,Infragenie,Generate living UML diagrams from Compose files,primary,https://doi.org/10.5281/zenodo.15496366,zenodo.15496366,provided
 P49,W3MA2382,DIKG/DKRAG,Knowledge-graph-augmented retrieval and generation of Dockerfiles,primary,,No link declared,none
 P52,I3F27YWX,Binnacle,"Mine rules, detect violations, and support Dockerfiles",primary,https://github.com/jjhenkel/binnacle-icse2020,jjhenkel/binnacle-icse2020,provided
-P53,W63WUQ47,ecg,Build Dockerfiles from research artifacts and capture software-environment metadata,primary,https://github.com/GuilloteauQ/study-docker-repro-longevity,GuilloteauQ/study-docker-repro-longevity,provided
+P53,W63WUQ47,ecg,Build Dockerfiles from research artifacts, capturing environment metadata,primary,https://github.com/GuilloteauQ/study-docker-repro-longevity,GuilloteauQ/study-docker-repro-longevity,provided
 P56,K6J65FBR,Modus,Alternative to Dockerfile-based image construction,primary,https://modus-continens.com/,Website (Unable to access),unreachable
 P66,G65DAZW6,Refactoring Tool,Automated Dockerfile refactoring for quality,primary,https://sites.google.com/view/msrdra25/home,Google site,provided
 P67,NXNF86IT,DGR,LLM- and graph-based repair of Dockerfile smells,primary,https://github.com/three-star-potato/docker_smell_emse,three-star-potato/docker_smell_emse,provided
