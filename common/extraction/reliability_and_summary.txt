@@ -63,3 +63,10 @@ contribution types, and challenges. Limitation labels are empty only when the
 study reports no limitation. `research_method` is populated where recorded.
 The label-level Kappa values are in `kappa_by_dimension.csv` and
 `kappa_by_label.csv`.
+
+Coding note
+-----------
+The second pass coded all 55 retained studies from their full texts. Two Zotero
+attachments were verified and corrected before coding: P52 (the correct binnacle
+paper) and P54 (the correct change-pattern paper). No final labels were copied
+into coder A/B fields.
