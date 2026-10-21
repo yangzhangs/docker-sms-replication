@@ -1,0 +1,21 @@
+﻿type,title,doi,year,venue,match,score,zotero_key,zotero_title,zotero_year
+Chapter,Docker,979-8-8688-0779-4_9,2025,,title,1.00,27I65JXP,Docker,2018
+Article,Detection of Anomalies in Docker-Based Containers through Monitoring,S0146411625700208,,,title,1.00,8M32RJ7T,Detection of Anomalies in Docker-Based Containers through Monitoring,2025
+Chapter,Getting Started with Docker,979-8-8688-2445-6_2,2026,,title,1.00,PHS8CMCY,Getting Started with Docker,2017
+Article,Exploring dynamic RESTful API implementation in IoT environments using Docker,s41598-025-16460-0,,Open access,title,1.00,GIN4A9L9,Exploring dynamic RESTful API implementation in IoT environments using Docker,2025
+Article,Adaptive trust evaluation model based on container security analysis in the Docker platform,s10207-025-01108-x,,,title,1.00,4KFJ3RJY,Adaptive trust evaluation model based on container security analysis in the Docker platform,2025
+Chapter,Exploring Docker Alternatives,979-8-8688-1300-9_8,2025,,title,1.00,7ILQY7AV,Exploring Docker Alternatives,2025
+Chapter,Learning Advanced Docker Concepts,979-8-8688-1300-9_4,2025,,title,1.00,69VTMPGM,Learning Advanced Docker Concepts,2025
+Article,Mining and measuring the impact of change patterns for improving the size and build time of docker images,s10664-025-10680-8,,,title,1.00,PRUXLBXF,Mining and measuring the impact of change patterns for improving the size and build time of docker images,2025
+Chapter,Up and Running with Docker,979-8-8688-1300-9_3,2025,,title,1.00,Z3RRN9VJ,Up and Running with Docker,2025
+Article,Adaptive load balancing and fault-tolerant microservices architecture for high-availability web systems using docker and spring cloud,s42452-025-07320-7,,Open access,title,1.00,MCBRU8YD,Adaptive load balancing and fault-tolerant microservices architecture for high-availability web systems using docker and spring cloud,2025
+Chapter,Deploying Docker Containers Using GitHub Actions,979-8-8688-1300-9_7,2025,,title,1.00,5XBK9UIW,Deploying Docker Containers Using GitHub Actions,2025
+Book,When Docker Meets Java A Practical Guide to Docker for Java and Spring Boot Applications,979-8-8688-1300-9,2025,,title,1.00,LYRQ4UDK,When Docker Meets Java: A Practical Guide to Docker for Java and Spring Boot Applications,2025
+Conference paper,Evaluating DAVS Approach for Docker Images Static Analysis,978-3-032-00644-8_11,2025,,title,1.00,2525H2RJ,Evaluating DAVS Approach for Docker Images Static Analysis,2025
+Conference paper,A Technical Overview of Docker Container Security Threats,978-981-96-4509-1_27,2025,,title,1.00,GXHRIXPP,A Technical Overview of Docker Container Security Threats,2025
+Conference paper,MiDedup: A Restore-Friendly Deduplication Method on Docker Image Storage Systems,978-981-96-2830-8_20,2025,,title,1.00,YPFXLIGY,MiDedup: A Restore-Friendly Deduplication Method on Docker Image Storage Systems,2025
+Conference paper,"Comparative Study Between Popular Container Orchestrators: Kubernetes, K3s, and Docker Swarm",978-981-96-6034-6_35,2025,,title,1.00,SS54QHE9,"Comparative Study Between Popular Container Orchestrators: Kubernetes, K3s, and Docker Swarm",2025
+Conference paper,Docker-Based Web Service to Aid Prostate Cancer Diagnosis Using Deep-Learning Techniques,978-3-031-87345-4_20,2025,,title,1.00,23UPABJJ,Docker-Based Web Service to Aid Prostate Cancer Diagnosis Using Deep-Learning Techniques,2025
+Chapter,Scalability and Stability in Cloud-Native Applications: Lessons from Docker and Kubernetes Deployments,978-3-031-90550-6_3,2025,,title,1.00,8D5N7I2A,Scalability and Stability in Cloud-Native Applications: Lessons from Docker and Kubernetes Deployments,2025
+Conference paper,Automating Vulnerability Scanning and Patching Along with OWASP and CVE Databases on Docker Container Images,978-3-031-87647-9_32,2025,,title,1.00,UWQLMDTF,Automating Vulnerability Scanning and Patching Along with OWASP and CVE Databases on Docker Container Images,2025
+Conference paper,A Novel Architecture That Examines Network Activity in a Docker-Based Multitenant to Verify Zero Trust Container Architecture (ZTCA) Compliance,978-3-031-86644-9_4,2025,,title,1.00,XN3GHWPY,A Novel Architecture That Examines Network Activity in a Docker-Based Multitenant to Verify Zero Trust Container Architecture (ZTCA) Compliance,2025

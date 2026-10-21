@@ -1,0 +1,93 @@
+﻿P,zotero_key,title,year,rep_package,dataset,approach,tool,taxonomy,insight
+P1,BC3IEXSR,A Dataset of Dockerfiles,2020,Y,Y,Y,Y,,
+P2,E3JT4WE8,A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub,2020,Y,Y,,Y,,Y
+P3,87S2TAVC,A microservice‐based architecture for (customisable) analyses of Docker images,2018,Y,,Y,Y,,
+P4,EJ9HVAB6,A multi-dimensional analysis of technical lag in Debian-based Docker images,2021,Y,Y,,,,Y
+P5,TY22D5XN,A Preliminary Analysis of GPL-Related License Violations in Docker Images,2022,,,,,,Y
+P6,5MSPWJKI,A study of how Docker Compose is used to compose multi-component systems,2021,Y,,,,,Y
+P7,AGX9SKSZ,AI-Assisted Dockerfile Hardening for Enhanced Container Security,2026,,,Y,broken-link,,Y
+P8,J5GRW3LM,An Empirical Analysis of the Docker Container Ecosystem on GitHub,2017,Y,Y,,Y,,Y
+P9,KY34433H,An Empirical Case Study on the Temporary File Smell in Dockerfiles,2019,,,Y,,,Y
+P10,CBARGCZK,An Empirical Investigation into the use of Dockerfile Preprocessors for Docker Image Management,2024,Y,,,,,Y
+P11,J8XGUVFH,An Empirical Study of Build Failures in the Docker Context,2020,,,,,,Y
+P12,Q8PK8FDR,An empirical study on self-admitted technical debt in Dockerfiles,2022,Y,,,,Y,Y
+P13,HCUH6D6Y,An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency,2018,,,,,,Y
+P14,8SAVEFZN,Assessing and Improving the Quality of Docker Artifacts,2022,,,Y,,,Y
+P15,EHVN7V6N,Automatic Dockerfile Generation with Large Language Models,2026,,,Y,broken-link,,Y
+P16,TGXDM5R8,Automatic Repair Method for Dockerfile Build Errors: Extracting Dependencies Between Build Error-Inducing Instructions based on Frequent Subtree Mining,2025,,,Y,,,
+P17,M75SBXWN,Automatically Generating Dockerfiles via Deep Learning: Challenges and Promises,2023,Y,,Y,,,
+P18,2YMKPNNB,Automating Dockerfile Refactoring to Multi-stage Builds,2026,Y,Y,Y,Y,,Y
+P19,I5QBJKB7,Challenges in Docker Development: A Large-scale Study Using Stack Overflow,2020,Y,,,,Y,Y
+P20,QBQ5TM6E,Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study,2020,Y,,,,,Y
+P21,8GTK9IUC,Cimplifier: automatically debloating containers,2017,,,Y,,,
+P22,QTHAI4ZM,Comparative Analysis of GPT-2 and Gemini for Automated Generation of Dockerfiles and Docker Compose in DevOps Workflows,2025,,,,,,Y
+P23,YGZZA8WT,Death Is Not the End: a Longitudinal Study on the Impact of Automatic Updates on Container Vulnerability Lifespans,2026,,Y,,Y,,Y
+P24,VYISANG8,Deciphering Discrepancies: A Comparative Analysis of Docker Image Security,2024,,,,,,Y
+P25,24WASDBD,Detection and Analysis of Poisoned Image in Container Registry,2025,,,Y,,,Y
+P26,LDCUILD9,Developing Docker and Docker-Compose Specifications: A Developers’ Survey,2021,Y,,,,,Y
+P27,PGV9EDI4,Docker Container Security: A Scanning-Centric Security Framework,2026,,,Y,,,Y
+P28,TTZZB66U,DockerChannel: A framework for evaluating information leakages of Docker containers,2023,Y,,Y,Y,,
+P29,FUX7WSZX,DockerCleaner: Automatic Repair of Security Smells in Dockerfiles,2023,Y,Y,Y,Y,,
+P30,ZR4YJZP9,"Dockerfile Changes in Practice: A Large-Scale Empirical Study of 4,110 Projects on GitHub",2020,,,,,,Y
+P31,QWKHM8XD,Dockerfile Flakiness: Characterization and Repair,2025,Y,Y,Y,Y,Y,
+P32,97PSLABW,Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods,2019,,,Y,,,Y
+P33,AGL3LYQ5,DockerFill: Automatically Completing Dockerfile Code with Syntax-aware Multi-task Learning,2025,Y,,Y,,,Y
+P34,2CIMG7KK,DockerFinder: Multi-attribute Search of Docker Images,2017,,,Y,Y,,
+P35,AHVN3KNN,DockerGen: A Knowledge Graph based Approach for Software Containerization,2021,,,Y,broken-link,,Y
+P36,SE7XRYDR,DockerizeMe: Automatic Inference of Environment Dependencies for Python Code Snippets,2019,Y,,Y,Y,,
+P37,3ZTQQBQ9,DockerKG: A Knowledge Graph of Docker Artifacts,2020,,,Y,,,
+P38,A7DDPDR9,DockInsight: A Knowledge-Augmented Dependency Extraction Approach for Dockerfile,2025,,broken-link,Y,,,
+P39,PYR7E3YZ,DocSecKG: A Systematic Approach for Building Knowledge Graph to Understand the Relationship Between Docker Image and Vulnerability,2024,broken-link,broken-link,Y,,,
+P40,EUH9SFDQ,Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-orchestration,2025,Y,Y,Y,broken-link,,
+P41,GGWYSZS2,DRIVE: Dockerfile Rule Mining and Violation Detection,2023,Y,Y,Y,Y,,
+P42,MLXMAJNR,DRMiner: A Tool For Identifying And Analyzing Refactorings In Dockerfile,2024,Y,,Y,Y,,
+P43,NDUTJJLV,Empirical Study of the Docker Smells Impact on the Image Size,2024,Y,Y,Y,Y,,Y
+P44,VTFUJ9NC,Explaining Successful Docker Images Using Pattern Mining Analysis,2018,,,Y,,,
+P45,MGVU74N2,"Exploring the Dependency Network of Docker Containers: Structure, Diversity, and Relationship",2020,Y,,,Y,,Y
+P46,RAYZ6GFV,Fixing Dockerfile smells: an empirical study,2024,Y,,Y,Y,,Y
+P47,X5RENULI,Handling Duplicates in Dockerfiles Families: Learning from Experts,2019,Y,,,,,Y
+P48,CNEIA3CF,Infragenie: Living Software Architecture Diagrams From Docker Compose Files,2026,Y,,Y,Y,,Y
+P49,W3MA2382,KG-Augmented LLM for Efficient and Correct Dockerfile Generation,2026,,,Y,broken-link,,Y
+P50,MESDXCFG,Large-Scale Analysis of the Docker Hub Dataset,2019,,,,,,Y
+P51,QMUM5QD7,Latest Image Recommendation Method for Automatic Base Image Update in Dockerfile,2020,,,Y,,,
+P52,I3F27YWX,"Learning from, understanding, and supporting DevOps artifacts for docker",2020,Y,Y,Y,Y,,
+P53,W63WUQ47,Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design,2025,,,Y,Y,,Y
+P54,PRUXLBXF,Mining and measuring the impact of change patterns for improving the size and build time of docker images,2025,Y,,,,Y,Y
+P55,32U23T23,"Mining Evolution Patterns of Dockerfiles at Scale: An Empirical Study on 55,502 Changes from 4,421 Projects",2026,,,Y,,,Y
+P56,K6J65FBR,Modus: a Datalog dialect for building container images,2022,Y,,Y,broken-link,,
+P57,RNVACVMM,Monitoring the Energy Consumption of Docker Containers,2023,,,Y,,,Y
+P58,ZVELFEDK,Not all Dockerfile Smells are the Same: An Empirical Evaluation of Hadolint Writing Practices by Experts,2024,Y,,,,Y,Y
+P59,74KFZIN9,On the Impact of Outdated and Vulnerable Javascript Packages in Docker Images,2019,,,,,,Y
+P60,2LHRZ4WY,"On The Relation Between Outdated Docker Containers, Severity Vulnerabilities and Bugs",2019,Y,,,,,Y
+P61,5QDAV4L4,"On the usage of JavaScript, Python and Ruby packages in Docker Hub images",2021,Y,,,,,Y
+P62,BQMADGDZ,One size does not fit all: An empirical study of containerized continuous deployment workflows,2018,Y,,,,,Y
+P63,IESF8KTN,Patterns of multi-container composition for service orchestration with Docker Compose,2024,Y,Y,,,,Y
+P64,SQVAJEVA,Predicting Affected Docker Images From Emerging Vulnerabilities With a Tripartite Graph,2026,,,Y,,,Y
+P65,3QKZFV3N,Recommending Base Image for Docker Containers based on Deep Configuration Comprehension,2022,,,Y,,,Y
+P66,G65DAZW6,Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential,2025,Y,,Y,Y,,Y
+P67,NXNF86IT,Repairing Docker Smells with Large Language Models: An Empirical Study,2026,Y,Y,Y,Y,,Y
+P68,5AXF9ID6,Revisiting Dockerfiles in Open Source Software Over Time,2021,Y,Y,,,,Y
+P69,KC3HXEM3,RUDSEA: recommending updates of Dockerfiles via software environment analysis,2018,,broken-link,Y,broken-link,,Y
+P70,TRZBDHPN,SCALPEL: Docker Image Slimming Based on Source Code Static Analysis,2025,Y,,Y,Y,,
+P71,YMYQVZKL,Secure Containers: A DevSecOps-Based Approach for Comprehensive Docker Image Vulnerability Assessment,2025,,,Y,,,
+P72,SGTG3928,Security smell detection in Dockerfiles,2026,broken-link,,Y,broken-link,Y,Y
+P73,FW3T7LNZ,Security Vulnerabilities in Docker Images: A Cross-Tag Study of Application Dependencies,2025,Y,Y,,,,Y
+P74,6M3XFFUD,Security-by-Design in DevSecOps: Evaluating Docker Hardening Against a Real-World Vulnerability,2025,,,Y,,,Y
+P75,HHWUC3PG,Semi-Supervised Learning Based Tag Recommendation for Docker Repositories,2019,,broken-link,Y,,,
+P76,VS2H6TXP,Shipwright: A Human-in-the-Loop System for Dockerfile Repair,2021,Y,,Y,Y,,
+P77,8XK8GE88,Should you upgrade official docker hub images in production environments?,2021,,,,,,Y
+P78,6HUAQUAZ,The Docker Hub Image Inheritance Network: Construction and Empirical Insights,2023,Y,Y,,,,Y
+P79,PBE39RE5,Too many images on DockerHub ! How different are images for the same system ?,2020,Y,,,,,Y
+P80,ZQIAID39,Toward Automated Test Generation for Dockerfiles Based on Analysis of Docker Image Layers,2025,,,Y,Y,,Y
+P81,S9TNQ9LV,"Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns",2025,Y,,,Y,Y,Y
+P82,F945LJJU,Type-2 Code Clone Detection for Dockerfiles,2021,,,Y,,,Y
+P83,MAHUP5ZD,Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects,2022,Y,,Y,,,Y
+P84,QBKAVWPW,"Understanding Docker Refactorings: Expanded Taxonomy, Operational Trade-Offs, and Role-Aware Recommendations",2026,Y,Y,Y,,Y,Y
+P85,AG7QMZEA,Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment,2020,,,Y,,,
+P86,UUNF5YAB,VDIRS: Vulnerable Docker Image Response System,2024,,,Y,broken-link,,Y
+P87,NCJVDL6W,Vessel: A Taxonomy of Reproducibility Issues for Container Images,2025,,,,Y,Y,Y
+P88,76BIB5JE,Visual notations in container orchestrations: an empirical study with Docker Compose,2022,Y,,,Y,,Y
+P89,LE5CC2EA,Vulnerability Analysis of Docker Hub Official Images and Verified Images,2023,,,,,,Y
+P90,FQG8ITX5,Wale: A Dockerfile-Based Approach to Deduplicate Shared Libraries in Docker Containers,2018,,,Y,,,Y
+P91,6WKMHA4Q,Well Begun is Half Done: An Empirical Study of Exploitability & Impact of Base-Image Vulnerabilities,2022,Y,,,,,Y
+P92,DYRFGQ8F,What Quality Aspects Influence the Adoption of Docker Images?,2023,Y,,,,Y,Y

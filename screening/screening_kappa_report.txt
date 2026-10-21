@@ -1,0 +1,24 @@
+增量集双人独立编码 — Cohen's Kappa 报告 (v2 校准规则)
+(流程：两位编码员独立编码 → 分歧仲裁 → 高级审查; 对齐论文 III.C 详筛流程)
+
+增量集 n = 731
+多类 Cohen's Kappa (A vs B 独立编码) = 0.957  (Po=0.979, Pe=0.527)
+二值 keep/exclude: 一致率=0.979, Kappa=0.736
+分歧 15 条 (2.1%)，经仲裁后: 维持 keep 0 条
+    ex-⑤ vs keep: 11
+    ex-⑥ vs keep: 4
+
+A 编码分布: {'ex-⑤': 515, 'keep': 22, 'ex-⑥': 144, 'ex-①': 7, 'fail-in-④': 35, 'ex-④': 8}
+B 编码分布: {'ex-⑤': 504, 'keep': 37, 'ex-⑥': 140, 'ex-①': 7, 'fail-in-④': 35, 'ex-④': 8}
+最终分布  : {'ex-④': 9, 'ex-①': 9, 'ex-⑤': 520, 'keep': 14, 'ex-⑥': 144, 'fail-in-④': 35}
+
+混淆矩阵 (A行 x B列):
+   A\B     ex-①     ex-④     ex-⑤     ex-⑥ fail-in-④     keep
+  ex-①        7        0        0        0        0        0
+  ex-④        0        8        0        0        0        0
+  ex-⑤        0        0      504        0        0       11
+  ex-⑥        0        0        0      140        0        4
+fail-in-④        0        0        0        0       35        0
+  keep        0        0        0        0        0       22
+
+附注: v1 ⛅️短文核验与页数抽查见 v1_shortpaper_verification.csv / v1_pagecheck_sample.csv

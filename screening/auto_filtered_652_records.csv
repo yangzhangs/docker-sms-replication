@@ -1,0 +1,653 @@
+﻿library,zotero_key,title,venue,year,filter_reason,screening_code
+ACM,ZQDUCREB,An approach to build consistent software architecture diagrams using devops system descriptors,Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings,2022,companion,ex-⑤
+ACM,VHDD4VAG,"Generating representative, live network traffic out of millions of code repositories",Proceedings of the 21st ACM Workshop on Hot Topics in Networks,2022,workshop,ex-⑥
+ACM,EAX4TMN2,Measuring Docker Performance: What a Mess‼!,Proceedings of the 8th ACM/SPEC on International Conference on Performance Engineering Companion,2017,companion,ex-⑤
+ACM,CC4L2ABD,Building a Threshold Cryptographic Distributed HSM with Docker Containers,Proceedings of the 2018 Applied Networking Research Workshop,2018,workshop,ex-⑤
+ACM,JQZXPESW,Characterizing Docker Overhead in Mobile Edge Computing Scenarios,Proceedings of the Workshop on Hot Topics in Container Networking and Networked Systems,2017,workshop,ex-⑤
+ACM,UAETR38C,AWS EC2 vs. Joyent's Triton: A Comparison of Docker Container-hosting Platforms,Proceedings of the 8th Workshop on Scientific Cloud Computing,2017,workshop,ex-①
+ACM,C2C2ZKFU,"Integrating Containers into Workflows: A Case Study Using Makeflow, Work Queue, and Docker",Proceedings of the 8th International Workshop on Virtualization Technologies in Distributed Computing,2015,workshop,ex-⑤
+ACM,EWRTMTVJ,A replication package for PyCG: practical call graph generation in Python,Proceedings of the 43rd International Conference on Software Engineering: Companion Proceedings,2021,companion,ex-⑥
+ACM,7F8IMAJU,ProgCEP: A Programming Model for Complex Event Processing over Fog Infrastructure,Proceedings of the 2nd International Workshop on Distributed Fog Services Design,2019,workshop,ex-⑤
+ACM,JDNMA42P,Revitalizing ns-3’s Direct Code Execution,Proceedings of the 2022 Workshop on Ns-3,2022,workshop,ex-⑤
+ACM,J8ULUSMR,Metrinome: path complexity predicts symbolic execution path explosion,Proceedings of the 43rd International Conference on Software Engineering: Companion Proceedings,2021,companion,ex-①
+ACM,2PASM49P,SEED emulator: an internet emulator for research and education,Proceedings of the 21st ACM Workshop on Hot Topics in Networks,2022,workshop,ex-⑥
+ACM,W2LNYWLM,Picto web: a tool for complex model exploration,Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings,2022,companion,ex-⑤
+ACM,54FYG3V5,"Resource Management for Cloud Functions with Memory Tracing, Profiling and Autotuning",Proceedings of the 2020 Sixth International Workshop on Serverless Computing,2021,workshop,ex-⑤
+ACM,KIHJS42P,AppMine: Behavioral Analytics for Web Application Vulnerability Detection,Proceedings of the 2019 ACM SIGSAC Conference on Cloud Computing Security Workshop,2019,workshop,ex-⑤
+ACM,F6344UFD,Checkpointing and Migration of IoT Edge Functions,"Proceedings of the 2nd International Workshop on Edge Systems, Analytics and Networking",2019,workshop,ex-⑤
+ACM,NGGLGZ5Z,FlashCube: Fast Provisioning of Serverless Functions with Streamlined Container Runtimes,Proceedings of the 11th Workshop on Programming Languages and Operating Systems,2021,workshop,ex-⑤
+ACM,KSLGYU84,Traffic Generation using Containerization for Machine Learning,Proceedings of the 2019 Workshop on DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security,2022,workshop,ex-⑥
+ACM,CYX4UVTG,Adaptive sensing using internet-of-things with constrained communications,Proceedings of the 16th Workshop on Adaptive and Reflective Middleware,2017,workshop,ex-⑤
+ACM,8LWTY4AC,"Enabling Containerized, Parametric and Distributed Database Deployment and Benchmarking as a Service",Companion of the ACM/SPEC International Conference on Performance Engineering,2021,companion,ex-①
+ACM,VNF8ILJA,Can we containerize internet measurements?,Proceedings of the 2019 Applied Networking Research Workshop,2019,workshop,ex-⑤
+ACM,LP722XTZ,Dynamic adaptation for distributed systems in model-driven engineering,Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings,2022,companion,ex-⑤
+ACM,JBKXWCHA,OpenAirInterface 5G NSA system with COTS phone,"Proceedings of the 14th International Workshop on Wireless Network Testbeds, Experimental Evaluation &amp; Characterization",2020,workshop,ex-①
+ACM,9UD77THR,Fe2vCl2: From Bare Metal to High Performance Computing on Virtual Clusters and Cloud Infrastructure,Proceedings of the 4th Workshop on CrossCloud Infrastructures &amp; Platforms,2017,workshop,ex-⑤
+ACM,PANNYBNL,Efficient storage support for unikernels as containers,Proceedings of the 20th International Middleware Conference Doctoral Symposium,2019,doctoral,ex-①
+ACM,LTLMX32D,Java Unit Testing Tool Competition: Eighth Round,Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops,2020,workshop,ex-①
+ACM,FGXUK5KJ,Kubernetes: Towards Deployment of Distributed IoT Applications in Fog Computing,Companion of the ACM/SPEC International Conference on Performance Engineering,2020,companion,ex-①
+ACM,HNILP5N8,Co-residency Attacks on Containers are Real,Proceedings of the 2020 ACM SIGSAC Conference on Cloud Computing Security Workshop,2020,workshop,ex-⑤
+ACM,K8K6V7XU,The Epsilon Playground,Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings,2022,companion,ex-⑤
+ACM,9MUF7GUF,Janus: Lightweight Container Orchestration for High-performance Data Sharing,Fifth International Workshop on Systems and Network Telemetry and Analytics,2022,workshop,ex-⑤
+ACM,I3ELILD3,A Collaborative Strategy for Mitigating Tracking through Browser Fingerprinting,Proceedings of the 6th ACM Workshop on Moving Target Defense,2019,workshop,ex-⑤
+ACM,8QXLT6Z7,A DevOps approach to integration of software components in an EU research project,Proceedings of the 1st International Workshop on Quality-Aware DevOps,2015,workshop,ex-⑤
+ACM,N23TB8LF,Engram: the one security platform for modern software supply chain risks,Proceedings of the Eighth International Workshop on Container Technologies and Container Clouds,2022,workshop,ex-⑤
+ACM,5YDUMCZI,Container Hardening Through Automated Seccomp Profiling,Proceedings of the 2020 6th International Workshop on Container Technologies and Container Clouds,2021,workshop,ex-⑤
+ACM,XSAPSHA2,AR over NDN: augmented reality applications and the rise of information centric networking,Proceedings of the SIGCOMM '20 Poster and Demo Sessions,2021,poster+demo,ex-①
+ACM,ZTUI987G,Edge offloading for microservice architectures,"Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking",2022,workshop,ex-⑤
+ACM,RJ5L7SNQ,Data Analytics Service Composition and Deployment on Edge Devices,Proceedings of the 2018 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks,2018,workshop,ex-⑤
+ACM,3VBV5MXV,Container-based Emulation of Network Control Plane,Proceedings of the Workshop on Hot Topics in Container Networking and Networked Systems,2017,workshop,ex-⑤
+ACM,RU3WK44G,Practical Safe Linux Kernel Extensibility,Proceedings of the Workshop on Hot Topics in Operating Systems,2019,workshop,ex-⑤
+ACM,CGFRLFG4,Container-based architecture to optimize the integration of microservices into cloud-based data-intensive application scenarios,Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings,2018,companion,ex-⑤
+ACM,UMXJHUZR,BugZoo: a platform for studying software bugs,Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings,2018,companion,ex-①
+ACM,DKYBNS3R,Enabling Seamless Container Migration in Edge Platforms,Proceedings of the 14th Workshop on Challenged Networks,2019,workshop,ex-⑤
+ACM,GCK3PWUM,Measuring Baseline Overheads in Different Orchestration Mechanisms for Large FaaS Workflows,Companion of the 2022 ACM/SPEC International Conference on Performance Engineering,2022,companion,ex-⑤
+ACM,NZJNRJDQ,"Kaala: scalable, end-to-end, IoT system simulator",Proceedings of the ACM SIGCOMM Workshop on Networked Sensing Systems for a Sustainable Society,2022,workshop,ex-⑤
+ACM,S2WXVWBK,Extending storage support for unikernel containers,Proceedings of the 5th International Workshop on Serverless Computing,2019,workshop,ex-⑤
+ACM,E9N5YSYJ,Container deployment strategy for edge networking,Proceedings of the 4th Workshop on Middleware for Edge Clouds &amp; Cloudlets,2019,workshop,ex-⑤
+ACM,8K6PERIL,Evaluation of QUIC-based MASQUE proxying,"Proceedings of the 2021 Workshop on Evolution, Performance and Interoperability of QUIC",2021,workshop,ex-⑤
+ACM,G92TMW2R,Container Density Improvements with Dynamic Memory Extension using NAND Flash,Proceedings of the 9th Asia-Pacific Workshop on Systems,2018,workshop,ex-⑤
+ACM,IEPHQ772,Towards a container-based architecture for multi-tenant SaaS applications,Proceedings of the 15th International Workshop on Adaptive and Reflective Middleware,2016,workshop,ex-⑤
+ACM,5PDYQAH4,Making the Data Plane Ready for NFV: An Effective Way of Handling Resources,Proceedings of the SIGCOMM Posters and Demos,2017,poster+demo,ex-①
+ACM,TMCVA9UB,gDefects4DL: a dataset of general real-world deep learning program defects,Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,2022,companion,ex-⑥
+ACM,JWQAV2BP,Towards Extraction of Message-Based Communication in Mixed-Technology Architectures for Performance Model,Companion of the ACM/SPEC International Conference on Performance Engineering,2021,companion,ex-⑤
+ACM,JR9RIH95,New Directions for Container Debloating,Proceedings of the 2017 Workshop on Forming an Ecosystem Around Software Transformation,2017,workshop,ex-⑤
+ACM,L5IS7D6A,Skyport: container-based execution environment management for multi-cloud scientific workflows,Proceedings of the 5th International Workshop on Data-Intensive Computing in the Clouds,2014,workshop,ex-⑤
+ACM,VBHM5C9I,Towards Independent Run-Time Cloud Monitoring,Companion of the ACM/SPEC International Conference on Performance Engineering,2021,companion,ex-⑤
+ACM,Y4EZFKQS,Elastic Provisioning of Virtual Machines for Container Deployment,Proceedings of the 8th ACM/SPEC on International Conference on Performance Engineering Companion,2017,companion,ex-⑤
+ACM,TQTK64IX,Distributed Parallel Analysis Engine for High Energy Physics Using AWS Lambda,Proceedings of the 1st Workshop on High Performance Serverless Computing,2021,workshop,ex-①
+ACM,FJ7SJHBZ,Accelerating regression testing for scaled self-driving cars with lightweight virtualization: a case study,Proceedings of the First International Workshop on Software Engineering for Smart Cyber-Physical Systems,2015,workshop,ex-⑤
+ACM,VPLTWDX5,Securing a deployment pipeline,Proceedings of the Third International Workshop on Release Engineering,2015,workshop,ex-①
+ACM,3EGA8HP6,Cloud Security: The Industry Landscape and the Lure of Zero-Knowledge Protection,Proceedings of the 2015 ACM Workshop on Cloud Computing Security Workshop,2015,workshop,ex-⑤
+ACM,ZLFYLK7A,OpenNetVM: A Platform for High Performance Network Service Chains,Proceedings of the 2016 Workshop on Hot Topics in Middleboxes and Network Function Virtualization,2016,workshop,ex-⑤
+ACM,UKAF3U4L,"Umbrella: A Portable Environment Creator for Reproducible Computing on Clusters, Clouds, and Grids",Proceedings of the 8th International Workshop on Virtualization Technologies in Distributed Computing,2015,workshop,ex-⑤
+ACM,UZSWFQT2,Industrial Experience with Open-Source EDA Tools,Proceedings of the 2022 ACM/IEEE Workshop on Machine Learning for CAD,2022,workshop,ex-⑤
+ACM,WLUXGVJW,Dynamically reconfigurable workflows for time-critical applications,Proceedings of the 10th Workshop on Workflows in Support of Large-Scale Science,2015,workshop,ex-⑤
+ACM,MWBFFRTI,TotalCOW: Unleash the Power of Copy-On-Write for Thin-provisioned Containers,Proceedings of the 6th Asia-Pacific Workshop on Systems,2015,workshop,ex-⑤
+ACM,D28LFZ9D,Combining OCL and natural language: a call for a community effort,Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings,2022,companion,ex-⑤
+ACM,QJVY737E,Orchestrating deep learning workloads on distributed infrastructure,Proceedings of the 1st Workshop on Distributed Infrastructures for Deep Learning,2017,workshop,ex-①
+ACM,BUBMIAG5,Dynaplex: inferring asymptotic runtime complexity of recursive programs,Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,2022,companion,ex-①
+ACM,JSQ8C2BN,Unix shell programming: the next 50 years,Proceedings of the Workshop on Hot Topics in Operating Systems,2021,workshop,ex-⑤
+ACM,X7FYMMYR,Analysis of Garbage Collection Patterns to Extend Microbenchmarks for Big Data Workloads,Companion of the 2022 ACM/SPEC International Conference on Performance Engineering,2022,companion,ex-⑤
+ACM,K9DY2J4J,Evaluating OSPF Convergence with ns-3 DCE,Proceedings of the 2022 Workshop on Ns-3,2022,workshop,ex-⑤
+ACM,67HYBHC2,Pynguin: automated unit test generation for Python,Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,2022,companion,ex-⑥
+ACM,FPVDPJ9E,"DARTS: Distributed IoT Architecture for Real-Time, Resilient and AI-Compressed Workflows","Proceedings of the 2022 Workshop on Advanced Tools, Programming Languages, and PLatforms for Implementing and Evaluating Algorithms for Distributed Systems",2022,workshop,ex-⑤
+ACM,PTFUS4Y4,Characterizing X86 and ARM Serverless Performance Variation: A Natural Language Processing Case Study,Companion of the 2022 ACM/SPEC International Conference on Performance Engineering,2022,companion,ex-⑤
+ACM,7M7HZA9V,PONCHO: Dynamic Package Synthesis for Distributed and Serverless Python Applications,Proceedings of the 2nd Workshop on High Performance Serverless Computing,2022,workshop,ex-⑤
+ACM,SD889A6U,CPSAML: a language and code generation framework for digital twin based monitoring of mobile cyber-physical systems,Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings,2022,companion,ex-⑥
+ACM,M22ZMLV2,Reliability of Large Scale GPU Clusters for Deep Learning Workloads,Companion Proceedings of the Web Conference 2021,2021,companion,ex-①
+ACM,ILLSEYXL,Benchmarking data dissemination protocols for opportunistic networks,Proceedings of the Workshop on Benchmarking Cyber-Physical Systems and Internet of Things,2021,workshop,ex-⑤
+ACM,DW5IBQ5D,Cross-domain authentication for 5G-enabled UAVs: a blockchain approach,Proceedings of the 4th ACM MobiCom Workshop on Drone Assisted Wireless Communications for 5G and Beyond,2021,workshop,ex-⑥
+ACM,NY8JPVFE,TauPad: test data augmentation of point clouds by adversarial mutation,Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,2022,companion,ex-⑤
+ACM,3GYJF76M,CLEAVE: scalable and edge-native benchmarking of networked control systems,"Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking",2022,workshop,ex-⑤
+ACM,ZW49Y6CS,Automatic I/O stream management based on file characteristics,Proceedings of the 13th ACM Workshop on Hot Topics in Storage and File Systems,2021,workshop,ex-⑤
+ACM,CNK34ZBV,Jupiter: a networked computing architecture,Proceedings of the 14th IEEE/ACM International Conference on Utility and Cloud Computing Companion,2022,companion,ex-⑤
+ACM,2RQ6D34Y,Dyninka: a FaaS framework for distributed dataflow applications,Proceedings of the 8th ACM SIGPLAN International Workshop on Reactive and Event-Based Languages and Systems,2021,workshop,ex-⑤
+ACM,2Z9DDWV9,iPFlakies: a framework for detecting and fixing python order-dependent flaky tests,Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,2022,companion,ex-⑤
+ACM,M7RH482H,Live Migration of Operating System Containers in Encrypted Virtual Machines,Proceedings of the 2021 on Cloud Computing Security Workshop,2021,workshop,ex-⑤
+ACM,GDIRFJS5,OneLNK: One Link to Rule Them All: Web-based Wireless Experimentation for Multi-vendor Remotely Accessible Indoor/Outdoor Testbeds,"Proceedings of the 15th ACM Workshop on Wireless Network Testbeds, Experimental Evaluation &amp; CHaracterization",2021,workshop,ex-⑤
+ACM,JJW5SWTS,Multi-resolution quality-based video coding system for DASH scenarios,Proceedings of the 31st ACM Workshop on Network and Operating Systems Support for Digital Audio and Video,2021,workshop,ex-⑤
+ACM,HRUPN8IL,CollabFuzz: A Framework for Collaborative Fuzzing,Proceedings of the 14th European Workshop on Systems Security,2021,workshop,ex-⑤
+ACM,D9YA35IK,Towards a Serverless Bioinformatics Cyberinfrastructure Pipeline,Proceedings of the 1st Workshop on High Performance Serverless Computing,2021,workshop,ex-⑥
+ACM,2GQV6E6Q,Experiences with Reproducibility: Case Studies from Scientific Workflows,Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems,2021,workshop,ex-⑤
+ACM,LD6QF682,An Empirical Evaluation of the Performance of Video Conferencing Systems,Companion of the ACM/SPEC International Conference on Performance Engineering,2021,companion,ex-⑤
+ACM,WWP6MFZ5,Multi-Stakeholder Policy Enforcement for Distributed Systems,Proceedings of the 10th International Workshop on Container Technologies and Container Clouds,2024,workshop,ex-⑤
+ACM,7C99V3M4,POTS - A Polyparadigmatic Ontology Term Search with Fine-Grained Context Steering using Hyper-Level Vector Spaces,Companion Proceedings of the ACM on Web Conference 2025,2025,companion,ex-①
+ACM,CFUWDMHV,OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System,Companion Proceedings of the ACM on Web Conference 2025,2025,companion,ex-①
+ACM,HJL8TAFR,NSDocker: A Lightweight and Realistic Satellite Network Emulator Integrating NS-3 and Docker,Proceedings of the 9th Asia-Pacific Workshop on Networking,2025,workshop,ex-①
+ACM,MQJULCSC,The Kieker Observability Framework Version 2,Companion of the 16th ACM/SPEC International Conference on Performance Engineering,2025,companion,ex-⑤
+ACM,7GCBBNIC,Microservice Applications and Their Workloads on GitHub,Companion of the 16th ACM/SPEC International Conference on Performance Engineering,2025,companion,ex-⑤
+ACM,E855GYRS,Harnessing Public Code Repositories to Develop Production-Ready ML Artifacts for Networking,Proceedings of the 2024 Applied Networking Research Workshop,2024,workshop,ex-①
+ACM,TPDJ3TJJ,Enhancing Maritime Data Standardization and Integrity Using Docker and Blockchain,Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings,2023,companion,ex-⑥
+ACM,BER93VBW,Characterizing Container Performance in Edge Computing,Proceedings of the ACM SIGCOMM 2025 Posters and Demos,2025,poster+demo,ex-①
+ACM,YVLMSAU6,DIGMAPPER: A Modular System for Automated Geologic Map Digitization,,2025,bookSection,ex-⑤
+ACM,8BJCTUNU,Providing Data on Financial Results of Public Companies Enriched with Provenance for OBInvest,Companion Proceedings of the ACM Web Conference 2023,2023,companion,ex-⑤
+ACM,9ELZ3DNX,PeachCI: Scalable Continuous Integration of Generation-Based Protocol Fuzzing,,2025,bookSection,ex-⑥
+ACM,T39J4478,Bridging Natural Resilience and Cost-Effectiveness in SSDs for Containerized ML Applications,Proceedings of the 4th Workshop on Practical Adoption Challenges of ML for Systems,2025,workshop,ex-⑤
+ACM,YNLPPGB7,Exposing the Hidden Layer: Software Repositories in the Service of SEO Manipulation,,2025,bookSection,ex-⑤
+ACM,2Z989AXA,Evaluating Cloud and On-Premises Hosting Solutions: A Comparative Study for the Azerbaijani Market,"Proceedings of the 6th Workshop on Secure IoT, Edge and Cloud Systems",2025,workshop,ex-⑤
+ACM,TICDMNMW,Comparing Isolation Mechanisms with OSmosis,Proceedings of the 13th Workshop on Programming Languages and Operating Systems,2025,workshop,ex-⑤
+ACM,I8RTYDYC,pnrXplore: A Visual Data Explorer for CAD and EDA Research,Proceedings of the 22nd ACM International Conference on Computing Frontiers: Workshops and Special Sessions,2025,workshop,ex-①
+ACM,B9MEVT4T,Towards an Internet Deployment of Flexible Multicast QUIC,Proceedings of the ACM SIGCOMM 2025 Posters and Demos,2025,poster+demo,ex-①
+ACM,C8YZR6JX,Exploring Teaching Models for “Cybersecurity Technology” Courses Based on AIGC,,2025,bookSection,ex-⑥
+ACM,5BTCVN6P,Zero-consistency root emulation for unprivileged container image build,"Proceedings of the SC '24 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis",2025,workshop,ex-⑤
+ACM,VKAE46F9,TEQ: An Open and Developer-friendly Testbed for Edge-based Query Processing Algorithms,Companion of the 2025 International Conference on Management of Data,2025,companion,ex-①
+ACM,F6X5B34Y,From DDoSim to DDoSimQ: Enhancing DDoS Attack Simulations Through Full System Emulation,Proceedings of the 5th Workshop on CPS&amp;IoT Security and Privacy,2023,workshop,ex-⑤
+ACM,8CF62K97,Visual Modeling of ROS Launch Files,Proceedings of the 7th Workshop on Design Automation for CPS and IoT,2025,workshop,ex-⑥
+ACM,U2A9EL8A,"The use of Containers in OpenGL, ML and HPC for Teaching and Research Support",ACM SIGGRAPH 2023 Posters,2023,poster,ex-⑥
+ACM,7MNUBXVY,OpenSN: An Open Source Library for Emulating LEO Satellite Networks,Proceedings of the 8th Asia-Pacific Workshop on Networking,2024,workshop,ex-⑥
+ACM,RX8375XN,Understanding Energy Performance of Containers Deployment on HPC-Based post-Moore Platforms,"Proceedings of the SC '23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis",2023,workshop,ex-⑤
+ACM,4VYUWF9S,"Charliecloud’s layer-free, Git-based container build cache","Proceedings of the SC '23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis",2023,workshop,ex-⑤
+ACM,ZCG7268T,Impacts of Software Bill of Materials (SBOM) Generation on Vulnerability Detection,Proceedings of the 2024 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses,2024,workshop,ex-⑥
+ACM,K79AHP77,Boidae: Your Personal Mining Platform,Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings,2024,companion,ex-①
+ACM,32B4N4JT,"Design, Containerization and Performance of Distributed Evolutionary Computation",Proceedings of the Genetic and Evolutionary Computation Conference Companion,2025,companion,ex-⑤
+ACM,2ASM2FHA,NERDS: A Non-invasive Environment for Remote Developer Studies,Proceedings of the 17th Cyber Security Experimentation and Test Workshop,2024,workshop,ex-⑤
+ACM,RICMJUVV,FunDa: Towards Serverless Data Analytics and In Situ Query Processing,Proceedings of the International Workshop on Big Data in Emergent Distributed Environments,2024,workshop,ex-⑤
+ACM,PKMSQUIS,netroub: Towards an Emulation Platform for Network Trouble Scenarios,Proceedings of the on CoNEXT Student Workshop 2023,2023,workshop,ex-①
+ACM,VB97VFKE,Innovation Potential of the ACCORDION Platform,Proceedings of the 3rd Workshop on Flexible Resource and Application Management on the Edge,2023,workshop,ex-①
+ACM,9V58MWYE,GALOIS: A Hybrid and Platform-Agnostic Stream Processing Architecture,Proceedings of the International Workshop on Big Data in Emergent Distributed Environments,2023,workshop,ex-⑤
+ACM,BKUL52DP,Towards Efficient End-to-End Encryption for Container Checkpointing Systems,Proceedings of the 15th ACM SIGOPS Asia-Pacific Workshop on Systems,2024,workshop,ex-⑤
+ACM,IPBMRNZG,MicroSensor: Towards an Extensible Tool for the Static Analysis of Microservices Systems in Continuous Integration,Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering,2024,companion,ex-①
+ACM,CTICUFQD,Design and Implementation of a Cloud Platform of Teaching Resources for English Majors in Colleges and Universities,,2025,bookSection,ex-⑥
+ACM,9QYKKBIZ,MEC: Towards Semi-Automated Map Experiment Creation,Proceedings of the 1st ACM SIGSPATIAL International Workshop on Human-Centered Geospatial Computing,2025,workshop,ex-⑤
+ACM,FKBM7XMD,TraceMOP: An Explicit-Trace Runtime Verification Tool for Java,,2025,bookSection,ex-⑤
+ACM,R5D4Q7B5,BandFuzz: A Practical Framework for Collaborative Fuzzing with Reinforcement Learning,Proceedings of the 17th ACM/IEEE International Workshop on Search-Based and Fuzz Testing,2024,workshop,ex-①
+ACM,6Z97TA4Q,Nautilus: A Benchmarking Platform for DBMS Knob Tuning,Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning,2024,workshop,ex-⑤
+ACM,PG4WFDWE,"Surprise Benchmarking: The Why, What, and How",Proceedings of the Tenth International Workshop on Testing Database Systems,2024,workshop,ex-⑤
+ACM,RGPTFV69,JaMaBuild: Mass Building of Java Projects,"Companion Proceedings of the 2023 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity",2023,companion,ex-①
+ACM,A85LG6SF,DMBench: Load Testing and Benchmarking Tool for Data Migration,Companion of the 15th ACM/SPEC International Conference on Performance Engineering,2024,companion,ex-⑤
+ACM,JC7L9KD6,Nesting Overlay File Systems with ShadowWhiteout,Proceedings of the 16th ACM SIGOPS Asia-Pacific Workshop on Systems,2025,workshop,ex-⑤
+ACM,HM9MZEAB,TIGER: Tor Traffic Generator for Realistic Experiments,Proceedings of the 22nd Workshop on Privacy in the Electronic Society,2023,workshop,ex-⑥
+ACM,R49QINWY,Querying Container Provenance,Companion Proceedings of the ACM Web Conference 2023,2023,companion,ex-①
+ACM,HQZDH57F,A Study of Interoperability in Electronic Health Record Software,Proceedings of the 2024 Workshop on Cybersecurity in Healthcare,2024,workshop,ex-⑥
+ACM,3GKLPH8D,Building an Intelligent Edge Environment to Provide Essential Services for Smart Cities,Proceedings of the 18th Workshop on Mobility in the Evolving Internet Architecture,2023,workshop,ex-⑤
+ACM,YARLMD3F,A Low Cost Cross-Platform Video/Image Process Framework Empowers Heterogeneous Edge Application,Proceedings of the 33rd Workshop on Network and Operating System Support for Digital Audio and Video,2023,workshop,ex-⑥
+ACM,N45HHFNR,xOS: The End Of The Process-Thread Duo Reign,Proceedings of the 14th ACM SIGOPS Asia-Pacific Workshop on Systems,2023,workshop,ex-⑤
+ACM,8MLKL39B,Performance Experiences From Running An E-health Inference Process As FaaS Across Diverse Clusters,Companion of the 2023 ACM/SPEC International Conference on Performance Engineering,2023,companion,ex-⑥
+ACM,BFV4U29I,An Integrated Framework for Network Emulation and Multi-vehicle Algorithm Testing,Proceedings of the ACM SIGCOMM 2025 Posters and Demos,2025,poster+demo,ex-①
+ACM,BA9XEVQS,Operationalizing machine learning models: a systematic literature review,Proceedings of the 1st Workshop on Software Engineering for Responsible AI,2023,workshop,ex-④
+ACM,4VKQ4RQL,NEBULA - Decentralized Federated Learning for Heterogeneous Networks,Proceedings of the ACM SIGCOMM 2025 Posters and Demos,2025,poster+demo,ex-①
+ACM,KABXHI42,Building blocks for IoT testing: a benchmark of IoT apps and a functional testing framework,Proceedings of the 4th International Workshop on Software Engineering Research and Practice for the IoT,2023,workshop,ex-⑤
+ACM,P9DC3SKI,Reinforcement Learning Based Multi-Stage Ad Sorting and Personalized Recommendation System Design,,2025,bookSection,ex-⑤
+ACM,2YICHVB9,From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs,Proceedings of the 2025 Workshop on Hot Topics in Operating Systems,2025,workshop,ex-⑤
+ACM,MYZIW4QV,PipeMind: Toward a Multi-Agent Framework for Real-Time Feedback and Continuous Optimization in Analytics Pipelines,Companion Proceedings of the ACM on Web Conference 2025,2025,companion,ex-①
+ACM,7LUQPBT6,Beyond the badge: reproducibility engineering as a lifetime skill,Proceedings of the 4th International Workshop on Software Engineering Education for the Next Generation,2023,workshop,ex-①
+ACM,8TJDCBZF,Pursuing Interoperability in Digital Twins: An Analysis of the Current Research Landscape,,2025,bookSection,ex-⑤
+ACM,IZ4SP5VN,Reckon-ing Kubernetes at the Edge using Emulated Clusters,Proceedings of the 3rd International Workshop on Testing Distributed Internet of Things Systems,2025,workshop,ex-⑤
+ACM,7LY59A89,Research on the Construction of Enterprise Accounting Big Data Analysis Platform under the Background of Digital Economy,,2025,bookSection,ex-⑤
+ACM,EF9ALI7F,Improving the Discovery of Musical Heritage Documents in the Digital Libraries Federation Using Melodic Content Search and AI-based Optical Music Recognition,,2025,bookSection,ex-⑤
+ACM,2IA6WMB7,Design of Teaching Quality Evaluation System for College English Majors Based on Data Mining Algorithms,,2025,bookSection,ex-⑥
+ACM,ECIRTIM8,Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications,Proceedings of the 7th Joint Workshop on CPS&amp;IoT Security and Privacy,2025,workshop,ex-⑥
+ACM,CNF84EUQ,DMML: A Machine-learning Performance Model for Data Migration,Companion of the 16th ACM/SPEC International Conference on Performance Engineering,2025,companion,ex-⑥
+ACM,65EJIIG4,CXLfork: Fast Remote Fork over CXL Fabrics,,2025,bookSection,ex-⑤
+ACM,CE2VISQG,Towards a Lightweight Platform for Human-Robot Interaction in Federated Edge and IoT Environments,"Proceedings of the 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems",2025,workshop,ex-①
+ACM,R7SGJYFX,The ET Program Repair Tool for Java,Proceedings of the 5th ACM/IEEE International Workshop on Automated Program Repair,2024,workshop,ex-①
+ACM,UMIHK2LA,APR Competition 2024,Proceedings of the 5th ACM/IEEE International Workshop on Automated Program Repair,2024,workshop,ex-①
+ACM,4N5Y363V,AtlasFL: A Federated Learning Workload Generator with Energy and Carbon Emission Support,Proceedings of the 3rd International Workshop on Testing Distributed Internet of Things Systems,2025,workshop,ex-⑥
+ACM,56796N7R,RepairCAT: Applying Large Language Model to Fix Bugs in AI-Generated Programs,Proceedings of the 5th ACM/IEEE International Workshop on Automated Program Repair,2024,workshop,ex-①
+ACM,M7F4P4WI,Userland Containers for Mobile Systems,Proceedings of the 24th International Workshop on Mobile Computing Systems and Applications,2023,workshop,ex-⑤
+ACM,SJ4HERMX,OSPC: Multimodal Harmful Content Detection using Fine-tuned Language Models,Companion Proceedings of the ACM Web Conference 2024,2024,companion,ex-①
+ACM,2KJUSP7P,SALLM: Security Assessment of Generated Code,Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops,2024,workshop,ex-⑥
+ACM,38Y7BSTJ,ExLi: An Inline-Test Generation Tool for Java,Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering,2024,companion,ex-⑥
+ACM,X4SNLZ4N,PINOT: Programmable Infrastructure for Networking,Proceedings of the 2023 Applied Networking Research Workshop,2023,workshop,ex-①
+ACM,HNXB6L9C,"Urban Digital-Twin Planning for Sustainable Smart Cities: System Architecture, Preliminary Experiments, and Open Challenges",Proceedings of the 2nd International Workshop on Middleware for Digital Twins,2024,workshop,ex-⑤
+ACM,SUK79ZX5,Optimizing Supply Chain Management using Permissioned Blockchains,,2025,bookSection,ex-⑥
+ACM,WFI5EXYK,Understanding Container Isolation: An Investigation of Performance Implications of Container Runtimes,Proceedings of the 9th International Workshop on Container Technologies and Container Clouds,2024,workshop,ex-⑤
+ACM,N6BG9JX8,Towards Effective yet Frugal Blockchain Network Emulation,"Proceedings of the 24th International Middleware Conference: Demos, Posters and Doctoral Symposium",2023,poster+demo+doctoral,ex-①
+ACM,DR4EFILT,MicroMatic: Fully Automated Microservices Identification Approach From Monolithic Systems,Proceedings of the ACM/IEEE 6th International Workshop on Software Engineering Research &amp; Practices for the Internet of Things,2024,workshop,ex-⑤
+ACM,XW27XELQ,Test Smells Learning by a Gamification Approach,"Proceedings of the 3rd ACM International Workshop on Gamification in Software Development, Verification, and Validation",2024,workshop,ex-①
+ACM,Z34B9HUN,AISG's Online Safety Prize Challenge: Detecting Harmful Social Bias in Multimodal Memes,Companion Proceedings of the ACM Web Conference 2024,2024,companion,ex-⑤
+ACM,AUTKZZ4P,Perspectives and Experiences Supporting Containers for Research Computing at the Texas Advanced Computing Center,"Proceedings of the SC '23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis",2023,workshop,ex-⑤
+ACM,AS84MBI7,Mitigating Security Issues in GitHub Actions,Proceedings of the 2024 ACM/IEEE 4th International Workshop on Engineering and Cybersecurity of Critical Systems (EnCyCriS) and 2024 IEEE/ACM Second International Workshop on Software Vulnerability,2024,workshop,ex-⑤
+ACM,PEUFIVH9,Computing Continuum in Heterogeneous Multi-clusters with Resource-Constrained Devices,Proceedings of the 2nd International Workshop on Middleware for the Computing Continuum,2025,workshop,ex-⑥
+ACM,4Z7IWBQ3,GraphScope Flex: LEGO-like Graph Computing Stack,Companion of the 2024 International Conference on Management of Data,2024,companion,ex-⑤
+ACM,INTDLIDN,Survey of adaptive containerization architectures for HPC,"Proceedings of the SC '23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis",2023,workshop,ex-④
+ACM,2LXUE3JZ,Geo-Awareness of Learnt Citations Prediction for Scientific Publications (Demo Paper),"Proceedings of the 7th ACM SIGSPATIAL Workshop on Location-Based Recommendations, Geosocial Networks and Geoadvertising",2023,workshop,ex-①
+ACM,NCS2RXJP,Data Management and Visualization for Benchmarking Deep Learning Training Systems,Proceedings of the Seventh Workshop on Data Management for End-to-End Machine Learning,2023,workshop,ex-⑤
+ACM,L8USUYGK,A Pattern-based Function and Workflow Visual Environment for FaaS Development across the Continuum,Companion of the 2023 ACM/SPEC International Conference on Performance Engineering,2023,companion,ex-⑤
+ACM,7FM7ICLK,Toward Competitive Serverless Deep Learning,Proceedings of the 4th International Workshop on Distributed Infrastructure for the Common Good,2024,workshop,ex-⑤
+ACM,U743KW6T,SweetCam: an IP Camera Honeypot,Proceedings of the 5th Workshop on CPS&amp;IoT Security and Privacy,2023,workshop,ex-⑤
+ACM,JBNWMBJR,IEM: A Unified Lifecycle Orchestrator for Multilingual IaC Deployments,Companion of the 2023 ACM/SPEC International Conference on Performance Engineering,2023,companion,ex-⑤
+ACM,TPU6RGXP,Cadence: A Simulator for Human Movement-based Communication Protocols,Proceedings of the 16th Cyber Security Experimentation and Test Workshop,2023,workshop,ex-⑤
+WILEY,CIFK67ZM,Using Containers on Bluemix to Run Swift Code,,2017,bookSection,ex-⑤
+WILEY,GCQCISAK,Simple Build Tool,,2016,bookSection,ex-⑤
+WILEY,2PEQ35CA,Windows Server Containers,,2018,bookSection,ex-⑤
+WILEY,PXKQE9XZ,Deploying ASP.NET Core,,2018,bookSection,ex-⑤
+WILEY,R4YZLDUT,A Novel Approach to Software Development in the MicroserviceEnvironment of vf-OS,,2018,bookSection,ex-⑤
+WILEY,ISTZ68VH,Integrated Cloud Infrastructure Offerings,,2018,bookSection,ex-⑤
+WILEY,SS6VQZBV,On the Support of NFV: Available Tools and Solutions,,2019,bookSection,ex-⑤
+WILEY,5AILKQKG,Deploying AI Models as Microservices,,2019,bookSection,ex-⑤
+WILEY,TB8REGCD,A Lightweight Container Middleware for Edge Cloud Architectures,,2019,bookSection,ex-⑤
+WILEY,6ZN9HSBT,Docker and Kubernetes,,2021,bookSection,ex-⑤
+WILEY,JWN6ZV9N,Advanced Manufacturing Cloud of Things (AMCoT) Framework,,2021,bookSection,ex-⑥
+WILEY,DMMR2L2C,Biomedical Image Segmentation by Deep Learning Methods,,2021,bookSection,ex-⑥
+WILEY,XDP8MYB3,Image Analysis and Deep Learning Web Services for Nano informatics,,2021,bookSection,ex-⑥
+WILEY,5BAU57ZD,OpenFaaS,,2022,bookSection,ex-⑤
+WILEY,BG95GLVL,Microservices Security,,2022,bookSection,ex-⑤
+WILEY,I5VCARQT,Functional Mechanism,,2022,bookSection,ex-⑤
+WILEY,BP7MLSY8,Introduction to Classical Cryptography,,2022,bookSection,ex-⑤
+WILEY,4Y857E5T,Containerizing Your Workflow on the Desktop,,2023,bookSection,ex-⑤
+WILEY,LS3UWDDQ,"Microservices, Containerization, and MPI",,2023,bookSection,ex-⑤
+WILEY,7VEFHB5M,Machine Learning in Production,,2024,bookSection,ex-⑤
+WILEY,CFPLIKHT,Enhanced Security in Chatbot,,2024,bookSection,ex-⑤
+WILEY,RVCIYBAQ,Docker,,2025,bookSection,ex-⑤
+WILEY,RH4L5JH9,Initial Design of the Juice Factory Network,,2025,bookSection,ex-⑤
+WILEY,IBJ35USW,Docker Engine Setup,,2025,bookSection,ex-⑤
+WILEY,9DBEBSL2,Vulnerability Management,,2025,bookSection,ex-⑤
+WILEY,NG8ARGQ9,Endpoint Detection and Response,,2025,bookSection,ex-⑤
+WILEY,DLNRNHME,Secure Cloud Container Platform and Container Runtime,,2025,bookSection,ex-⑤
+WILEY,DMLVT3L6,Shifting to Clouds and Containers,,2025,bookSection,ex-⑤
+WILEY,QCLGB5FY,Identity Access Management and Jump Box,,2025,bookSection,ex-⑤
+ScienceDirect,V3J7GLKL,10 - Deep learning inference systems∗,,2025,bookSection,ex-⑤
+ScienceDirect,KNUEJMNT,Pioneering agile innovation: A cloud-native MLOps Odyssey for data-driven applications,,2025,bookSection,ex-⑤
+ScienceDirect,P74T93QN,Chapter 12 - Docker: containerize your application,,2020,bookSection,ex-⑤
+ScienceDirect,XVX89CYQ,Chapter 1 - Python programming environment,,2025,bookSection,ex-⑤
+ScienceDirect,HEZICZAS,Chapter 13 - ComNetsEmu: a lightweight emulator,,2020,bookSection,ex-⑤
+ScienceDirect,LHELRVPR,Chapter 4 - Biscuit design and output,,2023,bookSection,ex-⑤
+ScienceDirect,RYTVYFVZ,Kubernetes for highly scalable and self-healing software systems,,2025,bookSection,ex-⑤
+ScienceDirect,N67IAXF9,Chapter 4 - Cloud hardware and software,,2023,bookSection,ex-⑤
+ScienceDirect,WVKCSAYF,Chapter 3 - Biscuit Design and Output,,2016,bookSection,ex-⑤
+ScienceDirect,FLJ5G9XY,Chapter 26 - Integrating software-defined radios,,2020,bookSection,ex-⑤
+ScienceDirect,GXJHGFNM,Encoding Medical Experiments in Jupyter Notebooks,,2021,bookSection,ex-⑥
+ScienceDirect,XGX5CT8D,Chapter 8 - Cloud Hardware and Software,,2018,bookSection,ex-⑤
+ScienceDirect,Y5GP7VGQ,Chapter 17 - Machine learning for flow compression,,2020,bookSection,ex-⑤
+ScienceDirect,6Y3262FA,Chapter Three - Genome-wide detection and analysis of CRISPR-Cas off-targets,,2021,bookSection,ex-⑥
+IEEE,FI6R8BRG,,,2022,book,ex-⑤
+IEEE,WHFF6LW9,,,2025,book,ex-⑤
+IEEE,BLHCZ4EP,,,2025,book,ex-⑤
+IEEE,3ZE3C5LG,,,2020,book,ex-⑤
+IEEE,Q5R8ZUBM,,,2021,book,ex-⑤
+IEEE,WFRJ9AN3,Shipping Docker Containers in Azure,,2020,bookSection,ex-⑤
+IEEE,VRWPBTKE,Distributed MPI cluster with Docker Swarm mode,2017 IEEE 7th Annual Computing and Communication Workshop and Conference (CCWC),2017,workshop,ex-⑤
+IEEE,83M62YSX,Docker and Kubernetes,,2022,bookSection,ex-⑤
+IEEE,MGTHSBGZ,Docker Engine Setup,,2025,bookSection,ex-⑤
+IEEE,TU7U62HB,"Building Modern Clouds: Using Docker, Kubernetes & Google Cloud Platform",2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC),2019,workshop,ex-⑤
+IEEE,KETA53QV,DEEP: Edge-Based Dataflow Processing with Hybrid Docker Hub and Regional Registries,2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW),2025,workshop,ex-①
+IEEE,B8M3HGW9,,,2021,book,ex-⑤
+IEEE,M35236QH,,,2019,book,ex-⑤
+IEEE,K64WX363,,,2019,book,ex-⑤
+IEEE,ZYT6I4E4,SDN docker: Enabling application auto-docking/undocking in edge switch,2016 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2016,workshop,ex-⑥
+IEEE,5LQ98UED,Enhancing Maritime Data Standardization and Integrity using Docker and Blockchain,2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion),2023,companion,ex-⑥
+IEEE,4GEKSSHG,6 Docker: An Open-Source Containerisation Platform,,2023,bookSection,ex-⑤
+IEEE,YNYDCEFQ,7 Docker Container: Volume and Network,,2023,bookSection,ex-⑤
+IEEE,W2BXP3AU,Energy Consumption Reduction through Resource Allocation Using Docker,2022 Tenth International Symposium on Computing and Networking Workshops (CANDARW),2022,workshop,ex-①
+IEEE,IU325AI2,,,2022,book,ex-⑤
+IEEE,L364AYJN,FID: A Faster Image Distribution System for Docker Platform,2017 IEEE 2nd International Workshops on Foundations and Applications of Self* Systems (FAS*W),2017,workshop,ex-⑤
+IEEE,UUX3EE4A,In Search of the Ideal Storage Configuration for Docker Containers,2017 IEEE 2nd International Workshops on Foundations and Applications of Self* Systems (FAS*W),2017,workshop,ex-⑤
+IEEE,VBFS4V7P,Building a Lab Environment Using Docker,,2021,bookSection,ex-⑤
+IEEE,H4BUR4C3,Distributed Systems of Microservices Using Docker and Serfnode,2015 7th International Workshop on Science Gateways,2015,workshop,ex-⑤
+IEEE,TDJTCRNM,Docker Container Security in Cloud Computing,2020 10th Annual Computing and Communication Workshop and Conference (CCWC),2020,workshop,ex-⑤
+IEEE,RIABXQX6,Real-Time Performance Evaluation of Containerized Virtual PLCs: A Comparative Study of Docker and Podman for Industrial Automation,2025 IEEE 30th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD),2025,workshop,ex-⑤
+IEEE,AHAGAC6Z,"KVM, Xen and Docker: A performance analysis for ARM based NFV and cloud computing","2015 IEEE 3rd Workshop on Advances in Information, Electronic and Electrical Engineering (AIEEE)",2015,workshop,ex-⑤
+IEEE,G3KLYUAY,A Flexible Cyber Security Experimentation Platform Architecture Based on Docker,"2019 IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C)",2019,companion,ex-⑤
+IEEE,LP8K93JW,Auto-Scaling a Defence Application across the Cloud Using Docker and Kubernetes,2018 IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC Companion),2018,companion,ex-⑤
+IEEE,II8CMC62,,,2024,book,ex-⑤
+IEEE,4T5XFF9N,Reflections on Trusting Docker: Invisible Malware in Continuous Integration Systems,2023 IEEE Security and Privacy Workshops (SPW),2023,workshop,ex-⑤
+IEEE,C6QG6WL4,,,2025,book,ex-⑤
+IEEE,FVIPZP8V,A Replication Package for PyCG: Practical Call Graph Generation in Python,2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (ICSE-Companion),2021,companion,ex-⑥
+IEEE,FXMBTAWQ,Container Image CVEs,,2021,bookSection,ex-⑤
+IEEE,4HUV9SGA,Artifact: Opportunistic Federated Learning: An Exploration of Egocentric Collaboration for Pervasive Computing Applications,2021 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops),2021,workshop,ex-①
+IEEE,SA2BFKYA,,,2022,book,ex-⑤
+IEEE,RE799ZJW,,,2022,book,ex-⑤
+IEEE,DG7REVZ9,Machine Learning in Production,,2024,bookSection,ex-⑤
+IEEE,Y39JR2X9,Replication Package for Article: Data-Oriented Differential Testing of Object-Relational Mapping Systems,2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (ICSE-Companion),2021,companion,ex-①
+IEEE,VZTMWEVW,Performance Evaluation of Container’s Shared Volumes,"2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",2020,workshop,ex-⑤
+IEEE,5SMZLS6T,The Case for Virtual PLC-enabled Honeypot Design,2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),2023,workshop,ex-⑤
+IEEE,8DNUCVXT,8 Use ModSecurity Web Application Firewall to Mitigate OWASP’s Top 10 Web Application Vulnerabilities,,2021,bookSection,ex-⑤
+IEEE,4GFMFDFY,,,2025,book,ex-⑤
+IEEE,N8JGM4XX,,,2021,book,ex-⑤
+IEEE,UFRNCHZD,,,2022,book,ex-⑤
+IEEE,MIBHSDIU,,,2023,book,ex-⑤
+IEEE,S53X896F,Enabling HPC Workloads on Cloud Infrastructure Using Kubernetes Container Orchestration Mechanisms,2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC),2019,workshop,ex-⑤
+IEEE,4K33V9YN,Cheap-Fake Detection with LLM Using Prompt Engineering,2023 IEEE International Conference on Multimedia and Expo Workshops (ICMEW),2023,workshop,ex-⑤
+IEEE,4RS9R79K,Realizing Edge Computing Connectivity with Open Virtual Networking,2018 IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC Companion),2018,companion,ex-⑤
+IEEE,THJQECE9,What Is A Container?,,2021,bookSection,ex-⑤
+IEEE,TBZF5ATD,Rootless Runtimes,,2021,bookSection,ex-⑤
+IEEE,ZRXEFF2J,,,2024,book,ex-⑤
+IEEE,9KZ4S4SN,,,2025,book,ex-⑤
+IEEE,RIGLN2DW,,,2025,book,ex-⑤
+IEEE,VE3QVKAK,,,2025,book,ex-⑤
+IEEE,YZLPFIEL,,,2018,book,ex-⑤
+IEEE,67YULBTD,Dynamic generation containment systems (DGCS): A Moving Target Defense approach,2016 3rd International Workshop on Emerging Ideas and Trends in Engineering of Cyber-Physical Systems (EITEC),2016,workshop,ex-⑥
+IEEE,GUUGYH6N,Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion,2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (ICSE-Companion),2021,companion,ex-①
+IEEE,S5K8Z27Q,IP Traffic Generator Using Container Virtualization Technology,2018 10th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT),2018,workshop,ex-⑥
+IEEE,WSWK4FBM,Real-World Implementation of Function Chaining in Named Data Networking for IoT Environments,2020 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR),2020,workshop,ex-⑤
+IEEE,XGHEX4FE,Demo: Benchmarking Live Migration Performance of Two Trendy Virtualization Technologies,IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2020,workshop,ex-①
+IEEE,UWP46W4E,Litener: An Accelerator-Enabled Lightweight Container for Edge Computing,2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW),2022,workshop,ex-⑤
+IEEE,RKFI5BGK,Index,,2023,bookSection,ex-①
+IEEE,RQRBMAMM,NestedNet: A Container-based Prototyping Tool for Hierarchical Software Defined Networks,2020 International Workshop on Rapid System Prototyping (RSP),2020,workshop,ex-⑤
+IEEE,UG4MSLRI,SBOM Generation Tools and Formats Affect Compliance with US Standard,"2025 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)",2025,companion,ex-⑥
+IEEE,K3LUY6HU,HPC Container Runtimes have Minimal or No Performance Impact,2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC),2019,workshop,ex-⑤
+IEEE,SRA72IFJ,DOCKEMU – A Network Emulation Tool,2015 IEEE 29th International Conference on Advanced Information Networking and Applications Workshops,2015,workshop,ex-⑤
+IEEE,RM3KURUU,Securing a Deployment Pipeline,2015 IEEE/ACM 3rd International Workshop on Release Engineering,2015,workshop,ex-①
+IEEE,TUC47373,IoT Device Virtualization for Efficient Resource Utilization in Smart City IoT Platform,2019 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops),2019,workshop,ex-①
+IEEE,742T9HYN,TRAK: A Testing Tool for Studying the Reliability of Data Delivery in Apache Kafka,2019 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW),2019,workshop,ex-①
+IEEE,TK2WLEVX,Understanding the I/O Impact on the Performance of High-Throughput Molecular Docking,2021 IEEE/ACM Sixth International Parallel Data Systems Workshop (PDSW),2021,workshop,ex-⑥
+IEEE,JQJWNMXR,NFV Orchestration Platform for 5G over On-the-fly Provisioned Infrastructure,IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2019,workshop,ex-①
+IEEE,ALT36JX6,IoT Data Analytics as a Network Edge Service,IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2019,workshop,ex-①
+IEEE,XKU6FAY5,Adapting a Container Infrastructure for Autonomous Vehicle Development,2020 10th Annual Computing and Communication Workshop and Conference (CCWC),2020,workshop,ex-⑥
+IEEE,RWMDAAUD,Multi-domain MEC orchestration platform for enhanced Back Situation Awareness,IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2021,workshop,ex-①
+IEEE,JQ4FVSJX,ConfEx: Towards Automating Software Configuration Analytics in the Cloud,2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W),2018,workshop,ex-①
+IEEE,7HQMXACR,A New Service Management Framework for Vehicular Networks,"2020 23rd Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN)",2020,workshop,ex-①
+IEEE,5DW6Q2SU,Formalization and Analysis of a Resource Allocation Security Protocol for Secure Service Migration,2018 IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC Companion),2018,companion,ex-⑤
+IEEE,F2ECBHXH,Towards Lightweight Temporal and Fault Isolation in Mixed-Criticality Systems with Real-Time Containers,2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W),2018,workshop,ex-①
+IEEE,3SSBEQGI,Accelerating Regression Testing for Scaled Self-Driving Cars with Lightweight Virtualization – A Case Study,2015 IEEE/ACM 1st International Workshop on Software Engineering for Smart Cyber-Physical Systems,2015,workshop,ex-⑤
+IEEE,PL9B9Y3V,An evaluation of Cassandra NoSQL database on a low-power cluster,2021 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW),2021,workshop,ex-⑤
+IEEE,7T7ZRSFT,Fuzzy Logic-Based Orchestration of Multi-Access Edge Computing in LEO Satellite Constellations,2024 IEEE International Conference on Communications Workshops (ICC Workshops),2024,workshop,ex-⑥
+IEEE,J9RX4FHL,An Extensible Emulation and Network Performance Analysis System for Space Information Network,2020 IEEE Globecom Workshops (GC Wkshps,2020,workshop,ex-⑤
+IEEE,4P8BB6NZ,Evasion Techniques for VM-based Black-Box Software Analysis,2022 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0&IoT),2022,workshop,ex-⑤
+IEEE,8MFYZACA,Demo Abstract: Assessing MANO Performance based on VIM Platforms within MEC Context,IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2020,workshop,ex-①
+IEEE,INU2IW2U,Constructing Network Slices with Locator/ID Split and Locator Division for 5G Core Network,2018 IEEE International Conference on Communications Workshops (ICC Workshops),2018,workshop,ex-⑤
+IEEE,7XRA43H3,Poster: BugZoo – A Platform for Studying Software Bugs,2018 IEEE/ACM 40th International Conference on Software Engineering: Companion (ICSE-Companion),2018,companion,ex-①
+IEEE,FFT6MQFD,Reviving Software Diversity in Microservices to Optimize the Performance of Software Systems,2023 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C),2023,companion,ex-①
+IEEE,TXLZV8BV,"OpenNetVM: Flexible, high performance NFV (Demo)",2016 IEEE NetSoft Conference and Workshops (NetSoft),2016,workshop,ex-①
+IEEE,EZ67KWWY,SALLMA: A Software Architecture for LLM-Based Multi-Agent Systems,2025 IEEE/ACM International Workshop New Trends in Software Architecture (SATrends),2025,workshop,ex-①
+IEEE,CZG6FVRM,Boidae: Your Personal Mining Platform,2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion),2024,companion,ex-①
+IEEE,NL4IZTD5,Autoencoder-Based PPG Compression for Resource-Constrained Device,2023 IEEE Statistical Signal Processing Workshop (SSP),2023,workshop,ex-⑤
+IEEE,SPZGYSCT,Microservices Security,,2023,bookSection,ex-⑤
+IEEE,AK9LGCXB,"Baseline Scanning (or, Zap Your Apps)",,2021,bookSection,ex-⑤
+IEEE,WPGQ7XC4,8 Container Orchestration: Managing Cluster of Containers,,2023,bookSection,ex-⑤
+IEEE,VDG57D25,Classification at the Edge: Implementation and Performance Evaluation,"2019 IEEE 7th IEEE Workshop on Advances in Information, Electronic and Electrical Engineering (AIEEE)",2019,workshop,ex-①
+IEEE,QX8LCVH5,Securing Your Git Repositories,,2021,bookSection,ex-⑤
+IEEE,3LW2RYHM,4 Container: A Solution of Diverse Platform,,2023,bookSection,ex-⑤
+IEEE,5FW4N2C7,Functional Mechanism,,2023,bookSection,ex-⑤
+IEEE,3982F8PD,A Simple Path Towards Testing Cloud Applications,2018 IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC Companion),2018,companion,ex-①
+IEEE,84ZIV9GP,A Collaborative Weightless Neural Network,2021 Workshop on Communication Networks and Power Systems (WCNPS),2021,workshop,ex-⑥
+IEEE,I3KUVQV2,Internet measurements on EdgeNet,IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2019,workshop,ex-①
+IEEE,BV43Q986,DevOps: A Journey from Microservice to Cloud Based Containerization,,2023,bookSection,ex-⑤
+IEEE,CVWAMQ8I,2 Microservice versus Monolithic Architecture,,2023,bookSection,ex-⑤
+IEEE,JB4QFC2Z,5 Container Monitoring: A Container Health Check Process,,2023,bookSection,ex-⑥
+IEEE,DCUYDXIB,AI in Space: Evaluating ML Algorithms for Onboard Decision-Making in Nanosatellites,IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2025,workshop,ex-⑥
+IEEE,FUZ8SCL4,About the Authors,,2023,bookSection,ex-①
+IEEE,UFG9YDJE,,,2021,book,ex-⑤
+IEEE,YCMSPZBG,,,2022,book,ex-⑤
+IEEE,9GRGAG28,,,2024,book,ex-⑤
+IEEE,CTVJQSUP,,,2021,book,ex-⑤
+IEEE,QNQJ5IG8,,,2023,book,ex-⑤
+IEEE,D2RCNJM7,,,2022,book,ex-⑤
+IEEE,9ZZFIRJY,,,2022,book,ex-⑤
+IEEE,BKJ22IB8,,,2021,book,ex-⑤
+IEEE,JAU3QP5T,,,2023,book,ex-⑤
+IEEE,9S64KGFU,,,2024,book,ex-⑤
+IEEE,DE5Y9XMQ,,,2021,book,ex-⑤
+IEEE,RXEDK82D,,,2022,book,ex-⑤
+IEEE,2NVUTMVG,,,2021,book,ex-⑤
+IEEE,GCG3V23R,,,2023,book,ex-⑤
+IEEE,VIQWE5UL,,,2024,book,ex-⑤
+IEEE,WY8IWID6,,,2022,book,ex-⑤
+IEEE,WDUCHCYU,,,2023,book,ex-⑤
+IEEE,BVR837MM,,,2024,book,ex-⑤
+IEEE,QGZRQDZK,Skyport - Container-Based Execution Environment Management for Multi-cloud Scientific Workflows,2014 5th International Workshop on Data-Intensive Computing in the Clouds,2014,workshop,ex-⑤
+IEEE,EIMFTEIE,SBST Tool Competition 2021,2021 IEEE/ACM 14th International Workshop on Search-Based Software Testing (SBST),2021,workshop,ex-⑤
+IEEE,X5QPM72E,Enabling Data Processing at the Network Edge through Lightweight Virtualization Technologies,"2016 IEEE International Conference on Sensing, Communication and Networking (SECON Workshops)",2016,workshop,ex-⑤
+IEEE,8JA536S5,Performance Characterization of Hypervisor-and Container-Based Virtualization for HPC on SR-IOV Enabled InfiniBand Clusters,2016 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW),2016,workshop,ex-⑤
+IEEE,EGGI5US8,An Experimental Study on Microservices based Edge Computing Platforms,IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2020,workshop,ex-⑤
+IEEE,GAZHSTGJ,Containerized Development and Microservices for Self-Driving Vehicles: Experiences & Best Practices,2017 IEEE International Conference on Software Architecture Workshops (ICSAW),2017,workshop,ex-⑥
+IEEE,YU8GSCV8,WalT: A reproducible testbed for reproducible network experiments,2016 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2016,workshop,ex-⑤
+IEEE,V4DAM8M6,NFV-compliant Traffic Monitoring and Anomaly Detection based on Dispersed Vantage Points in Shared Network Infrastructures,2018 4th IEEE Conference on Network Softwarization and Workshops (NetSoft),2018,workshop,ex-⑥
+IEEE,WAS74NI9,SMOTEC: An Edge Computing Testbed for Adaptive Smart Mobility Experimentation,2023 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C),2023,companion,ex-⑤
+IEEE,A8RK8G4I,A Low-Cost Attack against the hCaptcha System,2021 IEEE Security and Privacy Workshops (SPW),2021,workshop,ex-⑤
+IEEE,G9N55LWE,A Lightweight Container Middleware for Edge Cloud Architectures,,2019,bookSection,ex-⑤
+IEEE,65B9MCPU,Enabling Seamless Execution of Computational and Data Science Workflows on HPC and Cloud with the Popper Container-native Automation Engine,2020 2nd International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC),2020,workshop,ex-⑤
+IEEE,4KR3AQGF,DDoShield-IoT: A Testbed for Simulating and Lightweight Detection of IoT Botnet DDoS Attacks,2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W),2024,workshop,ex-⑤
+IEEE,UVHHQLU6,A Scalable System Architecture for Activity Detection with Simple Heuristics,2019 IEEE Winter Applications of Computer Vision Workshops (WACVW),2019,workshop,ex-⑤
+IEEE,YBWR9C7R,An Analysis System to Test Security of Software on Continuous Integration-Continuous Delivery Pipeline,2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),2023,workshop,ex-⑤
+IEEE,H4TL6ZKE,BDLaaS: Big Data Lab as a Service for Experimenting Big Data Solution,2017 IEEE 2nd International Workshops on Foundations and Applications of Self* Systems (FAS*W),2017,workshop,ex-⑤
+IEEE,YL4T9R6N,SWITCH-ing from Multi-Tenant to Event-Driven Videoconferencing Services,2017 IEEE 2nd International Workshops on Foundations and Applications of Self* Systems (FAS*W),2017,workshop,ex-⑤
+IEEE,CCM54QD5,Building a Real-Time Physical Layer Labeled Data Logging Facility for 6G Research,2024 IEEE 29th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD),2024,workshop,ex-⑤
+IEEE,S6FKWXVU,Extending FreeCompilerCamp.org as an Online Self-Learning Platform for Compiler Development,2020 IEEE/ACM Workshop on Education for High-Performance Computing (EduHPC),2020,workshop,ex-⑥
+IEEE,2ZA3NT4Y,Towards Trust Driven On-Demand Client Deployment in Federated Learning,IEEE INFOCOM 2023 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2023,workshop,ex-⑤
+IEEE,GSW6DWNV,"Microservices, Containerization, and MPI",,2023,bookSection,ex-⑤
+IEEE,DSKRDG4F,Automatic Challenge Generation for Hands-on Cybersecurity Training,2022 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),2022,workshop,ex-⑥
+IEEE,SZWZZ9P8,Advanced AI Computing,,2022,bookSection,ex-⑤
+IEEE,UB7DKZ4F,DRIVE: Discovery seRvice for fully-Integrated 5G enVironmEnt in the IoT,2018 IEEE 23rd International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD),2018,workshop,ex-⑤
+IEEE,FV8LB8FZ,Distributed Asynchronous Array Computing with the JetLag Environment,2020 IEEE/ACM 9th Workshop on Python for High-Performance and Scientific Computing (PyHPC),2020,workshop,ex-⑤
+IEEE,XHX4AGHJ,Introduction to Classical Cryptography,,2022,bookSection,ex-⑤
+IEEE,JKY43UP7,Biomedical Image Segmentation by Deep Learning Methods,,2021,bookSection,ex-⑥
+IEEE,2EEYQBS5,Advanced Enumeration Phase,,2021,bookSection,ex-⑤
+IEEE,AKBVMXE5,AI Music Artist Toolkit (AIMAT) - A Modular Environment for Experimenting with AI in Music,2025 IEEE International Conference on Multimedia and Expo Workshops (ICMEW),2025,workshop,ex-⑤
+IEEE,T3B997A9,10 Containerisation Services on Cloud Computing Platforms,,2023,bookSection,ex-⑤
+IEEE,PVT9RQYS,9 Kubernetes: An Advanced Orchestration Platform,,2023,bookSection,ex-⑤
+IEEE,KF9GINJ9,Advanced Manufacturing Cloud of Things (AMCoT) Framework,,2022,bookSection,ex-⑥
+IEEE,EJHHP4B6,Containerized Bioinformatics Ecosystem for HPC,2022 IEEE/ACM International Workshop on HPC User Support Tools (HUST),2022,workshop,ex-⑥
+IEEE,HUJFWCQN,Exploitation Phase,,2021,bookSection,ex-⑤
+IEEE,9QVCAJIH,Zero-consistency root emulation for unprivileged container image build,"SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis",2024,workshop,ex-⑤
+IEEE,QQVSIH37,A Reinforcement Learning-Based Approach to Enhancing Concurrency Software Failure Reproduction Rate,2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW),2025,workshop,ex-⑤
+IEEE,BY23Z9A2,Dynamic deployment model for large-scale compute-intensive clusters,IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),2020,workshop,ex-⑤
+IEEE,LRPXAZ5N,Enhanced Security in Chatbot,,2024,bookSection,ex-⑤
+IEEE,IJ8NWHS5,xSTART: xApp Simulated Evaluation Environment for Developers,2024 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0 & IoT),2024,workshop,ex-⑤
+IEEE,63QQFJ8T,1 DevOps: An Introduction,,2023,bookSection,ex-⑤
+IEEE,SP6AFHE5,3 Implementation of Microservice,,2023,bookSection,ex-⑤
+IEEE,MHETQBHK,End-To-End Confidentiality with Sev-Snp Leveraging in-Memory Storage,2025 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),2025,workshop,ex-⑤
+IEEE,L7F4C9W8,Real-World Study of the Security of Educational Test Systems,2025 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),2025,workshop,ex-⑥
+Springer,NYNM9V5I,Understanding Docker Compose,,2021,bookSection,ex-⑤
+Springer,9SRP6WBD,Docker,,2025,bookSection,ex-⑤
+Springer,E7TG7T4H,Containerizing Java Applications with Dockerfile,,2025,bookSection,ex-⑤
+Springer,FGDH2RTL,Docker,,2024,bookSection,ex-⑤
+Springer,7ILQY7AV,Exploring Docker Alternatives,,2025,bookSection,ex-⑤
+Springer,VFX635ST,Contacts Apps with Docker Compose,,2021,bookSection,ex-⑤
+Springer,TCDK3XAT,Introducing Docker,,2024,bookSection,ex-⑤
+Springer,TV844RUR,Dockerfile Syntax,,2023,bookSection,ex-⑤
+Springer,SRUK54X5,Oracle Dockerfile Recipes,,2023,bookSection,ex-⑤
+Springer,69VTMPGM,Learning Advanced Docker Concepts,,2025,bookSection,ex-⑤
+Springer,3VKRRKWT,"Docker High-Level Overview: Learn about docker, its architecture, its limitations, and how docker works.",,2025,bookSection,ex-④
+Springer,Z3RRN9VJ,Up and Running with Docker,,2025,bookSection,ex-⑤
+Springer,K5YJX448,PostgreSQL on Docker,,2024,bookSection,ex-⑤
+Springer,RMGD82C2,SecureSDNLab: An Open-Source Dockerized Platform for SDN Information Security and Research,,2025,bookSection,ex-⑤
+Springer,5XBK9UIW,Deploying Docker Containers Using GitHub Actions,,2025,bookSection,ex-⑤
+Springer,BT59R94Z,Exploring Docker Networking Features,,2024,bookSection,ex-⑤
+Springer,LYRQ4UDK,When Docker Meets Java: A Practical Guide to Docker for Java and Spring Boot Applications,,2025,book,ex-⑤
+Springer,AXAHWVN7,Docker Best Practices for Java Developers: Mastering Docker best practices and strategies for Java applications,,2025,bookSection,ex-⑤
+Springer,X7U59HMZ,Docker Security,,2022,bookSection,ex-⑤
+Springer,2525H2RJ,Evaluating DAVS Approach for Docker Images Static Analysis,,2025,bookSection,ex-⑤
+Springer,GIYWLB5D,Experiment with VNFs over Docker Containers,,2024,bookSection,ex-⑤
+Springer,GXHRIXPP,A Technical Overview of Docker Container Security Threats,,2025,bookSection,ex-④
+Springer,6WHF3VNB,Installing Docker Desktop,,2023,bookSection,ex-⑤
+Springer,4B6K8HB5,Understanding the Dockerfile,,2021,bookSection,ex-⑤
+Springer,SU2XKNIB,Container Basics Using Docker,,2023,bookSection,ex-⑤
+Springer,8R5GXW5C,Introducing Docker and Oracle,,2023,bookSection,ex-⑤
+Springer,BTGCYDIK,A Docker Interactive Tutorial,,2022,bookSection,ex-①
+Springer,DS67S5FY,Learning Docker Security for Experimenting with Cloud Security,,2024,bookSection,ex-⑤
+Springer,PKBTCME2,Oracle on Docker: Running Oracle Databases in Linux Containers,,2023,book,ex-⑤
+Springer,YPFXLIGY,MiDedup: A Restore-Friendly Deduplication Method on Docker Image Storage Systems,,2025,bookSection,ex-⑤
+Springer,SS54QHE9,"Comparative Study Between Popular Container Orchestrators: Kubernetes, K3s, and Docker Swarm",,2025,bookSection,ex-⑤
+Springer,9LTASKZV,Docker Hub and Image Repositories,,2023,bookSection,ex-⑤
+Springer,3RJZCDVW,Exploit Mitigation in Docker Containers Using Plain Text Files,,2024,bookSection,ex-⑤
+Springer,IQ5VU8QL,Docker Overview And Kubernetes Best Practices,,2023,bookSection,ex-④
+Springer,23UPABJJ,Docker-Based Web Service to Aid Prostate Cancer Diagnosis Using Deep-Learning Techniques,,2025,bookSection,ex-⑥
+Springer,8D5N7I2A,Scalability and Stability in Cloud-Native Applications: Lessons from Docker and Kubernetes Deployments,,2025,bookSection,ex-⑤
+Springer,PEGZ9XVK,Comparative Analysis of Docker Image Files Across Various Programming Environments,,2024,bookSection,ex-⑤
+Springer,7252K7V8,Increasing Productivity in Software Development Through the Use of Docker Technology,,2024,bookSection,ex-⑤
+Springer,R8U5NMGS,ESP32: QEMU Emulation Within a Docker Container,,2023,bookSection,ex-⑤
+Springer,W65XVHTU,Analysis and Implementation of Microservices Using Docker,,2023,bookSection,ex-⑤
+Springer,UUSHGEB2,Docker 101,,2021,bookSection,ex-⑤
+Springer,G6N23WYG,sRNAtoolbox: Dockerized Analysis of Small RNA Sequencing Data in Model and Non-model Species,,2023,bookSection,ex-⑥
+Springer,DFZWNIQN,Designing and Implementing an Online Judging System Based on Docker and Vue,,2024,bookSection,ex-⑤
+Springer,UWQLMDTF,Automating Vulnerability Scanning and Patching Along with OWASP and CVE Databases on Docker Container Images,,2025,bookSection,ex-⑤
+Springer,5L7PUP8W,Understanding Docker Networks,,2021,bookSection,ex-⑤
+Springer,IY99MW2P,Remote Deployment of a JADE Agent in Docker,,2023,bookSection,ex-⑤
+Springer,9JD5IPKW,Improving Performance of Docker Instance via Image Reconstruction,,2023,bookSection,ex-⑤
+Springer,HRVVHFUI,Understanding Docker Volumes,,2021,bookSection,ex-⑤
+Springer,X9UQKF2G,Docker Trusted Registry (DTR),,2022,bookSection,ex-⑤
+Springer,6UPGBV4M,Python Network Automation Virtual Lab 2: Sendmail Email Notification and Twilio SMS Notification on Docker,,2024,bookSection,ex-⑤
+Springer,TYWY7R2L,Design of Aerospace Cloud Computing Server Based on Docker Cluster,,2023,bookSection,ex-⑤
+Springer,XN3GHWPY,A Novel Architecture That Examines Network Activity in a Docker-Based Multitenant to Verify Zero Trust Container Architecture (ZTCA) Compliance,,2025,bookSection,ex-⑤
+Springer,DE2C2PLF,Docker-Based Full Life-Cycle Experimental Cloud Platform Design and Implementation,,2023,bookSection,ex-⑤
+Springer,BPGF9BKB,"Cloud Native Applications with Docker and Kubernetes: Design and Build Cloud Architecture and Applications with Microservices, EMQ, and Multi-Site Configurations",,2023,book,ex-⑤
+Springer,NFE329KJ,Understanding a DockerFile,,2021,bookSection,ex-⑤
+Springer,ABWRWF4M,An Effective Seafile Dockerfile for Raspberry Pi to Make Docker YAML Files for Treehouses,,2021,bookSection,ex-⑤
+Springer,93NVDF8J,Color Tracking Application Using AI-Based Docker Container Scheduling in Fog Computing,,2023,bookSection,ex-⑤
+Springer,EQCL63N8,Streamlining XR Application Deployment with a Localized Docker Registry at the Edge,,2023,bookSection,ex-⑤
+Springer,S5QZ64QR,The pegi3s Bioinformatics Docker Images Project,,2021,bookSection,ex-⑥
+Springer,EUL57ERC,Rio_DSA: Redirecting I/O Scheme for Dynamic Storage Allocation on Docker Container,,2023,bookSection,ex-⑤
+Springer,8TB92MJ3,Docker Container Orchestration Management: A Review,,2022,bookSection,ex-⑤
+Springer,YUUCHP2P,Deploying the Microservice as a Docker Container,,2022,bookSection,ex-⑤
+Springer,NDUC9GUU,Bringing the Dev Ship into Harbor: Docker,,2022,bookSection,ex-⑤
+Springer,MMHF5YWF,Docker Enterprise Edition/Mirantis Kubernetes Engine Installation,,2022,bookSection,ex-⑤
+Springer,DKQFDR8A,Performance Analysis of Docker Containerization and Virtualization,,2022,bookSection,ex-⑤
+Springer,TMGJLN3B,"Practical Docker with Python: Build, Release, and Distribute Your Python App with Docker",,2022,book,ex-⑤
+Springer,LBYS8BSW,Deploying the Microservice Docker Container to Kubernetes,,2022,bookSection,ex-⑤
+Springer,KJV5CGHT,Module Architecture of Docker Image and Container Security,,2022,bookSection,ex-⑤
+Springer,WLBD4F5H,Docker Registry,,2021,bookSection,ex-⑤
+Springer,YM6MIZDF,Security Access Control of Docker Process Based on Trust,,2022,bookSection,ex-⑤
+Springer,HDBLEU54,An Empirical Evaluation of the Energy and Performance Overhead of Monitoring Tools on Docker-Based Systems,,2023,bookSection,ex-⑤
+Springer,RH2IADCT,Kubernetes and Docker the Star Duo of Container Culture,,2022,bookSection,ex-⑤
+Springer,6E52QIHB,Dynamic and Resource-Aware Scheduling Scheme for Docker Cluster,,2021,bookSection,ex-⑤
+Springer,VJ68YLCJ,Docker/Kubernetes Primer,,2021,bookSection,ex-⑤
+Springer,RHZ55TJY,Basic Docker Commands,,2021,bookSection,ex-⑤
+Springer,XGUHAG73,Reorganizing Virtual Machines as Docker Containers for Efficient Data Centres,,2022,bookSection,ex-⑤
+Springer,RV29KRL7,Realtime Physics Simulation of Large Virtual Space with Docker Containers,,2022,bookSection,ex-⑥
+Springer,YJT8DN2U,WebMIaS on Docker: Deploying Math-Aware Search in a Single Line of Code,,2021,bookSection,ex-⑤
+Springer,63VL2ADU,A Complete Guide to Docker for Operations and Development: Test-Prep for the Docker Certified Associate (DCA) Exam,,2022,book,ex-⑤
+Springer,MUAH7MTW,Contacts App UI with Docker,,2021,bookSection,ex-⑤
+Springer,F58HSHUS,Contacts App Backend with Docker,,2021,bookSection,ex-⑤
+Springer,EF7AMIDQ,Machine Learning Deployment Using Docker,,2020,bookSection,ex-⑤
+Springer,JH78V7BC,Implementing Slowloris DoS Using Docker,,2020,bookSection,ex-⑤
+Springer,WQ92EXQD,Getting Set Up with Docker,,2021,bookSection,ex-①
+Springer,VBD7UNYH,Adoption of Docker Containers as an Infrastructure for Deploying Software Applications: A Review,,2021,bookSection,ex-⑤
+Springer,PHKKJQQY,Customer-Side Energy Management Controller Design Based on Edge Computing and Docker Technology,,2022,bookSection,ex-⑤
+Springer,HGFMVJLZ,Fuzzy Intelligent System for Improving High Availability of a Docker-Based Hybrid Cloud Infrastructure,,2021,bookSection,ex-⑤
+Springer,P6Q7267N,Deploy—Web Hosting Using Docker Container,,2021,bookSection,ex-⑤
+Springer,Y4HK4B8F,Audit and Analysis of Docker Tools for Vulnerability Detection and Tasks Execution in Secure Environment,,2022,bookSection,ex-⑤
+Springer,4LCCZKII,Deploying React in Netlify and in Docker,,2021,bookSection,ex-⑤
+Springer,R2QKLZKZ,Getting started with Windows Containers and Docker,,2021,bookSection,ex-⑤
+Springer,UDULJAKK,Analysis of Docker Performance in Cloud Environment,,2020,bookSection,ex-⑤
+Springer,H3FGE5ZT,Deploy Docker Containers on GCP Compute Engine,,2020,bookSection,ex-⑤
+Springer,AAU4YAWF,Vulnerability Analysis of 2500 Docker Hub Images,,2021,bookSection,ex-⑤
+Springer,JKQXK3LN,Docker Security Analysis Mechanism with Linux Platform,,2020,bookSection,ex-⑤
+Springer,P4PZEPFM,Cloud-Agnostic and Lightweight Big Data Processing Platform in Multiple Clouds Using Docker Swarm and Terraform,,2021,bookSection,ex-⑤
+Springer,4PILSTPY,"Docker Security: Architecture, Threat Model, and Best Practices",,2021,bookSection,ex-⑤
+Springer,KN53SSFS,Lab 5: Deploying Docker and Running Azure Container Workloads,,2020,bookSection,ex-⑤
+Springer,VEI2H3DQ,A System to Create Automated Development Environments Using Docker,,2021,bookSection,ex-⑤
+Springer,BXMEZN54,Building Virtual High-Performance Computing Clusters with Docker: An Application Study at the University of Economics Ho Chi Minh City,,2021,bookSection,ex-⑥
+Springer,AUHMHE3J,Analysis and Improvement of Heterogeneous Hardware Support in Docker Images,,2021,bookSection,ex-⑥
+Springer,GFXKPR5X,Artificial Intelligence Online Laboratory Based on Docker Cluster and Delay Queue,,2020,bookSection,ex-⑤
+Springer,Z5R9R67K,"Python Network Automation Labs: Ansible, pyATS, Docker, and the Twilio API",,2021,bookSection,ex-⑤
+Springer,JBCLXNYQ,The Docker Ecosystem,,2020,bookSection,ex-⑤
+Springer,EFCIKY5G,Docker Compose,,2018,bookSection,ex-⑤
+Springer,EZ2D7DKX,Inside Docker Containers,,2019,bookSection,ex-⑤
+Springer,7GN9M4DD,Understanding Docker Compose,,2018,bookSection,ex-⑤
+Springer,ZHWCPESC,Design of Middleware to Support Auto-scaling in Docker-Based Multi Host Environment,,2021,bookSection,ex-⑤
+Springer,ZQH9QAXU,Docker Images and Containers,,2020,bookSection,ex-⑤
+Springer,K72UXN4L,Bluetooth 5 and Docker Container: Together We Can Move a Step Forward Towards IOT,,2021,bookSection,ex-⑤
+Springer,3A2S2NUV,"Sembène, Ousmane: Le docker noir",,2020,bookSection,ex-①
+Springer,KSW7FJVR,Install and Configure Docker on Linux,,2020,bookSection,ex-⑤
+Springer,LZGAGZL6,Bringing the Dev Ship into Harbor: Docker,,2020,bookSection,ex-⑤
+Springer,U39Z4ZTV,Understanding the Security Risks of Docker Hub,,2020,bookSection,ex-⑤
+Springer,A4H3SJUG,Install and Configure Docker on Windows Server,,2020,bookSection,ex-⑤
+Springer,N7CNNIY7,Guide to Docker Networking for SQL Server DBAs,,2020,bookSection,ex-⑤
+Springer,4FBDCGYM,The SQL Server DBA’s Guide to Docker Containers: Agile Deployment without Infrastructure Lock-in,,2020,book,ex-⑤
+Springer,D5NPG88J,Deploy Docker Container Host on Azure Virtual Machine,,2020,bookSection,ex-⑤
+Springer,EYRNZQNV,Reproducibility of the Neural Vector Space Model via Docker,,2020,bookSection,ex-⑤
+Springer,R3BCC44N,Elixir: An Agent for Supporting Elasticity in Docker Swarm,,2020,bookSection,ex-⑤
+Springer,KTGZIXHQ,On Enhancing the Orchestration of Multi-container Docker Applications,,2020,bookSection,ex-⑤
+Springer,DG3NBBK4,To Build Scalable and Portable Blockchain Application Using Docker,,2020,bookSection,ex-⑤
+Springer,N6M8UAWT,Serverless Framework for Efficient Resource Management in Docker Environment,,2019,bookSection,ex-⑤
+Springer,BJKX45SP,Docker,,2019,bookSection,ex-①
+Springer,ERD2QIUB,IoTDoc: A Docker-Container Based Architecture of IoT-Enabled Cloud System,,2019,bookSection,ex-⑤
+Springer,J7NS53UB,"The Essential Toolbox of Data Science: Python, R, Git, and Docker",,2020,bookSection,ex-⑤
+Springer,83LA7X6H,Deployment of NRF in the Docker and Kubernetes - Based NFV Platform,,2020,bookSection,ex-⑤
+Springer,52IVVPSL,Store and Manage Docker Container Images on Azure Container Registry (ACR),,2020,bookSection,ex-⑤
+Springer,XJXGC6J4,A Self Healing Microservices Architecture: A Case Study in Docker Swarm Cluster,,2019,bookSection,ex-⑤
+Springer,9N98R5DF,N-Docker: A NVM-HDD Hybrid Docker Storage Framework to Improve Docker Performance,,2019,bookSection,ex-⑤
+Springer,XHVKDRGP,Twisted in Docker,,2018,bookSection,ex-⑤
+Springer,FZDTZ5EC,An Attempt to Perform TCP ACK Storm Based DoS Attack on Virtual and Docker Network,,2020,bookSection,ex-⑤
+Springer,FNADFDF8,A Dockerized String Analysis Workflow for Big Data,,2019,bookSection,ex-⑤
+Springer,FQTE94T7,Molegro Virtual Docker for Docking,,2019,bookSection,ex-⑥
+Springer,WD57SEUT,Docker Compose,,2017,bookSection,ex-⑤
+Springer,L5EEPZ4B,Docker Compose,,2017,bookSection,ex-⑤
+Springer,H5Q226AW,"Generic Pipelines Using Docker: The DevOps Guide to Building Reusable, Platform Agnostic CI/CD Frameworks",,2018,book,ex-⑥
+Springer,7A426JEA,Docker Containers Versus Virtual Machine-Based Virtualization,,2018,bookSection,ex-⑤
+Springer,K6RL6N8R,Application of Docker Container in Intelligent Traffic Cloud,,2018,bookSection,ex-⑥
+Springer,FMMM8SVI,Sarus: Highly Scalable Docker Containers for HPC Systems,,2019,bookSection,ex-⑤
+Springer,NXPP9J24,Deploying a Scalable Data Science Environment Using Docker,,2019,bookSection,ex-⑤
+Springer,4WK9LVAW,Accelerating Development Velocity Using Docker: Docker Across Microservices,,2018,book,ex-⑤
+Springer,3IAEXHIT,Installing a Docker Host on an Amazon EC2 Instance,,2019,bookSection,ex-⑤
+Springer,J8E2QT2F,Probabilistic Real-Time Intrusion Detection System for Docker Containers,,2019,bookSection,ex-⑤
+Springer,L6CBCTYR,"Storing, Managing, and Deploying Docker Container Images with Amazon ECR",,2019,bookSection,ex-⑤
+Springer,4HZWXWAF,Helping Your Docker Images to Spread Based on Explainable Models,,2019,bookSection,ex-⑤
+Springer,AIE7IL7E,Understanding the Dockerfile,,2018,bookSection,ex-⑤
+Springer,FX9GIR8R,Controlled Remote Usage of Private Shared Resources via Docker and NoVNC,,2019,bookSection,ex-⑤
+Springer,27I65JXP,Docker,,2018,bookSection,ex-⑤
+Springer,GWXBU375,"Practical Docker with Python: Build, Release and Distribute your Python App with Docker",,2018,book,ex-⑤
+Springer,95THXS5U,YOLO: Speeding Up VM and Docker Boot Time by Reducing I/O Operations,,2019,bookSection,ex-⑤
+Springer,Y8GQYX5K,Docker Images,,2018,bookSection,ex-⑤
+Springer,75YYYBRS,Docker Basics,,2018,bookSection,ex-⑤
+Springer,8MI65ZHP,Docker 101,,2018,bookSection,ex-⑤
+Springer,FRQZ5WZ6,Design and Performance Analysis of Docker-Based Smart Manufacturing Platform Based on Deep Learning Model,,2019,bookSection,ex-⑥
+Springer,BYPV8CM9,Understanding Docker Networks,,2018,bookSection,ex-⑤
+Springer,5NWDENT7,Understanding Docker Volumes,,2018,bookSection,ex-⑤
+Springer,C5KZSLY2,Advanced Docker Use Cases,,2018,bookSection,ex-⑤
+Springer,XWHMLN4B,Debugging Microservices Using Docker,,2018,bookSection,ex-⑤
+Springer,EZ3XA2R4,Joining Jolie to Docker: Orchestration of Microservices on a Containers-as-a-Service Layer,,2018,bookSection,ex-⑤
+Springer,RI5SXPCJ,Containerization with Docker and Kubernetes,,2018,bookSection,ex-⑤
+Springer,RK75R7F9,TosKer: Orchestrating Applications with TOSCA and Docker,,2018,bookSection,ex-⑤
+Springer,PTY9KGQE,Node Microservices with Docker and AWS ECS,,2018,bookSection,ex-⑤
+Springer,2HDWHBN3,Getting it Right with Docker and Scripts,,2018,bookSection,ex-⑤
+Springer,KDSXI9EV,Performance Analysis of Virtual Machines and Docker Containers,,2018,bookSection,ex-⑤
+Springer,JR6XDC4U,New Multi-objectives Scheduling Strategies in Docker SwarmKit,,2018,bookSection,ex-⑤
+Springer,JUA7FAWZ,"From (Incomplete) TOSCA Specifications to Running Applications, with Docker",,2018,bookSection,ex-⑤
+Springer,72AXSCF8,Docker Management Design Patterns,,2017,book,ex-⑤
+Springer,PERTZYE6,"Cassandra on Docker, Apache Spark, and the Cassandra Cluster Manager",,2017,bookSection,ex-⑤
+Springer,4DICRIP2,The Dockerfile,,2017,bookSection,ex-⑤
+Springer,5F9L9KDN,Container-VM-PM Architecture: A Novel Architecture for Docker Container Placement,,2018,bookSection,ex-⑤
+Springer,IAXI3EGB,A Power Grid GIS Cloud Framework Based on Docker and OpenStack,,2018,bookSection,ex-⑤
+Springer,9QT2LEF8,Docker for Data Science,,2017,book,ex-⑤
+Springer,XNCJVNAU,Using Docker Swarm with a User-Centric Decision-Making Framework for Cloud Application Migration,,2018,bookSection,ex-⑤
+Springer,9UJFYJSB,A Model Checker Collection for the Model Checking Contest Using Docker and Machine Learning,,2018,bookSection,ex-⑤
+Springer,P6KGM3AT,Docker,,2017,bookSection,ex-⑤
+Springer,4RPX7NRE,Docker,,2017,bookSection,ex-⑤
+Springer,EXHCUDK7,Docker Hub,,2017,bookSection,ex-⑤
+Springer,MQSP5HYU,Docker Swarms,,2017,bookSection,ex-⑤
+Springer,9TMUKYEH,Docker Services,,2017,bookSection,ex-⑤
+Springer,WFGSFE8H,Understanding Docker,,2017,bookSection,ex-⑤
+Springer,LYHID5PD,The Docker Engine,,2017,bookSection,ex-⑤
+Springer,RM838J4W,ROS and Docker,,2017,bookSection,ex-⑥
+Springer,PHS8CMCY,Getting Started with Docker,,2017,bookSection,ex-⑤
+Springer,MB2WH27W,Docker Volumes and Networks,,2017,bookSection,ex-⑤
+Springer,N73JBV7C,Docker Images and Containers,,2017,bookSection,ex-⑤
+Springer,ZC9EV5ZX,Essential Docker Quick Reference,,2017,bookSection,ex-⑤
+Springer,8E6T6I2H,Using Docker in Swarm Mode,,2017,bookSection,ex-⑤
+Springer,MSYTKZYD,Essential Docker for ASP.NET Core MVC,,2017,book,ex-⑤
+Springer,5TZLAQQF,Using Swarm Mode in Docker Cloud,,2017,bookSection,ex-⑤
+Springer,464DX5LP,Evaluating Raft in Docker on Kubernetes,,2016,bookSection,ex-⑤
+Springer,UK5MNTT9,Setting Up Jenkins on Docker and Cloud,,2017,bookSection,ex-⑤
+Springer,6QGVRGBN,Build as Docker and Deploy to Azure,,2017,bookSection,ex-⑤
+Springer,IL48B8QG,"HA Jenkins Setup Using CoreOS, Docker, and GlusterFS",,2017,bookSection,ex-⑤
+Springer,V2K6S3CE,Using Docker for AWS to Create a Multi-Zone Swarm,,2017,bookSection,ex-⑤
+Springer,S47HDVT3,Preparing an Application for Production and Creating a Docker Image,,2017,bookSection,ex-⑤
+Springer,W6JSSPNM,"Deploying Rails with Docker, Kubernetes and ECS",,2016,book,ex-⑤
+Springer,NUH9AB7T,Continuous Deployment to Azure Linux Virtual Machines by Using Docker Cloud,,2017,bookSection,ex-⑤
+Springer,GJEH3FXH,On a Fog Computing Platform Built on ARM Architectures by Docker Container Technology,,2017,bookSection,ex-⑤
+Springer,R5UUTUD9,Performance Comparison of Distributed Processing of Large Volume of Data on Top of Xen and Docker-Based Virtual Clusters,,2017,bookSection,ex-⑤
+Springer,EEC4LUUE,Kubernetes Microservices with Docker,,2016,book,ex-⑤
+Springer,CL7X5SCC,Hello Docker,,2016,bookSection,ex-⑤
+Springer,2IGY9I55,Pro Docker,,2016,book,ex-⑤
+Springer,PFBUIGYJ,Installing Kubernetes Using Docker,,2016,bookSection,ex-⑤
+Springer,ACUDNHDT,Employing Docker Swarm on OpenStack for Biomedical Analysis,,2016,bookSection,ex-⑥
+Springer,JHP29TH8,Power Optimization System for a Small PC Using Docker,,2016,bookSection,ex-⑤
+Springer,IGURVRUV,The Case for Docker in Multicloud Enabled Bioinformatics Applications,,2016,bookSection,ex-⑥
+Springer,ZPF62UVH,HDID: An Efficient Hybrid Docker Image Distribution System for Datacenters,,2016,bookSection,ex-⑤
+Springer,YKJ6WGD6,Using Docker Containers to Improve Reproducibility in Software and Web Engineering Research,,2016,bookSection,ex-①
+Springer,IX4MISJT,An Approach for Cross-Community Content Recommendation: A Case Study on Docker,,2016,bookSection,ex-⑤
+Springer,T32FN39R,A New Virtualized Environment for Application Deployment Based on Docker and AWS,,2016,bookSection,ex-⑤
+Springer,II578J7G,Analysis of Network IO Performance in Hadoop Cluster Environments Based on Docker Containers,,2016,bookSection,ex-⑤
+Springer,H8C2KMS7,Orchestrating Docker Containers in the HPC Environment,,2015,bookSection,ex-⑤
+Springer,JVNXNP4R,SBMLDock: Docker Driven Systems Biology Tool Development and Usage,,2015,bookSection,ex-①
+Springer,UZTLWKK3,Four-Fold Auto-Scaling on a Contemporary Deployment Platform Using Docker Containers,,2015,bookSection,ex-⑤
+,,It’s Not Just Timestamps: A Study on Docker Reproducibility,FSE Companion '26: Proceedings of the 34th ACM International Conference on the Foundations of Software EngineeringPages 70–72https://doi.org/10.1145/3803437.3804434,,companion,ex-①
+,,Supporting the Comprehension of Data Analysis Scripts,FSE Companion '26: Proceedings of the 34th ACM International Conference on the Foundations of Software EngineeringPages 112–116https://doi.org/10.1145/3803437.3806402,,companion,ex-⑤
+,,SmartPatchLinker: An Open-Source Tool to Linked Changes Detection for Code Review,FSE Companion '26: Proceedings of the 34th ACM International Conference on the Foundations of Software EngineeringPages 272–276https://doi.org/10.1145/3803437.3806434,,companion,ex-⑤
+,,OpenMCP: an open-source self-hosted benchmarking harness for MCP-enabled computer use agents,EuroMLSys '26: Proceedings of the Sixth European Workshop on Machine Learning and SystemsPages 456–465https://doi.org/10.1145/3805621.3807649,,workshop,ex-⑤
+,,LVing: A Vulnerability Detection and Visualization Platform for Rust,"ICSE-Companion '26: Proceedings of the 2026 IEEE/ACM 48th International Conference on Software EngineeringApril 2026, Pages 85–88https://doi.org/10.1145/3774748.3787610",,companion,ex-⑤
+,,From Code to Execution: Multi-Agent GraphRAG for Automated Artifact Generation,EuroMLSys '26: Proceedings of the Sixth European Workshop on Machine Learning and SystemsPages 147–154https://doi.org/10.1145/3805621.3807637,,workshop,ex-⑤
+,,ORCA: Unveiling Obscure Containers In The Wild,SCORED '25: Proceedings of the 2025 Workshop on Software Supply Chain Offensive Research and Ecosystem DefensesPages 74–84https://doi.org/10.1145/3733827.3765531,,workshop,ex-⑤
+,,Evaluating Kubernetes Autoscaling Strategies for IoT-Oriented Blockchain-Based Data Ingestion,"2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)",2026,companion,ex-⑥
+,,Driving On: Taking Our Autoware AV Testbed Further,2026 IEEE Intelligent Vehicles Symposium Workshops (IV Workshops),2026,workshop,ex-⑤
+,,Benchmarking WebAssembly on Edge Devices,"2025 IEEE 32nd International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW)",2025,workshop,ex-⑤
+,,A Preliminary Study of LLM Inferencing on Sandboxed Environments for Jetson Edge Platforms,2026 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW),2026,workshop,ex-⑤
+,,A Digital Twin-enabled Swarm Intelligence Approach to Distributed Processing in IoT Networks,2026 IEEE International Conference on Communications Workshops (ICC Workshops),2026,workshop,ex-⑤
+,,Seeing in Shades of Gray: Real-time Federated Image-Based Malicious Traffic Detection,2026 56th Annual IEEE International Conference on Dependable Systems and Networks Workshops (DSN-W),2026,workshop,ex-⑥
+,,FedGuard-IIoT: A Scalable Federated Learning Architecture for Network-IDS in the Industrial IoT,2025 IEEE Globecom Workshops (GC Wkshps),2025,workshop,ex-⑤
+,,Efficient Deployment of Large Speech Recognition Models on GPU,2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU),2025,workshop,ex-⑤
+,,Implementation and Evaluation of Open and Reproducible NF Migration Scenarios in a Containerized 6G Core Network,2025 IEEE Globecom Workshops (GC Wkshps),2025,workshop,ex-⑤
+,,Policy-as-Code in the Wild: A Taxonomy and Dataset for Open Policy Agent from Github,"2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)",2026,companion,ex-⑤
+,,Evaluating HPK for Running Cloud-Native Workloads on Slurm Clusters,"SC25-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis",2025,workshop,ex-⑤
+,,DeepID Challenge of Detecting Synthetic Manipulations in ID Documents,2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW),2025,workshop,ex-⑤
+,,Passive Reconstruction of Embedded IP Network Topology from Multi-Segment Traffic,2026 IEEE International Workshop on Metrology for Automotive (MetroAutomotive),2026,workshop,ex-⑥
+,,On the Energy Consumption of Continuous Integration in Open-Source Java Projects,"2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)",2026,companion,ex-⑤
+,,Giving a Humanoid Robot a Face - 3D Avatar Generation for Remote Hospital Visits via Telepresence,2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW),2026,workshop,ex-⑥
+,,PickleFuzzer: A Case Study in Fuzzing for Discrepancies Between Python Pickle Implementations,2026 IEEE Symposium on Security and Privacy Workshops (SPW),2026,workshop,ex-⑤
+,,The SBOM Transparency v. Exposure Dilemma: A Case Study on Adversarial Access to Public SBOMs in Healthcare,2025 Annual Computer Security Applications Conference Workshops (ACSAC Workshops),2025,workshop,ex-⑥
+,,"Towards a Programming-Free, Hands-On Introduction to Concepts in High-Performance and Cloud Computing for First-Year University Students","2025 IEEE 32nd International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW)",2025,workshop,ex-⑥
+,,The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs,2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW),2025,workshop,ex-⑤
+,,Position Paper: Living Artifacts: Enabling Vertical Progress in Cybersecurity Research,2026 IEEE Symposium on Security and Privacy Workshops (SPW),2026,workshop,ex-⑤
+,,Using Foundation Models to Forecast the Workload of Edge Network Functions for Green Computing,2026 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops),2026,workshop,ex-⑤
+,,Intent-Based Web Application for Managing Sdn Research Clusters,2026 IEEE 46th International Conference on Distributed Computing Systems Workshops (ICDCSW),2026,workshop,ex-⑤
+,,Building an Open-Source Data Lakehouse: A Hands-on Exploration,2026 IEEE 16th Annual Computing and Communication Workshop and Conference (CCWC),2026,workshop,ex-⑤
+,,CAMEO: A Co-design Architecture for Multi-objective Energy System Optimization,"SC25-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis",2025,workshop,ex-⑤
+,,Artifact: Addressing Extra Voices and Background Noise in Continuous Speech Monitoring,2026 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops),2026,workshop,ex-⑤
+,,Design and Development of a RAG-Supported Chatbot Enhanced with RGC Prompt Method for Competency Assessment in Maritime Education,2025 International Workshop on Artificial Intelligence and Education (WAIE),2025,workshop,ex-⑥
+,,A Modular and Lightweight SDN-Enabled 5G Network Slicing Framework for Additive Manufacturing,2026 IEEE 16th Annual Computing and Communication Workshop and Conference (CCWC),2026,workshop,ex-⑥
+,,Broken Access Control Risks in Open Source Javascript Projects: A Security Analysis,"2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)",2026,companion,ex-⑤
+,,Toward Deviceless Paradigm: An IoT-centered and Orchestrated FaaS Architecture,2026 IEEE International Conference on Smart Computing Workshops and Other Affiliated events (SmartComp Companion),2026,workshop+companion,ex-⑤

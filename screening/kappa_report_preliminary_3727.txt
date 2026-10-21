@@ -1,0 +1,20 @@
+Preliminary-screening dual labeling — Cohen's Kappa report (matches the paper, Sec. III.C)
+
+Pipeline: 4,382 library records -> 4,379 after consolidating identical exports ->
+automatic bibliographic filtering removes 652 non-archival records (books, book chapters,
+workshop-only papers, posters, demo/doctoral-symposium abstracts), with the filtered list
+verified manually so that peer-reviewed contributions (LNCS chapters, artifact/short papers
+in companion proceedings; 16 records) are not removed -> 3,727 preliminary screening records.
+
+n = 3727 (dual-labeled by both authors independently)
+Multi-class Cohen's Kappa = 0.872 (Po = 0.917)
+Binary keep/exclude: Po = 0.917, Kappa = 0.707
+Disagreements: 311 (8.3%), resolved by consensus/adjudication
+
+Final label distribution: {'keep': 135, 'ex-⑥': 708, 'ex-⑤': 2430, 'ex-①': 392, 'ex-④': 27, 'fail-in-④': 35}
+Kept: 135; excluded: 3592
+Exclusion reasons (dominant): no SE contribution 2430 | non-SE domain 708 | short/non-archival 392 | venue-type 35 | review 27
+
+Reference (entire labeled corpus, including the 652 auto-filtered records):
+n = 4,379; multi-class Kappa = 0.858; binary Kappa = 0.702; disagreements = 408 (9.3%).
+See full_screening_kappa_report.txt.

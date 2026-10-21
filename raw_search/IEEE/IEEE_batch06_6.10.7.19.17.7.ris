@@ -1,0 +1,1570 @@
+TY  - JOUR
+TI  - PeerSync: Accelerating Containerized Model Inference at the Network Edge
+T2  - IEEE Transactions on Services Computing
+SP  - 1450
+EP  - 1463
+AU  - Y. Deng
+AU  - H. Zhao
+AU  - D. Wang
+AU  - P. Chen
+AU  - W. Qian
+AU  - J. Yin
+AU  - S. Dustdar
+AU  - S. Deng
+PY  - 2026
+DO  - 10.1109/TSC.2025.3648591
+JO  - IEEE Transactions on Services Computing
+IS  - 2
+SN  - 1939-1374
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Services Computing
+Y1  - March-April 2026
+ER  - 
+
+TY  - CONF
+TI  - Broken Access Control Risks in Open Source Javascript Projects: A Security Analysis
+T2  - 2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)
+SP  - 222
+EP  - 229
+AU  - R. Ayusinta
+AU  - R. Jolak
+AU  - R. K. Shahzad
+PY  - 2026
+DO  - 10.1109/SANER-C67878.2026.00036
+JO  - 2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)
+Y1  - 17-20 March 2026
+ER  - 
+
+TY  - CONF
+TI  - Deploying Distilled AI Models for Email Phishing Detection
+T2  - 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)
+SP  - 1
+EP  - 6
+AU  - N. Jahan
+AU  - M. R. Imran
+AU  - M. M. Jahan
+AU  - T. M. S. Sazzad
+PY  - 2026
+DO  - 10.1109/QPAIN69676.2026.11546424
+JO  - 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)
+Y1  - 16-18 April 2026
+ER  - 
+
+TY  - JOUR
+TI  - Quantum Machine Learning for Cybersecurity: Toward Smarter Intrusion Detection Systems
+T2  - IEEE Transactions on Consumer Electronics
+SP  - 1
+EP  - 1
+AU  - M. U. Rehman
+AU  - K. Rehan
+AU  - M. Abrar
+AU  - I. Rehan
+PY  - 2026
+DO  - 10.1109/TCE.2026.3697692
+JO  - IEEE Transactions on Consumer Electronics
+IS  - 
+SN  - 1558-4127
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Consumer Electronics
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - Transformer-Driven NLP Framework for High-Precision Phishing Email Identification
+T2  - 2026 6th International Conference on Intelligent Technologies (CONIT)
+SP  - 1
+EP  - 6
+AU  - S. Noorain
+AU  - J. Metan
+AU  - T. Sharieff
+AU  - Z. Harmain
+PY  - 2026
+DO  - 10.1109/CONIT69683.2026.11621314
+JO  - 2026 6th International Conference on Intelligent Technologies (CONIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Intelligent Technologies (CONIT)
+Y1  - 19-21 June 2026
+ER  - 
+
+TY  - CONF
+TI  - Architecture of Specialized Educational and Cultural Platform for Ukrainians Abroad
+T2  - 2026 16th International Conference on Advanced Computer Information Technologies (ACIT)
+SP  - 1076
+EP  - 1081
+AU  - I. Voytyuk
+AU  - A. Pukas
+AU  - V. Savitska
+AU  - D. Klimchyk
+AU  - M. Koromysel
+AU  - V. Sopiha
+PY  - 2026
+DO  - 10.1109/ACIT69831.2026.11700100
+JO  - 2026 16th International Conference on Advanced Computer Information Technologies (ACIT)
+IS  - 
+SN  - 2770-5226
+VO  - 
+VL  - 
+JA  - 2026 16th International Conference on Advanced Computer Information Technologies (ACIT)
+Y1  - 2-4 Sept. 2026
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Committee-based Multi-cloud Coordination with Proactive Security in Cloud–Edge–Device Collaboration System
+T2  - IEEE Internet of Things Journal
+SP  - 1
+EP  - 1
+AU  - T. Jiang
+AU  - Z. Chen
+AU  - G. Zhang
+AU  - M. Peng
+AU  - Y. Zhang
+PY  - 2026
+DO  - 10.1109/JIOT.2026.3733357
+JO  - IEEE Internet of Things Journal
+IS  - 
+SN  - 2327-4662
+VO  - 
+VL  - 
+JA  - IEEE Internet of Things Journal
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - EfficientNet-Based Cotton Disease Detection and Treatment Support System for Smart Farming
+T2  - 2026 9th International Conference on Circuit, Power & Computing Technologies (ICCPCT)
+SP  - 966
+EP  - 972
+AU  - N. Uday
+AU  - Vijaykumar
+AU  - V. Angadi
+AU  - I. P. Vishwasa
+AU  - P. Bharti
+PY  - 2026
+DO  - 10.1109/ICCPCT70290.2026.11654918
+JO  - 2026 9th International Conference on Circuit, Power & Computing Technologies (ICCPCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 9th International Conference on Circuit, Power & Computing Technologies (ICCPCT)
+Y1  - 6-7 Aug. 2026
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Mobile Devices as Dynamic Compute Nodes in Cloud-Native Edge Networks
+T2  - 2025 IEEE Conference on Network Function Virtualization and Software-Defined Networking (NFV-SDN)
+SP  - 1
+EP  - 6
+AU  - A. K. Salkintzis
+AU  - F. Balasis
+AU  - N. Petropouleas
+AU  - D. Dimopoulos
+PY  - 2025
+DO  - 10.1109/NFV-SDN66355.2025.11349541
+JO  - 2025 IEEE Conference on Network Function Virtualization and Software-Defined Networking (NFV-SDN)
+IS  - 
+SN  - 2832-2231
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Network Function Virtualization and Software-Defined Networking (NFV-SDN)
+Y1  - 10-12 Nov. 2025
+ER  - 
+
+TY  - CONF
+TI  - Gideon: An ERP Powered AI Assistant
+T2  - 2025 IEEE Pune Section International Conference (PuneCon)
+SP  - 1
+EP  - 6
+AU  - M. Shekokar
+AU  - P. Pandit
+AU  - N. Sable
+AU  - A. Gilankar
+AU  - A. Yenkikar
+AU  - N. Sakhare
+PY  - 2025
+DO  - 10.1109/PuneCon67554.2025.11379803
+JO  - 2025 IEEE Pune Section International Conference (PuneCon)
+IS  - 
+SN  - 2831-5022
+VO  - 
+VL  - 
+JA  - 2025 IEEE Pune Section International Conference (PuneCon)
+Y1  - 12-14 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - Energy Efficient Cloud-based Resource Management and 5G Network Orchestration
+T2  - 2025 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
+SP  - 1
+EP  - 6
+AU  - A. Malicheti
+AU  - A. Papuri
+AU  - A. Cheguri
+AU  - N. Kumar
+AU  - V. Satyakumar
+AU  - S. Yoon
+PY  - 2025
+DO  - 10.1109/CONECCT65861.2025.11306607
+JO  - 2025 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
+IS  - 
+SN  - 2766-2101
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
+Y1  - 10-13 July 2025
+ER  - 
+
+TY  - JOUR
+TI  - A Transfer Learning-Based Framework for Real-Time Driver Distraction Detection on Edge Devices
+T2  - IEEE Access
+SP  - 96247
+EP  - 96256
+AU  - Y. Singh
+AU  - A. Roy
+AU  - R. N. Rao
+PY  - 2026
+DO  - 10.1109/ACCESS.2026.3703101
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+ER  - 
+
+TY  - CONF
+TI  - Riding the TiDE: Lightweight TIV-Aware Delay Estimation in P2P-Based Decentralized Networks
+T2  - 2026 IEEE 51st Conference on Local Computer Networks (LCN)
+SP  - 1
+EP  - 9
+AU  - M. Kim
+AU  - S. Ji
+AU  - H. Noh
+AU  - H. Song
+PY  - 2026
+DO  - 10.1109/LCN67947.2026.11660784
+JO  - 2026 IEEE 51st Conference on Local Computer Networks (LCN)
+IS  - 
+SN  - 2832-1421
+VO  - 
+VL  - 
+JA  - 2026 IEEE 51st Conference on Local Computer Networks (LCN)
+Y1  - 7-9 Oct. 2026
+ER  - 
+
+TY  - CONF
+TI  - A Hybrid ML Framework for Intelligent ERP Systems: Clustering, Forecasting, and Anomaly Detection for Small Retail Businesses
+T2  - 2026 International Conference on Advanced Computing and Knowledge Engineering (ICACKE)
+SP  - 1
+EP  - 6
+AU  - A. Vinod
+AU  - A. Senthil
+AU  - M. Sachin
+AU  - G. H. Swaratmika
+AU  - Meenakshi
+AU  - N. Talekar
+PY  - 2026
+DO  - 10.1109/ICACKE65470.2026.11651188
+JO  - 2026 International Conference on Advanced Computing and Knowledge Engineering (ICACKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Advanced Computing and Knowledge Engineering (ICACKE)
+Y1  - 23-24 July 2026
+ER  - 
+
+TY  - CONF
+TI  - Dualscan.AI: A Unified Platform for Brain Tumor and Pneumonia Recognition from Medical Images
+T2  - 2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)
+SP  - 1
+EP  - 6
+AU  - N. Bhuvaneswary
+AU  - B. H. Krishna
+AU  - S. V. Kumar
+AU  - P. S. Prakash
+PY  - 2025
+DO  - 10.1109/ICAFT66710.2025.11452727
+JO  - 2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)
+Y1  - 19-21 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - Network Slicing Performance Analysis on an Open-Source-Based 5G Nomadic Node
+T2  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+SP  - 1
+EP  - 6
+AU  - E. -R. Modroiu
+AU  - J. Cheng
+AU  - D. Atlaß
+AU  - S. D. Thakur
+AU  - T. Magedanz
+PY  - 2026
+DO  - 10.1109/CITS70307.2026.11637331
+JO  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+Y1  - 22-24 July 2026
+ER  - 
+
+TY  - CONF
+TI  - TrustBreak: A Machine Learning-Driven Real-Time Zero-Day Phishing URL Detection and Explainable Browser Security System
+T2  - 2026 International Conference on Computer Networks and Inventive Communication Technologies (ICCNCT)
+SP  - 1555
+EP  - 1560
+AU  - K. Ananthajothi
+AU  - K. Lokesh
+PY  - 2026
+DO  - 10.1109/ICCNCT68477.2026.11590274
+JO  - 2026 International Conference on Computer Networks and Inventive Communication Technologies (ICCNCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computer Networks and Inventive Communication Technologies (ICCNCT)
+Y1  - 11-13 May 2026
+ER  - 
+
+TY  - CONF
+TI  - MMF-Net: A Multi-Modal Fusion Framework with CNN-LSTM and Ensemble Learning for Predictive Grading
+T2  - 2026 International Conference on Digital Analysis and Processing, Intelligent Computation (DAPIC)
+SP  - 234
+EP  - 240
+AU  - Z. Tan
+AU  - R. Xu
+AU  - P. Fu
+AU  - X. Zhang
+AU  - H. Sun
+PY  - 2026
+DO  - 10.23919/DAPIC.2026.00045
+JO  - 2026 International Conference on Digital Analysis and Processing, Intelligent Computation (DAPIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Digital Analysis and Processing, Intelligent Computation (DAPIC)
+Y1  - 26-28 Feb. 2026
+ER  - 
+
+TY  - CONF
+TI  - Standalone VR-Based Softskill Enhancement and Tracking System
+T2  - 2026 12th International Conference on Communication and Signal Processing (ICCSP)
+SP  - 1028
+EP  - 1033
+AU  - S. A. Deborah
+AU  - T. Mirnalinee
+AU  - S. V
+AU  - S. S
+AU  - S. M
+PY  - 2026
+DO  - 10.1109/ICCSP68173.2026.11539666
+JO  - 2026 12th International Conference on Communication and Signal Processing (ICCSP)
+IS  - 
+SN  - 2836-1873
+VO  - 
+VL  - 
+JA  - 2026 12th International Conference on Communication and Signal Processing (ICCSP)
+Y1  - 20-22 April 2026
+ER  - 
+
+TY  - CONF
+TI  - A Preliminary Study of On-Premises Hospital Operational Analytics Using Microservice Architecture and Local Generative AI
+T2  - 2026 International Electronics Symposium (IES)
+SP  - 1195
+EP  - 1201
+AU  - B. I. Pradana
+AU  - M. C. Irawan
+AU  - K. Y. M. Zhorif
+AU  - A. L. Haz
+AU  - E. D. Fajrianti
+AU  - S. Sukaridhoto
+AU  - A. Wibowo
+AU  - M. R. Mufid
+PY  - 2026
+DO  - 10.1109/IES71033.2026.11702720
+JO  - 2026 International Electronics Symposium (IES)
+IS  - 
+SN  - 2994-368X
+VO  - 
+VL  - 
+JA  - 2026 International Electronics Symposium (IES)
+Y1  - 1-3 Aug. 2026
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of NVIDIA Jetson Nano Platforms for Machine Learning
+T2  - 2025 8th International Conference on Informatics and Computational Sciences (ICICoS)
+SP  - 428
+EP  - 433
+AU  - G. Aryotejo
+AU  - B. Kanigoro
+AU  - F. R. Y. Firmansyah
+AU  - P. W. Adi
+AU  - A. S. Pramayoga
+PY  - 2025
+DO  - 10.1109/ICICoS68590.2025.11329541
+JO  - 2025 8th International Conference on Informatics and Computational Sciences (ICICoS)
+IS  - 
+SN  - 2767-7087
+VO  - 
+VL  - 
+JA  - 2025 8th International Conference on Informatics and Computational Sciences (ICICoS)
+Y1  - 29-30 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Evaluating Fine-tuned Code Language Models for SSTI Payload Candidate Generation
+T2  - 2026 7th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+SP  - 369
+EP  - 377
+AU  - K. Li
+AU  - C. Huo
+AU  - Q. Ruan
+AU  - Y. Wang
+AU  - L. Zhang
+AU  - L. Cui
+PY  - 2026
+DO  - 10.1109/ICBASE70763.2026.11619473
+JO  - 2026 7th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 7th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+Y1  - 12-14 June 2026
+ER  - 
+
+TY  - CONF
+TI  - KARYAGO: A Website-Based Application of Employee Management
+T2  - 2025 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+SP  - 1311
+EP  - 1316
+AU  - O. S. Syahid
+AU  - Y. Yanfi
+PY  - 2025
+DO  - 10.1109/ICIMCIS68501.2025.11326990
+JO  - 2025 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+IS  - 
+SN  - 2837-5203
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+Y1  - 3-4 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - Integrating a Fish Taxonomy Database with Odoo ERP for Data Standardization in the Fisheries Industry
+T2  - 2025 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+SP  - 838
+EP  - 843
+AU  - B. S. Prakoso
+AU  - A. H. Tiana
+AU  - R. T. Parsetyo
+AU  - S. B. Ardika
+AU  - A. F. N. Masruriyah
+AU  - Mardiah
+PY  - 2025
+DO  - 10.1109/ICIMCIS68501.2025.11326914
+JO  - 2025 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+IS  - 
+SN  - 2837-5203
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+Y1  - 3-4 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - NeuroShield: Intelligent Cloud Alarm System for Industrial Hazards
+T2  - 2026 6th International Conference on Expert Clouds and Applications (ICOECA)
+SP  - 1624
+EP  - 1629
+AU  - S. K. Tomar
+AU  - R. Rajput
+AU  - S. Mishra
+AU  - P. Ray
+PY  - 2026
+DO  - 10.1109/ICOECA68095.2026.11485021
+JO  - 2026 6th International Conference on Expert Clouds and Applications (ICOECA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Expert Clouds and Applications (ICOECA)
+Y1  - 9-11 March 2026
+ER  - 
+
+TY  - CONF
+TI  - Cyberattack Vectors in Photovoltaic Systems: Applying Artificial Intelligence for InternetConnected Inverter Monitoring
+T2  - 2026 IEEE Colombian Conference on Communications and Computing (COLCOM)
+SP  - 1
+EP  - 6
+AU  - E. J. C. D. Santos
+AU  - A. B. Trindade
+AU  - L. C. Cordeiro
+PY  - 2026
+DO  - 10.1109/COLCOM71387.2026.11703493
+JO  - 2026 IEEE Colombian Conference on Communications and Computing (COLCOM)
+IS  - 
+SN  - 2771-568X
+VO  - 
+VL  - 
+JA  - 2026 IEEE Colombian Conference on Communications and Computing (COLCOM)
+Y1  - 2-4 Sept. 2026
+ER  - 
+
+TY  - CONF
+TI  - Semantic Kernel for Software Engineering: A Multi-Agent Framework for Autonomous Development Lifecycles
+T2  - 2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA)
+SP  - 1992
+EP  - 1998
+AU  - A. B. V
+AU  - R. Kumar.J.S.
+AU  - N. V. Babu
+PY  - 2025
+DO  - 10.1109/ICECA66444.2025.11383462
+JO  - 2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA)
+Y1  - 5-7 Nov. 2025
+ER  - 
+
+TY  - CONF
+TI  - Digital Twin as a Foundation for a Vulnerability Management Framework in Cloud Environments
+T2  - 2026 International Conference on Information Communication, IoT Technology, and Smart Cities (IITS)
+SP  - 7
+EP  - 11
+AU  - S. Adilzhanova
+AU  - A. Tortay
+AU  - G. Amirkhanova
+PY  - 2026
+DO  - 10.1109/IITS69561.2026.11648435
+JO  - 2026 International Conference on Information Communication, IoT Technology, and Smart Cities (IITS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Information Communication, IoT Technology, and Smart Cities (IITS)
+Y1  - 10-12 April 2026
+ER  - 
+
+TY  - CONF
+TI  - Cloud Optimizer RL: A Smart Multi-Algorithm Reinforcement Learning-Based System of Automated Cloud Provider Selection and Resource Optimization Background and Motivation
+T2  - 2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)
+SP  - 1
+EP  - 7
+AU  - J. T. A. Ross
+AU  - J. K
+AU  - K. K
+PY  - 2025
+DO  - 10.1109/ICONSTEM65670.2025.11374621
+JO  - 2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)
+IS  - 
+SN  - 2996-2986
+VO  - 
+VL  - 
+JA  - 2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)
+Y1  - 6-7 Nov. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Real-Time Network Traffic Classification With Learned Feature Imputation and SDN-Based Automated Response
+T2  - IEEE Open Journal of the Communications Society
+SP  - 12529
+EP  - 12549
+AU  - S. S. Sadat
+AU  - A. A. Quraishi
+AU  - M. W. Jalali
+AU  - I. Ahmadi
+AU  - M. S. Omid
+PY  - 2026
+DO  - 10.1109/OJCOMS.2026.3737702
+JO  - IEEE Open Journal of the Communications Society
+IS  - 
+SN  - 2644-125X
+VO  - 7
+VL  - 7
+JA  - IEEE Open Journal of the Communications Society
+Y1  - 2026
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Web-Based BISINDO Alphabet Recognition Using FastAPI and WebSockets
+T2  - 2025 3rd International Conference on Computer System, Information Technology, and Electrical Engineering (COSITE)
+SP  - 154
+EP  - 159
+AU  - I. Chiari
+AU  - Husaini
+AU  - K. Saputra
+AU  - Zahnur
+AU  - A. Misbullah
+PY  - 2025
+DO  - 10.1109/COSITE68330.2025.11414264
+JO  - 2025 3rd International Conference on Computer System, Information Technology, and Electrical Engineering (COSITE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 3rd International Conference on Computer System, Information Technology, and Electrical Engineering (COSITE)
+Y1  - 3-4 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - Heterogeneous Multi-Agent Reinforcement Learning for Energy-Aware Resource Scheduling in Cloud Environments
+T2  - ICC 2026 - IEEE International Conference on Communications
+SP  - 1
+EP  - 6
+AU  - Y. He
+AU  - X. Zhu
+AU  - P. Xian
+AU  - F. R. Yu
+AU  - G. Zhang
+AU  - J. Du
+PY  - 2026
+DO  - 10.1109/ICC59461.2026.11586928
+JO  - ICC 2026 - IEEE International Conference on Communications
+IS  - 
+SN  - 1938-1883
+VO  - 
+VL  - 
+JA  - ICC 2026 - IEEE International Conference on Communications
+Y1  - 24-28 May 2026
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Access Control Mechanism Using Explainable AI for Cloud-Enabled E-Healthcare Environments
+T2  - 2026 13th International Conference on Computing for Sustainable Global Development (INDIACom)
+SP  - 1
+EP  - 8
+AU  - M. Sindhu
+AU  - K. A. Davamani
+PY  - 2026
+DO  - 10.23919/INDIACom70271.2026.11526367
+JO  - 2026 13th International Conference on Computing for Sustainable Global Development (INDIACom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 13th International Conference on Computing for Sustainable Global Development (INDIACom)
+Y1  - 8-10 April 2026
+ER  - 
+
+TY  - CONF
+TI  - An AI-Driven Platform for Learning Diverse IoT Protocols: Integrating Theory and Practice
+T2  - 2026 8th International Conference on Computer Communication and the Internet (ICCCI)
+SP  - 24
+EP  - 29
+AU  - Z. Zhu
+AU  - N. Funabiki
+AU  - H. H. S. Kyaw
+AU  - W. -C. Kao
+PY  - 2026
+DO  - 10.1109/ICCCI70321.2026.11666517
+JO  - 2026 8th International Conference on Computer Communication and the Internet (ICCCI)
+IS  - 
+SN  - 2833-2350
+VO  - 
+VL  - 
+JA  - 2026 8th International Conference on Computer Communication and the Internet (ICCCI)
+Y1  - 26-28 June 2026
+ER  - 
+
+TY  - CONF
+TI  - SecPerf: Demystifying Cost of Confidential HPC
+T2  - 2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+SP  - 850
+EP  - 867
+AU  - M. Chrapek
+AU  - S. Shen
+AU  - P. Iff
+AU  - T. Chen
+AU  - M. Khalilov
+AU  - M. Copik
+AU  - M. Besta
+AU  - T. Hoefler
+PY  - 2026
+DO  - 10.1109/IPDPS65963.2026.00075
+JO  - 2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+IS  - 
+SN  - 1530-2075
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+Y1  - 25-29 May 2026
+ER  - 
+
+TY  - CONF
+TI  - Log-Augmented Time-LLM for Resources Prediction in Microservices Architecture
+T2  - 2025 9th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC)
+SP  - 135
+EP  - 140
+AU  - Z. Lu
+AU  - X. Bian
+AU  - K. Yu
+AU  - X. Wu
+PY  - 2025
+DO  - 10.1109/IC-NIDC67200.2025.11390523
+JO  - 2025 9th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC)
+IS  - 
+SN  - 2575-4955
+VO  - 
+VL  - 
+JA  - 2025 9th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC)
+Y1  - 7-9 Nov. 2025
+ER  - 
+
+TY  - CONF
+TI  - An On-Premise Multilingual Academic Chatbot using Retrieval-Augmented Generation and Context-Aware Memory for University Assistance
+T2  - 2026 7th International Conference on Smart Systems and Inventive Technology (ICSSIT)
+SP  - 1836
+EP  - 1841
+AU  - M. S. Yaswanth
+AU  - K. Sai Amar Durgesh
+AU  - M. H. Vardhan
+AU  - S. Riyaz
+PY  - 2026
+DO  - 10.1109/ICSSIT69151.2026.11656515
+JO  - 2026 7th International Conference on Smart Systems and Inventive Technology (ICSSIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 7th International Conference on Smart Systems and Inventive Technology (ICSSIT)
+Y1  - 28-30 July 2026
+ER  - 
+
+TY  - CONF
+TI  - Hybrid Multiverse-based Parallel Computing Framework for Task Scheduling in Swarm Robotics
+T2  - 2025 Computing, Communications and IoT Applications (ComComAp)
+SP  - 24
+EP  - 29
+AU  - M. Mokhtari
+AU  - D. Scalais
+AU  - J. Famaey
+PY  - 2025
+DO  - 10.1109/ComComAp68359.2025.11353167
+JO  - 2025 Computing, Communications and IoT Applications (ComComAp)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Computing, Communications and IoT Applications (ComComAp)
+Y1  - 14-17 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - EyeSpy: A Real-Time AI-Powered Multi-Camera Facial Recognition Surveillance System
+T2  - 2025 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)
+SP  - 1
+EP  - 6
+AU  - S. Mahadevkar
+AU  - A. Jain
+AU  - P. Vohra
+AU  - S. Borhade
+AU  - P. Shrivastava
+AU  - R. R. Redde
+PY  - 2025
+DO  - 10.1109/ICBDS67396.2025.11376734
+JO  - 2025 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)
+Y1  - 30 Oct.-1 Nov. 2025
+ER  - 
+
+TY  - CONF
+TI  - Application of Machine Learning for Operational Forecasting and Compliance Control in Underground Mining
+T2  - 2025 12th International Conference on Soft Computing & Machine Intelligence (ISCMI)
+SP  - 614
+EP  - 619
+AU  - W. Valentin
+AU  - C. Valverde
+AU  - I. Bautista
+PY  - 2025
+DO  - 10.1109/ISCMI67495.2025.11358442
+JO  - 2025 12th International Conference on Soft Computing & Machine Intelligence (ISCMI)
+IS  - 
+SN  - 2640-0146
+VO  - 
+VL  - 
+JA  - 2025 12th International Conference on Soft Computing & Machine Intelligence (ISCMI)
+Y1  - 21-23 Nov. 2025
+ER  - 
+
+TY  - CONF
+TI  - From Monolithic Middleware to Cloud-Native Microservices: a Performance-Driven Modernization Study
+T2  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+SP  - 1
+EP  - 6
+AU  - S. Bhatt
+PY  - 2026
+DO  - 10.1109/ISDFS69419.2026.11459056
+JO  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+IS  - 
+SN  - 2768-1831
+VO  - 
+VL  - 
+JA  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+Y1  - 19-20 March 2026
+ER  - 
+
+TY  - CONF
+TI  - Toward Deviceless Paradigm: An IoT-centered and Orchestrated FaaS Architecture
+T2  - 2026 IEEE International Conference on Smart Computing Workshops and Other Affiliated events (SmartComp Companion)
+SP  - 243
+EP  - 248
+AU  - F. O. Mirto
+AU  - L. D’Agati
+AU  - G. Tricomi
+AU  - F. Longo
+AU  - C. Puliafito
+AU  - A. Virdis
+AU  - G. Merlino
+PY  - 2026
+DO  - 10.1109/SmartComp-Companion70724.2026.00058
+JO  - 2026 IEEE International Conference on Smart Computing Workshops and Other Affiliated events (SmartComp Companion)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Smart Computing Workshops and Other Affiliated events (SmartComp Companion)
+Y1  - 22-25 June 2026
+ER  - 
+
+TY  - CONF
+TI  - Smart Resource Management in Cloud Infrastructure: A Survey on Orchestration, Scheduling, and Energy Optimization
+T2  - 2025 5th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)
+SP  - 1
+EP  - 7
+AU  - S. R. Varanasi
+PY  - 2025
+DO  - 10.1109/ICERECT65215.2025.11377150
+JO  - 2025 5th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)
+Y1  - 12-13 Sept. 2025
+ER  - 
+
+TY  - CONF
+TI  - Integrating Federated Learning with Blockchain for Secure and Efficient Vehicle-to-Vehicle (V2V) Communication
+T2  - 2025 24th International Symposium on Parallel and Distributed Computing (ISPDC)
+SP  - 132
+EP  - 136
+AU  - A. V. A. N. P. Kumara
+AU  - V. Palanisamy
+AU  - K. P. N. Jayasena
+PY  - 2025
+DO  - 10.1109/ISPDC67428.2025.00029
+JO  - 2025 24th International Symposium on Parallel and Distributed Computing (ISPDC)
+IS  - 
+SN  - 2996-1483
+VO  - 
+VL  - 
+JA  - 2025 24th International Symposium on Parallel and Distributed Computing (ISPDC)
+Y1  - 8-11 July 2025
+ER  - 
+
+TY  - CONF
+TI  - B+ Indexer: Self-Regulated and Automatic Database Index Maintenance Using Artificial Neural Network
+T2  - 2026 6th International Conference on Advanced Research in Computing (ICARC)
+SP  - 1
+EP  - 6
+AU  - V. Udayanga
+AU  - Y. Jayaweera
+PY  - 2026
+DO  - 10.1109/ICARC68737.2026.11453986
+JO  - 2026 6th International Conference on Advanced Research in Computing (ICARC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Advanced Research in Computing (ICARC)
+Y1  - 18-19 Feb. 2026
+ER  - 
+
+TY  - CONF
+TI  - Performance Evaluation of Post-Quantum Cryptography in IoT: A Case Study on MQTT Over TLS Under Network Constraints
+T2  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+SP  - 1
+EP  - 6
+AU  - E. C. Santos
+AU  - T. A. O. D. Cordeiro
+AU  - H. de Oliveira Silva
+PY  - 2026
+DO  - 10.1109/ISDFS69419.2026.11458974
+JO  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+IS  - 
+SN  - 2768-1831
+VO  - 
+VL  - 
+JA  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+Y1  - 19-20 March 2026
+ER  - 
+
+TY  - CONF
+TI  - Are You Aware of Shadow Ai? Governai for Addressing Emerging Risks
+T2  - 2026 Silicon Valley Cybersecurity Conference (SVCC)
+SP  - 1
+EP  - 8
+AU  - S. H. B. Afzal
+AU  - J. Bowman
+AU  - Y. -T. R. Chiang
+AU  - A. Singh
+AU  - W. Fan
+PY  - 2026
+DO  - 10.1109/SVCC69905.2026.11642340
+JO  - 2026 Silicon Valley Cybersecurity Conference (SVCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 Silicon Valley Cybersecurity Conference (SVCC)
+Y1  - 10-12 June 2026
+ER  - 
+
+TY  - CONF
+TI  - Bilingual AI Crop Disease Detection System Leveraging Agri-Mamba-YOLO for Sustainable Agriculture
+T2  - 2025 2nd Global AI Summit - International Conference on Artificial Intelligence and Emerging Technology (AI Summit)
+SP  - 1015
+EP  - 1020
+AU  - G. K. M
+AU  - A. S. V
+AU  - N. P
+AU  - S. C
+AU  - N. M. U
+PY  - 2025
+DO  - 10.1109/AISummit66170.2025.11411580
+JO  - 2025 2nd Global AI Summit - International Conference on Artificial Intelligence and Emerging Technology (AI Summit)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd Global AI Summit - International Conference on Artificial Intelligence and Emerging Technology (AI Summit)
+Y1  - 19-21 Nov. 2025
+ER  - 
+
+TY  - CONF
+TI  - Scalable Software Architecture Design for Cloud-Native Applications
+T2  - 2026 International Conference on Computing Theory and Wireless Communications (ICCTWC)
+SP  - 1
+EP  - 9
+AU  - G. R. Rao
+AU  - S. Arveti
+AU  - S. Putti
+AU  - K. Ponaka
+AU  - T. Roy
+AU  - R. Ganta
+PY  - 2026
+DO  - 10.1109/ICCTWC68241.2026.11583313
+JO  - 2026 International Conference on Computing Theory and Wireless Communications (ICCTWC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computing Theory and Wireless Communications (ICCTWC)
+Y1  - 1-2 April 2026
+ER  - 
+
+TY  - CONF
+TI  - AI-Driven Cross-Level Dynamic Scheduling Framework for Carbon Efficiency in Green Data Centers
+T2  - 2026 6th International Conference on Artificial Intelligence and Industrial Technology Applications (AIITA)
+SP  - 1098
+EP  - 1107
+AU  - J. Xia
+AU  - X. Wu
+AU  - M. Geng
+PY  - 2026
+DO  - 10.1109/AIITA69518.2026.11567240
+JO  - 2026 6th International Conference on Artificial Intelligence and Industrial Technology Applications (AIITA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Artificial Intelligence and Industrial Technology Applications (AIITA)
+Y1  - 10-12 April 2026
+ER  - 
+
+TY  - CONF
+TI  - Software-Defined Automation for Traditional Core Process Control – General Approach and Challenges
+T2  - AUTOMATION 2026, Innovation trifft Anwendung
+SP  - 1
+EP  - 8
+AU  - C. Diedrich
+AU  - M. Madsen
+AU  - R. Islam
+AU  - L. Vogt
+AU  - F. Maurer
+AU  - T. Himmelsbach
+PY  - 2026
+DO  - 
+JO  - AUTOMATION 2026, Innovation trifft Anwendung
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - AUTOMATION 2026, Innovation trifft Anwendung
+Y1  - 17-18 June 2026
+ER  - 
+
+TY  - CONF
+TI  - Improved System for Generating Electronic Digital Signatures Based on Virtual Infrastructure
+T2  - 2026 IEEE 5th International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)
+SP  - 560
+EP  - 565
+AU  - V. Gerasimov
+AU  - O. Boiprav
+AU  - I. Saymanov
+AU  - S. A. Abdaljlil
+AU  - A. R. Zerek
+PY  - 2026
+DO  - 10.1109/MI-STA68962.2026.11511285
+JO  - 2026 IEEE 5th International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 5th International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)
+Y1  - 5-7 April 2026
+ER  - 
+
+TY  - CONF
+TI  - A FiT Model Based Early Diagnosis Framework for Ocular Disorders
+T2  - 2026 International Conference on Communication, Computing and Emerging Technologies (IC3ET)
+SP  - 508
+EP  - 513
+AU  - S. S. Jha
+AU  - T. A. Saraf
+AU  - G. Singh
+AU  - B. P. Prathaban
+PY  - 2026
+DO  - 10.1109/IC3ET64989.2026.11467535
+JO  - 2026 International Conference on Communication, Computing and Emerging Technologies (IC3ET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Communication, Computing and Emerging Technologies (IC3ET)
+Y1  - 9-10 Feb. 2026
+ER  - 
+
+TY  - JOUR
+TI  - A CODECO Case Study and Initial Validation for Edge Orchestration of Autonomous Mobile Robots
+T2  - Computer
+SP  - 33
+EP  - 44
+AU  - H. Zhu
+AU  - T. Samizadeh
+AU  - R. C. Sofia
+PY  - 2026
+DO  - 10.1109/MC.2025.3643725
+JO  - Computer
+IS  - 5
+SN  - 1558-0814
+VO  - 59
+VL  - 59
+JA  - Computer
+Y1  - May 2026
+ER  - 
+
+TY  - CONF
+TI  - AI-Driven Face Recognition for Secure Authentication
+T2  - 2026 International Conference on Connected Intelligence for Industrial Applications (CI2A)
+SP  - 1
+EP  - 6
+AU  - R. Elankeerthana
+AU  - A. S
+AU  - D. R
+AU  - G. S
+PY  - 2026
+DO  - 10.1109/CI2A69097.2026.11576834
+JO  - 2026 International Conference on Connected Intelligence for Industrial Applications (CI2A)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Connected Intelligence for Industrial Applications (CI2A)
+Y1  - 3-5 April 2026
+ER  - 
+
+TY  - CONF
+TI  - DeltaTI: Threat Intelligence Aggregation Platform
+T2  - 2026 IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications (3SCEA)
+SP  - 521
+EP  - 531
+AU  - K. Gad
+AU  - H. Hesham
+AU  - A. Mousa
+AU  - Z. Elsayed
+AU  - M. Ibrahim
+AU  - H. Ibrahim
+AU  - O. E. F. Nassar
+AU  - S. Elsagheer
+PY  - 2026
+DO  - 10.1109/3SCEA68071.2026.11602789
+JO  - 2026 IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications (3SCEA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications (3SCEA)
+Y1  - 19-21 April 2026
+ER  - 
+
+TY  - CONF
+TI  - A Self-Training and Semi-Supervised-Based Microservice Performance Prediction Method for Cloud-Native Microservices
+T2  - 2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)
+SP  - 01
+EP  - 08
+AU  - R. Cao
+AU  - J. Hao
+AU  - H. Xia
+PY  - 2025
+DO  - 10.1109/ICPADS67057.2025.11322940
+JO  - 2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)
+IS  - 
+SN  - 2690-5965
+VO  - 
+VL  - 
+JA  - 2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)
+Y1  - 14-18 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - Fair Automatic Labeling for Software Defined Network Controller Selection from Performance Metrics Using Analytic Hierarchy Process
+T2  - 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS)
+SP  - 1
+EP  - 6
+AU  - J. D. Dzaky
+AU  - M. S. Anggreainy
+PY  - 2026
+DO  - 10.1109/ICCRAIDS67816.2026.11519761
+JO  - 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS)
+Y1  - 10-11 April 2026
+ER  - 
+
+TY  - CONF
+TI  - Self-Diagnosing and Healing System for Reliable Hybrid P2P-based Blockchain Against Abnormal Node Failure
+T2  - 2026 International Conference on Computing, Networking and Communications (ICNC)
+SP  - 883
+EP  - 888
+AU  - H. -S. Moon
+AU  - S. Ji
+AU  - H. Noh
+AU  - H. Song
+PY  - 2026
+DO  - 10.1109/ICNC68183.2026.11416926
+JO  - 2026 International Conference on Computing, Networking and Communications (ICNC)
+IS  - 
+SN  - 2473-7585
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computing, Networking and Communications (ICNC)
+Y1  - 16-19 Feb. 2026
+ER  - 
+
+TY  - JOUR
+TI  - A Sensor-Aware Phenomenological Framework for LiDAR Degradation Simulation and SLAM Robustness Evaluation
+T2  - IEEE Robotics and Automation Practice
+SP  - 86
+EP  - 91
+AU  - D. M. K. Felix
+AU  - X. Yu
+AU  - Z. Zou
+AU  - T. Westerlund
+PY  - 2026
+DO  - 10.1109/RAP.2026.3684773
+JO  - IEEE Robotics and Automation Practice
+IS  - 
+SN  - 2995-4304
+VO  - 1
+VL  - 1
+JA  - IEEE Robotics and Automation Practice
+Y1  - 2026
+ER  - 
+
+TY  - CONF
+TI  - XSSpecter: An Automated Framework for End-to-End Blind XSS Detection and Reporting
+T2  - 2026 IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE)
+SP  - 1
+EP  - 7
+AU  - I. Ruwanpathirana
+AU  - C. Disanayake
+AU  - S. Jayasinghe
+PY  - 2026
+DO  - 10.1109/SCSE70081.2026.11499908
+JO  - 2026 IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE)
+IS  - 
+SN  - 2997-7363
+VO  - 9
+VL  - 9
+JA  - 2026 IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE)
+Y1  - 26-26 March 2026
+ER  - 
+
+TY  - CONF
+TI  - iTRAC: Intelligent Tracking and Real-Time Analysis on Cloud Using RFID and MQTT
+T2  - TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)
+SP  - 1683
+EP  - 1687
+AU  - J. Ganapathy
+AU  - N. Nachiappan
+AU  - S. Menakur
+AU  - P. Ramachandran
+PY  - 2025
+DO  - 10.1109/TENCON66050.2025.11374930
+JO  - TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)
+IS  - 
+SN  - 2159-3450
+VO  - 
+VL  - 
+JA  - TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)
+Y1  - 27-30 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Efficient Communication and Adaptive Privacy in Industrial IoT Using Hierarchical Fog and Personalized Differential Privacy
+T2  - 2026 International Conference on Wireless Communications Signal Processing and Networking (WiSPNET)
+SP  - 1
+EP  - 6
+AU  - H. K
+AU  - M. A. P. K
+AU  - R. S. M
+AU  - K. S
+PY  - 2026
+DO  - 10.1109/WiSPNET69615.2026.11489407
+JO  - 2026 International Conference on Wireless Communications Signal Processing and Networking (WiSPNET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Wireless Communications Signal Processing and Networking (WiSPNET)
+Y1  - 17-19 March 2026
+ER  - 
+
+TY  - CONF
+TI  - Carbon-Intelligent Multi-Objective Distributed Deep Learning for Sustainable IIOT-Enabled Industrial Edge Computing
+T2  - 2026 7th International Conference on Inventive Research in Computing Applications (ICIRCA)
+SP  - 1641
+EP  - 1646
+AU  - A. Priya
+AU  - S. P. Santhoshkumar
+AU  - S. Singha
+AU  - Nisha.M
+AU  - M. Das
+AU  - B. B. Pinky
+PY  - 2026
+DO  - 10.1109/ICIRCA69024.2026.11570619
+JO  - 2026 7th International Conference on Inventive Research in Computing Applications (ICIRCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 7th International Conference on Inventive Research in Computing Applications (ICIRCA)
+Y1  - 3-5 June 2026
+ER  - 
+
+TY  - CONF
+TI  - SQL Vs. NoSQL Comparative Analysis of Database Management Systems for Scalability and Performance
+T2  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+SP  - 01
+EP  - 07
+AU  - R. S. Susarla
+AU  - V. B. Kolla
+PY  - 2026
+DO  - 10.1109/ISDFS69419.2026.11459004
+JO  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+IS  - 
+SN  - 2768-1831
+VO  - 
+VL  - 
+JA  - 2026 14th International Symposium on Digital Forensics and Security (ISDFS)
+Y1  - 19-20 March 2026
+ER  - 
+
+TY  - CONF
+TI  - Cyber-AI-Sentinel: An AI-Powered Intrusion Detection System for Wi-Fi and Cellular Towers
+T2  - 2025 International Conference on Computer, Control, Informatics and its Applications (IC3INA)
+SP  - 250
+EP  - 255
+AU  - H. Labda
+AU  - F. A. Hija
+PY  - 2025
+DO  - 10.1109/IC3INA68387.2025.11325322
+JO  - 2025 International Conference on Computer, Control, Informatics and its Applications (IC3INA)
+IS  - 
+SN  - 2994-5925
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computer, Control, Informatics and its Applications (IC3INA)
+Y1  - 15-16 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Stability Analysis, Simulation, and Real-World Implementation of a Kinematics-Based 6-DoF End-Effector Position Control
+T2  - 2026 2nd International Conference on Smart Mechatronics (ICSMech)
+SP  - 1
+EP  - 6
+AU  - M. A. A. El Fawwaz
+AU  - Y. B. Ivansyah
+AU  - A. A. Wardana
+AU  - H. Septanto
+AU  - R. P. Saputra
+PY  - 2026
+DO  - 10.1109/ICSMech69390.2026.11647232
+JO  - 2026 2nd International Conference on Smart Mechatronics (ICSMech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 2nd International Conference on Smart Mechatronics (ICSMech)
+Y1  - 9-11 June 2026
+ER  - 
+
+TY  - CONF
+TI  - A Blockchain-Based Framework to Process and Validate Educational Certificates: Bangladesh Perspective
+T2  - 2025 IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS)
+SP  - 1
+EP  - 6
+AU  - V. Kar
+AU  - R. Arman
+AU  - F. Ahsan
+AU  - K. M. Alam
+PY  - 2025
+DO  - 10.1109/COMPAS67506.2025.11381737
+JO  - 2025 IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS)
+Y1  - 23-24 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Performance Feedback Loops for DevOps-Based Continuous Integration and Deployment Systems
+T2  - 2026 IEEE Global Symposium on Emerging and Communication Technologies (GSEACT)
+SP  - 1
+EP  - 6
+AU  - S. Aryal
+PY  - 2026
+DO  - 10.1109/GSEACT68539.2026.11619973
+JO  - 2026 IEEE Global Symposium on Emerging and Communication Technologies (GSEACT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE Global Symposium on Emerging and Communication Technologies (GSEACT)
+Y1  - 12-13 June 2026
+ER  - 
+
+TY  - CONF
+TI  - Saliency-Aware Deep Residual Networks for Plant Phenotype Prediction
+T2  - 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 487
+EP  - 492
+AU  - J. Goode
+AU  - M. Madhu
+AU  - R. Bagheri
+AU  - Y. Yan
+PY  - 2025
+DO  - 10.1109/BIBM66473.2025.11356176
+JO  - 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 2156-1133
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 15-18 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - DevSecOps Pipeline for Middleware: Automated Deployment, Vulnerability Remediation, and Rollback Strategies
+T2  - 2025 4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+SP  - 967
+EP  - 974
+AU  - V. Madamanchi
+AU  - S. Gogineni
+AU  - V. Makineni
+AU  - P. Udayaraju
+AU  - B. L. V Siva Rama Krishna
+PY  - 2025
+DO  - 10.1109/ICAAIC64647.2025.11330556
+JO  - 2025 4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+Y1  - 17-19 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - The Missing Software Engineering Course for Developing Essential Skills for Co-Op Success
+T2  - 2025 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+SP  - 437
+EP  - 441
+AU  - M. Landry
+AU  - S. Keshvadi
+AU  - G. Fink
+PY  - 2025
+DO  - 10.1109/CCECE64018.2025.11364395
+JO  - 2025 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+IS  - 
+SN  - 2576-7046
+VO  - 
+VL  - 
+JA  - 2025 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+Y1  - 26-29 May 2025
+ER  - 
+
+TY  - CONF
+TI  - WebAssembly on the Cloud Continuum: A Multi-Architecture Evaluation on Kubernetes
+T2  - 2026 13th International Conference on Future Internet of Things and Cloud (FiCloud)
+SP  - 9
+EP  - 14
+AU  - Á. Vázquez-Rodríguez
+AU  - D. Vila-Pérez
+AU  - C. Giraldo-Rodíguez
+AU  - P. Couñago-Soto
+PY  - 2026
+DO  - 10.1109/FiCloud70576.2026.00009
+JO  - 2026 13th International Conference on Future Internet of Things and Cloud (FiCloud)
+IS  - 
+SN  - 2996-1017
+VO  - 
+VL  - 
+JA  - 2026 13th International Conference on Future Internet of Things and Cloud (FiCloud)
+Y1  - 20-22 July 2026
+ER  - 
+
+TY  - CONF
+TI  - Big Data-Driven Approach to Customer Churn Prediction in the Telecom Industry
+T2  - 2026 IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE)
+SP  - 1
+EP  - 6
+AU  - M. Rossmaree
+AU  - A. Aponso
+PY  - 2026
+DO  - 10.1109/SCSE70081.2026.11499851
+JO  - 2026 IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE)
+IS  - 
+SN  - 2997-7363
+VO  - 9
+VL  - 9
+JA  - 2026 IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE)
+Y1  - 26-26 March 2026
+ER  - 
+
+TY  - CONF
+TI  - Automated REST API Black-box Test Generation in Practice: An Experience Report from Industry
+T2  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+SP  - 453
+EP  - 463
+AU  - D. Corradini
+AU  - S. Y. Shin
+AU  - D. Bianculli
+PY  - 2026
+DO  - 10.1109/ICST69053.2026.00064
+JO  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 18-22 May 2026
+ER  - 
+
+TY  - CONF
+TI  - Agentic AI for Explainable Data Analysis in District Heating Systems: An AutoGen-Based Approach
+T2  - 2025 10th International Conference on Frontiers of Signal Processing (ICFSP)
+SP  - 102
+EP  - 108
+AU  - M. Speletic
+AU  - S. Cvetkovic
+AU  - M. Zdravkovic
+PY  - 2025
+DO  - 10.1109/ICFSP67350.2025.11353840
+JO  - 2025 10th International Conference on Frontiers of Signal Processing (ICFSP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 10th International Conference on Frontiers of Signal Processing (ICFSP)
+Y1  - 10-12 Sept. 2025
+ER  - 
+
+TY  - CONF
+TI  - Smart Accident Prediction in Fireworks Industry Using AI
+T2  - 2026 4th International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)
+SP  - 1414
+EP  - 1418
+AU  - M. J
+AU  - A. J
+AU  - I. A. S
+AU  - S. K. S
+PY  - 2026
+DO  - 10.1109/IDCIoT67589.2026.11455687
+JO  - 2026 4th International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 4th International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)
+Y1  - 4-6 Feb. 2026
+ER  - 
+
+TY  - CONF
+TI  - Modernizing Semiconductor Design Flows: A DevOps Approach to Containerizing HPC Simulation and Regression Testing for i.MX and Kiron Chips
+T2  - 2026 Technology and Innovation Conference (TIC)
+SP  - 1
+EP  - 8
+AU  - S. K. Anche
+PY  - 2026
+DO  - 10.1109/TIC68483.2026.11702870
+JO  - 2026 Technology and Innovation Conference (TIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 Technology and Innovation Conference (TIC)
+Y1  - 5-6 June 2026
+ER  - 
+
+

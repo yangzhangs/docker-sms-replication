@@ -1,0 +1,23 @@
+﻿P,zotero_key,dataset_name,source_platforms,size,timestamp,access_link,access_label,link_status
+P1,BC3IEXSR,Dockerfile Dataset,GitHub,178K Dockerfiles (5 formats),Jun 2019,https://doi.org/10.5281/zenodo.3628771,zenodo.3628771,provided
+P2,E3JT4WE8,Docker Image Dataset,"Docker, GitHub, Bitbucket",3.36M images; 379K repos,May 2020,https://github.com/linncy/icsme2020-docker-study,GitHub,provided
+P4,EJ9HVAB6,Debian Docker Images,Docker,140K images,Jun 2019,https://zenodo.org/records/3757940,zenodo.3757940,provided
+P8,J5GRW3LM,Dockerfile Analysis,GitHub,70K Dockerfiles,Oct 2016,https://github.com/sealuzh/msr18-docker-dataset,GitHub,provided
+P18,2YMKPNNB,Multi-stage Refactoring,GitHub,521 single-stage projects,No explicit,https://anonymous.4open.science/r/Supplemental-materials-EE15,anonymous repo,provided
+P23,YGZZA8WT,Vulnerability Lineage DB,Docker,"756K images (137 apps); 9,156 CVEs",Jul 2024,https://osf.io/943se/?view_only=bcc41282eab644f2b965f910571c314b,OSF,provided
+P29,FUX7WSZX,Dockerfile Security Smells,GitHub,91 clean; 910 smelly Dockerfiles,Jan 2023,https://github.com/tuhh-softsec/DockerCleaner,GitHub,provided
+P31,QWKHM8XD,FLAKE4DOCK,GitHub,"798 flaky; 7,325 non-flaky",Dec 2023,https://github.com/flakidock/docker-flakiness-study,GitHub,provided
+P38,A7DDPDR9,DockInsight Dataset,GitHub,500 repos,No explicit,,No link declared,none
+P39,PYR7E3YZ,DocSecKG Dataset,Docker,152 images,No explicit,https://github.com/acising/DocSecKG,GitHub (No content),empty
+P40,EUH9SFDQ,Doctor Dataset,GitHub,"2,000 repos",No explicit,https://sites.google.com/view/doctor-dockerfile-optimization/home,Google site,provided
+P41,GGWYSZS2,DRIVE Dataset,GitHub,"1,761 gold-set Dockerfiles",May 2022,https://github.com/zwlin98/DRIVE,GitHub,provided
+P43,NDUTJJLV,Parfum Dataset,GitHub,160K Dockerfiles,Jul 2022,https://github.com/tdurieux/docker-parfum-experiment,GitHub,provided
+P52,I3F27YWX,Binnacle Dataset,GitHub,178K Dockerfiles,Jun 2019,https://github.com/jjhenkel/binnacle-icse2020,GitHub,provided
+P63,IESF8KTN,Docker Compose,GitHub,527 Compose files,Dec 2022,https://zenodo.org/records/10648448,zenodo.10648448,provided
+P67,NXNF86IT,Docker Smell Repair,GitHub,417 Dockerfiles; tuning data,No explicit,https://github.com/three-star-potato/docker_smell_emse,GitHub,provided
+P68,5AXF9ID6,Longitudinal Dockerfiles,GitHub,9.4M Dockerfiles,Sep 2020,https://doi.org/10.5281/zenodo.4434943,zenodo.4434943,provided
+P69,KC3HXEM3,RUDSEA Dataset,GitHub,"375 Dockerfiles; 1,199 updates (720 PHP; 479 Java)",No explicit,https://sites.google.com/site/rudseaproject/,Google site (Unable to access),unreachable
+P73,FW3T7LNZ,Docker Image Vulnerabilities,"Docker, GitHub","6,292 images",Oct 2024,https://zenodo.org/records/15024333,zenodo.15024333,provided
+P75,HHWUC3PG,SemiTagRec,"GitHub, Docker",88K repos,Mar 2018,http://39.104.105.27:8000/,Website (Unable to access),unreachable
+P78,6HUAQUAZ,Docker Hub Images,Docker,637K images,Mar 2023,https://zenodo.org/records/8119368,zenodo.8119368,provided
+P84,QBKAVWPW,Docker Refactorings,GitHub,443 projects,Oct 2024,https://doi.org/10.5281/zenodo.17450566,zenodo.17450566,provided

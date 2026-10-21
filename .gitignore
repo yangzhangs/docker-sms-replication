@@ -1,0 +1,5 @@
+# PDF payloads are kept locally for curation; public repo carries manifests/links only.
+corpus_v2_pdfs/*.pdf
+corpus_v2_pdfs/**/*.pdf
+__pycache__/
+*.pyc

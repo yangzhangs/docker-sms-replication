@@ -1,0 +1,28 @@
+library,run_date,query_exact,fields_used,date_filter,hits_declared,hits_captured,export_format,notes
+ACM DL,2026-10-07,"Title=(\"Docker*\" OR \"docker-compose\" OR \"docker compose\")",Title,"E-Publication 2025-2026 (year granularity)",12,12,scraped CSV,Advanced Search为Premium功能；用doSearch?Title=参数替代；语义与v1的Title字段一致
+ACM DL,2026-10-07,"Abstract=(\"Docker*\" OR \"docker-compose\" OR \"docker compose\")",Abstract,"E-Publication 2025-2026 (year granularity)",100,89(三轮并集唯一),scraped CSV,AllField测试为2598条(含参考文献过宽)已弃用；声明100与唯一89差异记录在案；去重合并后Title+Abstract共101条
+ACM DL,2026-10-07,"AllField=(\"Docker*\" OR \"docker-compose\" OR \"docker compose\")",AllField,未应用,2598,-,仅敏感性测试,过宽(匹配参考文献)不作为检索主口径
+IEEE Xplore,2026-10-07,(待重试),All Metadata(v2口径),2024-2026(待执行),-,,-,自动化浏览器被418 Unusual Traffic拦截；稍后重试或由作者人工导出
+SpringerLink,2026-10-07,"title=(\"Docker*\" OR \"docker-compose\" OR \"docker compose\")",Title,"custom 2025-2026 (year granularity)",45,45,scraped CSV,增速校验:22.5条/年≈v1的21.5条/年(258/12yr)口径自洽;新版SpringerLink无abstract字段;全文级Keywords(4550/CS过滤2076/加Article+ConfPaper 1525/2026单年838)违背增速规律弃用仅记作敏感性;2025-12缝隙由snowballing+GoogleScholar兜底
+ScienceDirect,2026-10-07,"tak=(\"Docker\" OR \"Dockerfile\" OR \"Docker Hub\" OR \"DockerHub\" OR \"docker-compose\" OR \"docker compose\" OR \"dockerized\")","Title, abstract or author-specified keywords(与v1完全一致)",2025-2026(年粒度;精确窗口2025-12-20~2026-09-30在筛选阶段执行),151,151,scraped CSV,首次提交遇网络错误+CAPTCHA(人工通过后成功);分页参数为offset=25
+WILEY,2026-10-07,"field1=Title&text1=(\"Docker*\" OR \"docker-compose\" OR \"docker compose\")",Title,"Custom Range 2025-12 至 2026-09 (月粒度,精确窗口)",1,1,scraped CSV,/search/advanced 表单提交
+WILEY,2026-10-07,"field1=Abstract&text1=(\"Docker*\" OR \"docker-compose\" OR \"docker compose\")",Abstract,"Custom Range 2025-12 至 2026-09 (月粒度,精确窗口)",14,14,scraped CSV,Title+Abstract并集15条
+GoogleScholar,2026-10-07,"(\"Docker\" OR \"Dockerfile\" OR \"DockerHub\" OR \"docker-compose\" OR \"dockerized\")",全库(GS无字段控制),"as_ylo=2014 & as_yhi=2026 (全窗口)",63200,500(相关性排序前500,50页×10),scraped CSV,扩展检索;与语料库匹配287/500;区段新条目26/28/53/57/49;不在库213条绝大多数为图书/非SE/作者姓名误匹配(Docker为姓氏)/预印本;首轮2025-2026限年抓取已按团队指示作废(_discarded归档);不在库清单已导出待人工确认
+IEEE Xplore,2026-10-07,(重试仍拦截),All Metadata(v2口径),待执行,-,-,-,二次重试仍418 Unusual Traffic(无验证框可解);转由作者在自有浏览器按协议检索导出(All Metadata,2025-2026,导出RIS/CSV放置raw_search/IEEE/)
+ACM DL,2026-10-07,(增量对账),-,AfterYear=2025&BeforeYear=2026,101,53新候选,dedup,48条已在库(doi=44/title=3/fuzzy=1)
+SpringerLink,2026-10-07,(增量对账),-,custom 2025-2026,45,25新候选,dedup,20条已在库
+ScienceDirect,2026-10-07,(增量对账),-,date=2025-2026,150,80新候选,dedup,70条已在库;速率75条/年高于历史36.75条/年主因SoftwareX等软件期刊增长(25条)
+WILEY,2026-10-07,(增量对账),-,2025-12至2026-09,15,15新候选,dedup,0条在库(符合预期:增量窗口内新文献)
+GoogleScholar,2026-10-07,(扩展至最大深度),"同上(全窗口2014-2026)",63200,990(Google结果上限约1000,已取满;第1000页起无返回),scraped CSV,扩展到990名:语料内393/990(40%);区段在库密度74%→10%单调衰减;验证集23篇仅8篇出现在最大深度内(最深#599),15篇从未出现——证明GS引用加权排名对近期轻被引文献存在结构性盲区,扩展检索定位为高被引文献层交叉检查而非完备性保证;过程中CAPTCHA一次(人工通过后续抓,改8秒/页慢节奏)
+GoogleScholar,2026-10-07,(深度上限核验),-,as_ylo=2014&as_yhi=2026,-,990(核验为最大可获取深度),-,GS页头声明Page 100 of 62600但第100页两次加载(含整页reload)均返回0条结果(仅年份过滤头+Create alert横幅空壳);可检索内容实际终止于第99页=990条;论文中写"maximum accessible depth of 990 records"
+IEEE Xplore,2026-10-07,"Title/Abstract/Keywords: (\"Docker*\" OR \"docker-compose\" OR \"docker compose\")",Title/Abstract/Keywords(作者确认口径;原协议决策为All Metadata,实际执行T/A/K),2025-12-20至2026-09-30(天粒度,作者人工检索),578,578,作者导出RIS×6批次(100×5+78),自动化418三次拦截后转作者浏览器完成;与v1仅5条边界重叠(符合精确窗口预期);类型CONF501/JOUR56/BOOK14/CHAP5/STD2;T/A/K⊇v1的T+A,超集逻辑不变;年均增速约4.9倍于v1,反映Docker文献扩容
+IEEE Xplore,2026-10-07,(增量对账),-,2025-12-20至2026-09-30,578,573新候选,dedup,仅5条在库(边界元数据交错)
+全库增量,2026-10-07,(窗口核验 2026-09-30),Crossref按DOI回填精确出版日期(745条,并发+串行补查,成功731/745;42条无DOI或未注册标date-verify待筛前复核),核验截止2026-09-30,745,731保留/14排除,increment_master_inwindow.csv,排除项均为2026年10-12月出版(10月4条/11月5条/12月5条);月份精度按(y,m)比较;导入JSON与JS脚本就绪
+筛选,2026-10-07,"双人模拟独立编码731条(increment)+54短文核验",修订标准(方案B),-,731,16纳入/715排除,Kappa多类0.957/二值0.736,screening_process_log.csv,分歧15条(2.1%)全部经仲裁维持排除;高级裁决8条;短文纳入26;页数抽查39/40一致;扩展版对扫描:0对真实扩展;语料v2预览=56+16+26=98
+筛选终审,2026-10-08,团队终审两条keep(复核),修订标准,-,-,-,-,-,VDIRS纳入/CLAIM排除(微服务识别,Docker仅环境载体→ex-⑤);语料v2定稿=56+16+25=97
+页数门槛,2026-10-08,团队定稿: 有效论文最低5页(替代8页门槛),>=5页,2026-10-08,-,-,-,v2_new_pagecheck.csv,41篇新增全部核定页码(Crossref/OpenAlex/S2/Springer元数据);3-4页7篇移出(Timestamps3/Exploring3/ImprovingVuln4/StructuredInfo4/TOSCA4/ParsingMethod4/SciChinaLetter3);语料v2=56+14+20=90
+滚雪球,2026-10-08,"前向: 90篇语料被引(OpenAlex cites); 后向: 34篇新论文参考",标题+摘要,-,1139,232候选/9纳入,snowballing_candidates_coded.csv,前向650被引→213新候选→7纳入;后向489参考→19候选→2纳入;去重基准=Zotero全库+GS990;纳入9篇带snowball-forward/backward标记;语料v2=56+14+20+9=99
+滚雪球终审,2026-10-08,"团队终审: TDSC容器云论文移出(非Docker工件)","-","-","-","-","-","-",语料v2=56+14+20+8=98;滚雪球纳入8;导入数据231条;构建脚本目标更名98篇
+滚雪球终审2,2026-10-08,"团队终审: CloudImageHunt与Semantic Integrity两篇移出(系统安全方向)","-","-","-","-","-","-",滚雪球纳入6;语料v2=56+14+20+6=96;构建目标更名96篇
+滚雪球终审3,2026-10-08,"团队终审: DIVA与Exploring Solutions两篇移出","-","-","-","-","-","-",滚雪球纳入4;语料v2=56+14+20+4=94;构建目标更名94篇
+终审收口,2026-10-08,"两裁定: P43期刊扩展版取代(ex-③); StaticVulnerability综述移出(ex-④)","-","-","-","-","-","-",语料v2=55+14+20+3=92;滚雪球终纳3;Zotero侧待执行P43撤出+8MNW9V94标签同步
