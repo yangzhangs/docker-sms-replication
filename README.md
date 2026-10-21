@@ -1,7 +1,7 @@
 # Replication Package
 
-**Software Engineering Research on Docker: A Systematic Mapping Study**  
-Major revision, 2026. Search window: **2014-01-01 through 2026-09-30**.  
+Data, process records, and analysis scripts for the systematic mapping study.
+Search window: **2014-01-01 through 2026-09-30**.  
 Final corpus: **92 primary studies**. Public repository:
 <https://github.com/yangzhangs/docker-sms-replication>.
 
