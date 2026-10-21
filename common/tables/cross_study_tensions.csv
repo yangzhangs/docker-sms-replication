@@ -1,0 +1,4 @@
+﻿tension,evidence_studies,observation,practical_implication
+Official-image preference vs measured outcomes,P79,"Practitioners prefer official Docker Hub images, while comparative measurements find some community images more resource-efficient and less vulnerable.",Choose images by measured efficiency and vulnerability evidence rather than official status alone.
+Context-dependent optimization,P54; P84; P40,"Change patterns, smell repairs, and instruction reordering improve size or build time, but several choices trade one objective against another.",Evaluate multiple objectives in the target project instead of assuming a universally best optimization.
+Update prioritization,P4; P60; P91,"Some studies prioritize technical lag and vulnerability counts, while others prioritize exploitability and impact.","Combine lag, exploitability, and impact evidence when scheduling image updates."

@@ -45,13 +45,14 @@ corpus; the paper's reported statistic is the N = 3,727 one.
 ## search/
 
 `search_log.csv` records the library-level queries, fields, date filters, and hit
-counts. `google_scholar_rank_classification.csv` supports the saturation check.
-The saturation figure is in `figures/`. Intermediate raw exports and dedup files
-are not needed to reproduce the reported tables.
+counts. `google_scholar_rank_classification.csv` supports the saturation check,
+and the saturation figure is in `figures/`.
 
 ## tables/ and figures/
 
-`table_ix_research_agenda.csv` is the data behind Table IX. `figures/` contains
+`table_ix_research_agenda.csv` is the data behind Table IX, and
+`cross_study_tensions.csv` records the three cross-study tensions discussed in
+the implications section. `figures/` contains
 the final Fig. 2 selection PDF and the Fig. 3 demographic panels. The Google
 Scholar saturation figure is under `search/figures/`.
 

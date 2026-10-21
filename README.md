@@ -57,6 +57,7 @@ PDF payloads are **not** distributed; see the PDF policy below.
 | Table VII taxonomies | `RQ2/data/table_vii_taxonomies.csv` |
 | Table VIII challenges/limitations | `RQ3/data/table_viii_categories.csv` |
 | Table IX research agenda | `common/tables/table_ix_research_agenda.csv` |
+| Cross-study tensions (Sec. V) | `common/tables/cross_study_tensions.csv` |
 | Fig. 4 temporal heatmap | `RQ1/figures/fig4_temporal_heatmap.pdf`; counts in `RQ1/data/temporal_counts.csv` |
 
 The seven dominant RQ1 topics are listed in
