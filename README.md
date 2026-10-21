@@ -149,8 +149,3 @@ larger N = 4,379 corpus; the paper's reported statistic is the N = 3,727 one.
   two shared build/issue collections; see
   `RQ2/README.md` and the extraction notes.
 - `common/extraction/extraction_master_92.csv` contains the 92-study full corpus.
-- The public package contains the final vector figures and their source data. The
-  selection figure was assembled from the authors' vector source; the PDF is the
-  version used in the manuscript. One-off local Zotero synchronization, PowerPoint
-  layout, and submission-preparation utilities are not required to reproduce the
-  reported tables and figures and are therefore excluded.
