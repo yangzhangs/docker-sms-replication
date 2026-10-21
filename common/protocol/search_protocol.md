@@ -27,4 +27,4 @@ Hyphenation-insensitive and wildcard variants (for example, `Docker*` and `docke
 
 The query was validated against 23 known relevant papers from seven SE venues; all 23 were retrieved. The five-library searches returned 4,382 records. After consolidating three identical exports, the automatic bibliographic filter removed 652 non-archival records, leaving 3,727 records for detailed dual-author screening.
 
-Snowballing examined 489 referenced works and 650 citing records, yielding 232 unique candidates; three additional primary studies were included. The Google Scholar extension screened the top 500 records and added no primary studies.
+Snowballing examined 489 referenced works and 650 citing records, yielding 232 unique candidates; three additional primary studies were included. The Google Scholar extension screened the top 500 records and added no primary studies. Of these 500 records, 213 were not already in the corpus and were classified for the saturation table; the remaining 287 were corpus-covered.

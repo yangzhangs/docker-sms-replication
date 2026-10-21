@@ -45,8 +45,10 @@ corpus; the paper's reported statistic is the N = 3,727 one.
 ## search/
 
 `search_log.csv` records the library-level queries, fields, date filters, and hit
-counts. `google_scholar_rank_classification.csv` supports the saturation check,
-and the saturation figure is in `figures/`.
+counts. `google_scholar_top500_noncorpus_classification.csv` lists the 213
+non-corpus records among the top 500 screened Google Scholar records; the other
+287 were already covered by the corpus. `gs_top500_saturation_segments.csv`
+gives the five 100-record segment counts. The saturation figure is in `figures/`.
 
 ## tables/ and figures/
 

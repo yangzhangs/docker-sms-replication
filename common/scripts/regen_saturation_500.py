@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Regenerate the Google Scholar saturation curve (screened depth: top 500) into figures/.
 
-Input : common/search/google_scholar_rank_classification.csv
+Input : common/search/google_scholar_top500_noncorpus_classification.csv
 Output: common/search/figures/gs_saturation.pdf + .png
 Requires: Python 3 + PyMuPDF (pymupdf).
 """
@@ -20,12 +20,22 @@ def txt(page, H, x, y_math, s, fs=8.5, color=DARK, align='left'):
     elif align == 'right': x -= pymupdf.get_text_length(s, fontname='tiro', fontsize=fs)
     page.insert_text((x, H - y_math), s, fontname='tiro', fontsize=fs, color=color)
 
-cls = list(csv.DictReader(open(PKG / 'common' / 'search' / 'google_scholar_rank_classification.csv', encoding='utf-8-sig')))
+cls = list(csv.DictReader(open(PKG / 'common' / 'search' / 'google_scholar_top500_noncorpus_classification.csv', encoding='utf-8-sig')))
+assert cls and max(int(float(r['rank'])) for r in cls) <= 500, 'expected only top-500 records'
 notin = defaultdict(int)
 for r in cls:
     notin[(int(float(r['rank'])) - 1) // 100] += 1
 NDEC = 5  # top-500 screened depth, 100-record segments
 segs = [(d * 100 + 1, 100 - notin.get(d, 0)) for d in range(NDEC)]
+# Write the exact segment counts behind the figure. Each segment has 100 screened
+# records; non-corpus records are classified here, while the remaining records
+# were already covered by the corpus.
+seg_path = PKG / 'common' / 'search' / 'gs_top500_saturation_segments.csv'
+with seg_path.open('w', newline='', encoding='utf-8-sig') as fh:
+    w = csv.writer(fh)
+    w.writerow(['rank_start','rank_end','screened_records','noncorpus_records','corpus_covered_records','coverage_percent','new_primary_studies'])
+    for d in range(NDEC):
+        w.writerow([d*100+1, (d+1)*100, 100, notin.get(d,0), 100-notin.get(d,0), 100-notin.get(d,0), 0])
 
 W2, H2 = 310, 162
 doc = pymupdf.open(); pg = doc.new_page(width=W2, height=H2)

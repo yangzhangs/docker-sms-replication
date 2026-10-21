@@ -26,6 +26,8 @@ def main() -> None:
     reasons = rows("common/screening/exclusion_reasons.csv")
     master = rows("common/extraction/extraction_master_92.csv")
     agenda = rows("common/tables/table_ix_research_agenda.csv")
+    gs = rows("common/search/google_scholar_top500_noncorpus_classification.csv")
+    gs_segments = rows("common/search/gs_top500_saturation_segments.csv")
     matrix = rows("RQ2/data/table_iv_contributions.csv")
     datasets = rows("RQ2/data/table_v_datasets.csv")
     tools = rows("RQ2/data/table_vi_tools.csv")
@@ -50,6 +52,13 @@ def main() -> None:
     require(len(master) == 92,
             "extraction_master_92 must contain 92 rows")
     require(len(agenda) == 7, "Table IX must contain 7 agenda rows")
+    require(len(gs) == 213 and max(int(float(r["rank"])) for r in gs) <= 500,
+            "Google Scholar non-corpus table must be restricted to the top 500")
+    require(len(gs_segments) == 5, "expected five 100-record saturation segments")
+    require(sum(int(r["screened_records"]) for r in gs_segments) == 500,
+            "saturation segments must cover 500 screened records")
+    require(sum(int(r["noncorpus_records"]) for r in gs_segments) == len(gs),
+            "saturation segment totals must match the non-corpus table")
 
     require(len(matrix) == 92, "Table IV must contain 92 rows")
     require(len(datasets) == 24 and len({r["P"] for r in datasets}) == 24,

@@ -1,0 +1,6 @@
+﻿rank_start,rank_end,screened_records,noncorpus_records,corpus_covered_records,coverage_percent,new_primary_studies
+1,100,100,26,74,74,0
+101,200,100,28,72,72,0
+201,300,100,53,47,47,0
+301,400,100,57,43,43,0
+401,500,100,49,51,51,0
