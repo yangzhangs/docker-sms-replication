@@ -19,7 +19,8 @@ common/
   screening/                 Screening flow, per-criterion exclusions, dual-coding worksheets,
                              page-count re-screening data, Kappa report
   corpus/                    corpus_92.csv and the complete PDF metadata index
-  extraction/                Final extraction, coding manual, ledger, reliability report
+  extraction/                Complete extraction master (P, authors, metadata, codes,
+                             artifact details), coding manual, ledger, reliability report
   tables/                    Cross-RQ result data, including Table IX research agenda
   figures/                   Figure 2 (selection) and Figure 3 demographic panels
   scripts/                   Corpus/figure builders and package validation
@@ -146,4 +147,6 @@ larger N = 4,379 corpus; the paper's reported statistic is the N = 3,727 one.
 - Contribution flags are the final post-audit flags. Dataset declarations include
   two shared build/issue collections; see
   `RQ2/README.md` and the extraction notes.
-- `common/extraction/extraction_master_92.csv` contains the 92-study full corpus.
+- `common/extraction/extraction_master_92.csv` contains the 92-study full corpus,
+  with paper IDs, authors, DOI/publisher metadata, RQ codes, artifact details, and
+  reliability labels where recorded.

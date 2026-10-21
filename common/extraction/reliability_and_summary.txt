@@ -55,3 +55,11 @@ Notes
   artifact-type normalization was applied after agreement was computed; the final
   flags are in RQ2/data/table_iv_contributions.csv.
 - The reliability figures cover the coded dimensions used in RQ1-RQ3.
+
+Data coverage note
+------------------
+The `*_A` and `*_B` columns in the extraction master contain independent coder
+labels where they were recorded. For the 55 retained studies, the coded fields
+were reconstructed deterministically from the published tables; blank coder cells
+mean that an independent label was not stored, not that the label was negative.
+`research_method` is likewise populated only where it was recorded.

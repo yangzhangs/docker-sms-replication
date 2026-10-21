@@ -6,20 +6,29 @@ One row per primary study. Coded fields use `;` as the multi-label separator.
 
 | Field | Meaning |
 |---|---|
+| `P` | Paper ID used in the manuscript |
 | `zotero_key` | Stable Zotero item key used to join tables |
-| `title`, `year`, `venue_type`, `venue_name` | Bibliographic metadata |
+| `authors`, `title`, `year` | Bibliographic metadata |
+| `venue_type`, `venue_name` | Publication venue |
+| `doi`, `publisher`, `country`, `core`, `author_type` | Bibliographic and demographic metadata |
 | `concerns` | RQ1 SE concerns |
 | `objects` | RQ1 Docker objects |
-| `rep_package`, `dataset`, `approach`, `tool`, `taxonomy`, `insight` | RQ2 contribution types (`Y` or empty) |
+| `rep_package`, `dataset`, `approach`, `tool`, `taxonomy`, `insight` | RQ2 contribution types (`Y`, `broken-link`, or empty) |
+| `artifact_details` | Dataset, tool, and taxonomy names with link/type status, generated from Tables V-VII |
 | `challenges`, `limitations` | RQ3 categories and subcategories |
-| `research_method` | Method label |
-| `concerns_A/B`, `objects_A/B`, `contrib_A/B`, `challenges_A/B`, `limitations_A/B` | Independent coder labels used for reliability |
+| `research_method` | Method label, where recorded |
+| `concerns_A/B`, `objects_A/B`, `contrib_A/B`, `challenges_A/B`, `limitations_A/B` | Independent coder labels, where recorded |
+
+Blank cells mean that the field was not recorded for that study; they are not
+negative labels. The artifact-details field is populated for the 50 studies with
+a dataset, tool, or taxonomy. Independent coder labels and research-method labels
+are available for the studies extracted in the revision; the retained bibliographic
+and coded fields were reconstructed deterministically from the published tables.
 
 ## `study_ledger.csv`
 
-One row per study with the bibliographic and demographic fields used by the paper:
-title/year/venue, DOI, publisher, first-author country, CORE rank, author type,
-and the final topic/contribution/challenge/limitation codes.
+One row per study with `P`, bibliographic and demographic fields, and the final
+topic/contribution/challenge/limitation codes.
 
 ## `corpus_92.csv`
 

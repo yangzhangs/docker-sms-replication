@@ -50,8 +50,12 @@ def main() -> None:
     require(flow["studies_from_searches"] + flow["studies_from_snowballing"] == flow["final_primary_studies"] == 92,
             "final corpus does not close")
 
-    require(len(master) == 92,
-            "extraction_master_92 must contain 92 rows")
+    require(len(master) == 92 and len({r["P"] for r in master}) == 92,
+            "extraction_master_92 must contain 92 unique paper IDs")
+    require(all(r["authors"].strip() for r in master),
+            "every extraction-master row must include authors")
+    require(sum(bool(r["artifact_details"].strip()) for r in master) == 50,
+            "artifact_details must cover the 50 artifact studies")
     require(len(agenda) == 7, "Table IX must contain 7 agenda rows")
     require(len(gs) == 213 and max(int(float(r["rank"])) for r in gs) <= 500,
             "Google Scholar non-corpus table must be restricted to the top 500")
