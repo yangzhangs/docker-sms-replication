@@ -66,21 +66,38 @@ def main() -> None:
 
     contribution_rows = [
         {"contribution_type": t, "studies": declared[t],
-         "percent_of_92": f"{declared[t] / 92 * 100:.1f}"}
+         "percent_of_92": f"{declared[t] / 92 * 100:.1f}",
+         "declared_but_unverified": sum(1 for row in matrix if row[t].strip().lower() == "broken-link")}
         for t in TYPES
     ]
     write("rq2_contribution_summary.csv",
-          ["contribution_type", "studies", "percent_of_92"], contribution_rows)
+          ["contribution_type", "studies", "percent_of_92", "declared_but_unverified"],
+          contribution_rows)
 
     combination_rows = [
         {"number_of_types": n, "studies": distribution[n]}
         for n in range(1, 6)
     ]
+    insight_approach = [row for row in matrix if row["insight"].strip() and row["approach"].strip()]
+    artifact_with_analysis = [
+        row for row in matrix
+        if (row["dataset"].strip() or row["tool"].strip() or row["taxonomy"].strip())
+        and (row["approach"].strip() or row["insight"].strip())
+    ]
+    single_insight = [row for row in matrix
+                      if sum(1 for t in TYPES if row[t].strip()) == 1 and row["insight"].strip()]
+    single_approach = [row for row in matrix
+                       if sum(1 for t in TYPES if row[t].strip()) == 1 and row["approach"].strip()]
     combination_rows.extend([
         {"number_of_types": "2_or_more", "studies": sum(v for n, v in distribution.items() if n >= 2)},
         {"number_of_types": "3_or_more", "studies": sum(v for n, v in distribution.items() if n >= 3)},
         {"number_of_types": "2_or_3", "studies": distribution[2] + distribution[3]},
-        {"number_of_types": "5", "studies": distribution[5]},
+        {"number_of_types": "insight_and_approach", "studies": len(insight_approach)},
+        {"number_of_types": "insight_approach_release_dataset_or_tool",
+         "studies": sum(1 for row in insight_approach if row["dataset"].strip() or row["tool"].strip())},
+        {"number_of_types": "artifact_with_approach_or_insight", "studies": len(artifact_with_analysis)},
+        {"number_of_types": "single_type_insight", "studies": len(single_insight)},
+        {"number_of_types": "single_type_approach", "studies": len(single_approach)},
     ])
     write("rq2_combination_summary.csv",
           ["number_of_types", "studies"], combination_rows)
@@ -114,6 +131,7 @@ def main() -> None:
         {"metric": "dataset_hybrid", "value": hybrid},
         {"metric": "dataset_with_access_link", "value": link_provided},
         {"metric": "dataset_without_link", "value": no_link},
+        {"metric": "dataset_broken_or_empty_link", "value": sum(r["link_status"] in {"unreachable", "empty"} for r in datasets)},
         {"metric": "tool_rows", "value": len(tools)},
         {"metric": "tool_studies", "value": tool_studies},
         {"metric": "tools_primary", "value": primary},
@@ -125,6 +143,7 @@ def main() -> None:
     print(f"RQ2 tables checked and summarised in {DATA}")
     print(f"types={declared} distribution={dict(sorted(distribution.items()))}")
     print(f"datasets={dataset_studies} tools={len(tools)}/{tool_studies} taxonomies={len(taxonomies)}")
+    print(f"insight+approach={len(insight_approach)}; artifact+analysis={len(artifact_with_analysis)}")
 
 
 if __name__ == "__main__":

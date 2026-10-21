@@ -1,7 +1,7 @@
-﻿contribution_type,studies,percent_of_92
-rep_package,50,54.3
-dataset,24,26.1
-approach,55,59.8
-tool,36,39.1
-taxonomy,10,10.9
-insight,67,72.8
+﻿contribution_type,studies,percent_of_92,declared_but_unverified
+rep_package,50,54.3,2
+dataset,24,26.1,4
+approach,55,59.8,0
+tool,36,39.1,9
+taxonomy,10,10.9,0
+insight,67,72.8,0

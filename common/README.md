@@ -27,8 +27,6 @@ bibliographic record and DOI/URL but no local PDF in the curated set.
 - `short_paper_rescreen.csv`, `short_paper_additions.csv`,
   `short_paper_verification.csv`, `page_count_verification_sample.csv`: page-count
   re-screening and the 40-record verification sample.
-- `screening_process_log.csv`, `senior_overrides.json`,
-  `extension_pairs_report.csv`: process log, adjudications, and version replacement.
 
 The reported Kappa is the preliminary-screening statistic over N = 3,727
 (multi-class 0.872; binary 0.707; 311 disagreements, 8.3%). The report includes a reference note for the larger N = 4,379

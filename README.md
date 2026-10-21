@@ -8,7 +8,6 @@ Final corpus: **92 primary studies**.
 This package is organized around the three research questions. `common/`
 contains the search, screening, corpus, extraction, and cross-RQ material. `RQ1/`,
 `RQ2/`, and `RQ3/` contain the data and scripts behind the corresponding results.
-`REVIEWER_EVIDENCE.md` maps revision requests to the supporting files, and
 `common/extraction/data_dictionary.md` defines the data fields.
 
 ## Directory map
@@ -18,7 +17,7 @@ common/
   protocol/                  Search protocol, inclusion/exclusion review, screening notes
   search/                    Search log, Google Scholar rank classification, and saturation figure
   screening/                 Screening flow, per-criterion exclusions, dual-coding worksheets,
-                             adjudication records, page-count re-screening data, Kappa report
+                             page-count re-screening data, Kappa report
   corpus/                    corpus_92.csv and the complete PDF metadata index
   extraction/                Final extraction, coding manual, ledger, reliability report
   tables/                    Cross-RQ result data, including Table IX research agenda
@@ -125,12 +124,10 @@ paper and fail if a data table drifts from those counts.
 ## Search and screening data
 
 `common/search/` retains the search log, the Google Scholar rank classification
-used for the saturation check, and the saturation figure. Intermediate raw exports
-and working files are not needed to reproduce the reported tables.
-`common/screening/` retains the dual-coding worksheets, adjudication records,
-page-count re-screening data, the preliminary-screening Kappa report, and the
-per-record process log. The report includes a reference note for the larger N = 4,379
-corpus; the paper's reported statistic is the N = 3,727 one.
+used for the saturation check, and the saturation figure. `common/screening/`
+retains the dual-coding worksheets, page-count re-screening data, and the
+preliminary-screening Kappa report. The report includes a reference note for the
+larger N = 4,379 corpus; the paper's reported statistic is the N = 3,727 one.
 
 ## Notes
 

@@ -12,9 +12,12 @@ insights. Tables IV-VII are shipped as final active-row CSVs.
 - `data/table_vi_tools.csv`: 38 tools from 36 studies (`type` is primary or
   supporting), with access links.
 - `data/table_vii_taxonomies.csv`: 10 taxonomies with category counts and main categories.
-- `data/rq2_contribution_summary.csv`: type-level counts and percentages.
-- `data/rq2_combination_summary.csv`: distribution of 1-5 contribution types.
-- `data/rq2_artifact_summary.csv`: dataset/tool/taxonomy summary metrics.
+- `data/rq2_contribution_summary.csv`: type-level counts, percentages, and
+  declared-but-unverified counts.
+- `data/rq2_combination_summary.csv`: distribution of 1-5 contribution types plus
+  the insight+approach, artifact+analysis, and single-type details discussed in the paper.
+- `data/rq2_artifact_summary.csv`: dataset/tool/taxonomy summary metrics, including
+  source platforms and link status.
 
 The final flags give 50 replication packages, 24 datasets, 55 approaches,
 36 tool studies (38 tools), 10 taxonomies, and 67 insight studies. The

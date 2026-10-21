@@ -5,6 +5,7 @@ dataset_docker_sourced,8
 dataset_hybrid,4
 dataset_with_access_link,23
 dataset_without_link,1
+dataset_broken_or_empty_link,3
 tool_rows,38
 tool_studies,36
 tools_primary,30

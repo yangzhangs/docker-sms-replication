@@ -54,5 +54,3 @@ No PDF payload is distributed.
 - `short_paper_rescreen.csv`, `short_paper_additions.csv`, `short_paper_verification.csv`: page-count re-screening.
 - `page_count_verification_sample.csv`: 40-record page-count verification sample.
 - `kappa_report_preliminary_3727.txt`: reported screening Kappa.
-- `senior_overrides.json`: adjudication records.
-- `extension_pairs_report.csv`: conference/journal version-pair check.
