@@ -2,7 +2,7 @@
 P1,BC3IEXSR,Dockerfile parser toolchain,Parse and export Dockerfiles in five representations,supporting,https://doi.org/10.5281/zenodo.3628771,zenodo.3628771,provided
 P2,E3JT4WE8,Miners,Crawl and parse Docker Hub images and their Git repositories,supporting,https://github.com/linncy/icsme2020-docker-study,linncy/icsme2020-docker-study,provided
 P3,87S2TAVC,DockerAnalyser,Modular framework for customizable Docker image analysis,primary,https://github.com/di-unipi-socc/DockerAnalyser,di-unipi-socc/DockerAnalyser,provided
-P7,AGX9SKSZ,AI hardening system,AI-assisted Dockerfile hardening with vulnerability scanning and build verification,primary,,No link declared,none
+P7,AGX9SKSZ,AI hardening system,Dockerfile hardening with vulnerability scanning and build verification,primary,,No link declared,none
 P8,J5GRW3LM,dockerparser,Parse and store Dockerfiles in a relational database (Postgres),supporting,https://github.com/sealuzh/dockerparser,sealuzh/dockerparser,provided
 P8,J5GRW3LM,dockolution,Compute structural changes across Dockerfile revisions,supporting,https://github.com/sealuzh/dockolution,sealuzh/dockolution,provided
 P15,EHVN7V6N,DRAFT,Iterative LLM-based generation and repair of Dockerfiles,primary,,No link declared,none
