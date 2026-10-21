@@ -40,6 +40,7 @@ corpus; the paper's reported statistic is the N = 3,727 one.
 - `coding_manual.md`: coding definitions and subcategory rules.
 - `reliability_and_summary.txt`: per-dimension extraction reliability and coded
   distributions.
+- `kappa_by_dimension.csv`, `kappa_by_label.csv`: label-level reliability results.
 - `data_dictionary.md`: field-level definitions for the extraction and result tables.
 
 ## search/
@@ -65,5 +66,6 @@ Scholar saturation figure is under `search/figures/`.
 - `make_demographic_figures.py`: regenerates the Fig. 3 panels from the ledger.
 - `regen_saturation_500.py`: regenerates the Google Scholar saturation curve.
 - `venue_canon.py`: venue-name normalization used by the demographic figure script.
+- `compute_extraction_kappa.py`: recomputes extraction Kappa from the coder A/B columns.
 - `validate_package.py`: checks the screening flow, RQ table counts, PDF-index
   shape, and package-level consistency.

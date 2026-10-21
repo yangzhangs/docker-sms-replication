@@ -76,7 +76,7 @@ and PI 10. Their union covers 74 of the 92 studies.
 - Reporting: 50 replication packages, 24 datasets, 38 tools from 36 studies,
   10 taxonomies, 25 challenge/limitation subcategories.
 - Kappa: screening 0.872 (multi-class) / 0.707 (binary) over N = 3,727;
-  extraction dimensions average 0.938 (see `common/extraction/reliability_and_summary.txt`).
+  extraction dimensions average 0.664 (see `common/extraction/reliability_and_summary.txt`).
 
 ## PDF policy
 
@@ -115,6 +115,7 @@ python common/scripts/make_demographic_figures.py
 python common/scripts/regen_saturation_500.py
 
 # Full package integrity check
+python common/scripts/compute_extraction_kappa.py
 python common/scripts/validate_package.py
 ```
 

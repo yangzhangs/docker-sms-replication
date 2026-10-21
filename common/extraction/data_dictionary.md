@@ -21,9 +21,10 @@ One row per primary study. Coded fields use `;` as the multi-label separator.
 
 Blank cells mean that the field was not recorded for that study; they are not
 negative labels. The artifact-details field is populated for the 50 studies with
-a dataset, tool, or taxonomy. Independent coder labels and research-method labels
-are available for the studies extracted in the revision; the retained bibliographic
-and coded fields were reconstructed deterministically from the published tables.
+a dataset, tool, or taxonomy. All 92 studies have independent coder A/B labels for
+concerns, objects, contribution types, and challenges; limitation labels are empty
+only when the study reports no limitation. `research_method` is populated where
+recorded.
 
 ## `study_ledger.csv`
 

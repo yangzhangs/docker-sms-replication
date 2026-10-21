@@ -56,6 +56,12 @@ def main() -> None:
             "every extraction-master row must include authors")
     require(all(r["doi"].strip() for r in master),
             "every extraction-master row must include a DOI")
+    for col in ["concerns_A", "concerns_B", "objects_A", "objects_B", "challenges_A"]:
+        require(all(r[col].strip() for r in master), f"{col} must be populated for all 92 studies")
+    require(all(r["challenges_A"].strip() for r in master),
+            "challenge labels must be populated for all 92 studies")
+    require(len(rows("common/extraction/kappa_by_dimension.csv")) == 5,
+            "kappa_by_dimension.csv must contain five dimensions")
     require(sum(bool(r["artifact_details"].strip()) for r in master) == 50,
             "artifact_details must cover the 50 artifact studies")
     require(len(agenda) == 7, "Table IX must contain 7 agenda rows")
