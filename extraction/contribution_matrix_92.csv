@@ -74,12 +74,12 @@ P72,SGTG3928,Security smell detection in Dockerfiles,2026,broken-link,,Y,broken-
 P73,FW3T7LNZ,Security Vulnerabilities in Docker Images: A Cross-Tag Study of Application Dependencies,2025,Y,Y,,,,Y
 P74,6M3XFFUD,Security-by-Design in DevSecOps: Evaluating Docker Hardening Against a Real-World Vulnerability,2025,,,Y,,,Y
 P75,HHWUC3PG,Semi-Supervised Learning Based Tag Recommendation for Docker Repositories,2019,,broken-link,Y,,,
-P76,VS2H6TXP,Shipwright: A Human-in-the-Loop System for Dockerfile Repair,2021,Y,,Y,Y,,
+P76,VS2H6TXP,Shipwright: A Human-in-the-Loop System for Dockerfile Repair,2021,Y,Y,Y,Y,,
 P77,8XK8GE88,Should you upgrade official docker hub images in production environments?,2021,,,,,,Y
 P78,6HUAQUAZ,The Docker Hub Image Inheritance Network: Construction and Empirical Insights,2023,Y,Y,,,,Y
 P79,PBE39RE5,Too many images on DockerHub ! How different are images for the same system ?,2020,Y,,,,,Y
 P80,ZQIAID39,Toward Automated Test Generation for Dockerfiles Based on Analysis of Docker Image Layers,2025,,,Y,Y,,Y
-P81,S9TNQ9LV,"Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns",2025,Y,,,Y,Y,Y
+P81,S9TNQ9LV,"Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns",2025,Y,Y,,Y,Y,Y
 P82,F945LJJU,Type-2 Code Clone Detection for Dockerfiles,2021,,,Y,,,Y
 P83,MAHUP5ZD,Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects,2022,Y,,Y,,,Y
 P84,QBKAVWPW,"Understanding Docker Refactorings: Expanded Taxonomy, Operational Trade-Offs, and Role-Aware Recommendations",2026,Y,Y,Y,,Y,Y

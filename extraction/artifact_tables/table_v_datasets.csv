@@ -19,5 +19,7 @@ P68,5AXF9ID6,Longitudinal Dockerfiles,GitHub,9.4M Dockerfiles,Sep 2020,https://d
 P69,KC3HXEM3,RUDSEA Dataset,GitHub,"375 Dockerfiles; 1,199 updates (720 PHP; 479 Java)",No explicit,https://sites.google.com/site/rudseaproject/,Google site (Unable to access),unreachable
 P73,FW3T7LNZ,Docker Image Vulnerabilities,"Docker, GitHub","6,292 images",Oct 2024,https://zenodo.org/records/15024333,zenodo.15024333,provided
 P75,HHWUC3PG,SemiTagRec,"GitHub, Docker",88K repos,Mar 2018,http://39.104.105.27:8000/,Website (Unable to access),unreachable
+P76,VS2H6TXP,Shipwright,GitHub,20.5K builds,Jun 2020,https://github.com/STAR-RG/shipwright,GitHub,provided
 P78,6HUAQUAZ,Docker Hub Images,Docker,637K images,Mar 2023,https://zenodo.org/records/8119368,zenodo.8119368,provided
+P81,S9TNQ9LV,Docker Build Faults,"GitHub, Stack Overflow, Docker",255 issues; 219 posts,Jan 2024,https://sites.google.com/view/dbf-research,Google site,provided
 P84,QBKAVWPW,Docker Refactorings,GitHub,443 projects,Oct 2024,https://doi.org/10.5281/zenodo.17450566,zenodo.17450566,provided

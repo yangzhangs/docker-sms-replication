@@ -57,7 +57,7 @@ extraction/
   contribution_matrix_92.csv         Final per-study contribution matrix (Table IV), using the
                                       post-audit dataset/tool flags reported in the paper.
   artifact_tables/                   Machine-readable result tables:
-    table_v_datasets.csv               Table V: 22 Docker-artifact datasets.
+    table_v_datasets.csv               Table V: 24 datasets (20 GitHub-sourced, 8 Docker-sourced, 4 hybrid; categories overlap).
     table_vi_tools.csv                 Table VI: 38 tools from 36 studies (30 primary, 8 supporting).
     table_vii_taxonomies.csv           Table VII: 10 taxonomies.
     table_viii_categories.csv          Table VIII: 7 categories and 25 subcategories with P lists.
@@ -92,9 +92,12 @@ corpus_v2_pdfs/                     PDF manifest for the local open-access subse
 The contribution flags in `extraction_master_94.csv`, `wp1_v2_ledger.csv`, and
 `contribution_matrix_92.csv` are the final flags used in the paper:
 
-- **22 datasets**: datasets must be released, reusable Docker-artifact corpora
-  (Dockerfiles, images, Compose files, or equivalent). Survey responses, discussion
-  threads, build records, developer tests, and other evaluation data are not counted.
+- **24 datasets**: released shared data collections. For V2 additions, only released,
+  reusable Docker-artifact corpora (Dockerfiles, images, Compose files, or equivalent)
+  were counted; survey responses, discussion threads, build records, developer tests,
+  and other evaluation data were not counted as new datasets. The two v1-original
+  build/issue collections (Shipwright and Docker Build Faults) are retained in Table V
+  for continuity with the original submission.
 - **38 tools from 36 studies**: 30 primary and 8 supporting. A tool is counted only
   when the paper presents an implemented tool, not merely a conceptual framework or
   proposed approach.

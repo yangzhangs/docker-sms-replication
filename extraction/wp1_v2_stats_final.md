@@ -105,12 +105,12 @@
 
 ## 10. 最终 artifact 口径（2026-10-21）
 
-- **Datasets：22**（23.9% of 92）：仅计公开、可复用的 Docker-artifact 数据集（Dockerfiles、images、Compose 等）；问卷、讨论帖、构建记录、开发者测试等评估数据不计入。
-  - GitHub 18、Docker 7、hybrid 3；1 个无链接、3 个 broken/empty。
+- **Datasets：24**（26.1% of 92）：公开共享的数据集合，包括 Docker artifact 语料以及两项 v1 原始记录（Shipwright 构建记录、Docker Build Faults 问题/帖子记录）；v2 新增仅计公开、可复用的 Docker-artifact 数据集（Dockerfiles、images、Compose 等），问卷、讨论帖、构建记录、开发者测试等评估数据不计入新增 dataset。
+  - GitHub 20、Docker 8、hybrid 4；23 个提供访问链接，1 个无链接、3 个 broken/empty。
   - 数据集 P 列表见 `artifact_tables/table_v_datasets.csv`。
 - **Tools：38 个工具，来自 36 篇研究**（39.1%）：30 primary、8 supporting。
   - 仅计论文实际实现的 tool；纯 framework/approach 不计入。
   - 工具 P 列表见 `artifact_tables/table_vi_tools.csv`。
 - **Taxonomies：10**（10.9%）：见 `artifact_tables/table_vii_taxonomies.csv`。
 - Table IV 的最终贡献矩阵见 `contribution_matrix_92.csv`；Table VIII 的 7 类/25 子类见 `artifact_tables/table_viii_categories.csv`。
-- 贡献类型 Kappa（0.969）来自原始双人编码；最终 artifact-type 口径（公开 Docker-artifact dataset / implemented tool）是在一致性计算之后完成的归一化，二者用途不同。
+- 贡献类型 Kappa（0.969）来自原始双人编码；最终 artifact-type 口径（公开共享 dataset / implemented tool，含两项 v1 原始记录）是在一致性计算之后完成的归一化，二者用途不同。

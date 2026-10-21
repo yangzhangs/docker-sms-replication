@@ -72,7 +72,7 @@ Docker object 分布: {'Specification': 53, 'Build': 17, 'Image': 45, 'Container
    Evolutio        9        3        5        0
    Adoption        6        2        8        0
 
-贡献类型分布（最终口径，含坏链）: {'rep': 48, 'dataset': 18, 'tool': 27, 'insight': 67, 'approach': 55, 'taxonomy': 10, 'dataset(broken-link)': 4, 'rep(broken-link)': 2, 'tool(broken-link)': 9}
+贡献类型分布（最终口径，含坏链）: {'rep': 48, 'dataset': 20, 'tool': 27, 'insight': 67, 'approach': 55, 'taxonomy': 10, 'dataset(broken-link)': 4, 'rep(broken-link)': 2, 'tool(broken-link)': 9}
 
 挑战子类分布（2026-10-09 更新为全量 92 篇）: {'C1a': 67, 'C1b': 6, 'C1c': 3, 'C1d': 3, 'C1e': 4, 'C2a': 1, 'C2b': 3, 'C2c': 14, 'C3a': 14, 'C3b': 12, 'C3c': 5, 'C4a': 6, 'C4b': 6, 'C4c': 8}
 局限子类分布（2026-10-09 更新为全量 92 篇）: {'L1a': 50, 'L1b': 6, 'L1c': 1, 'L1d': 3, 'L2a': 22, 'L2b': 10, 'L2c': 11, 'L3a': 32, 'L3b': 5, 'L3c': 17, 'L3d': 7}
@@ -98,4 +98,4 @@ venue 类型: {'conference': 68, 'journal': 24}
    ...（共 14 篇，清单见主表 limitations 空行）
 （注：55 篇 v1 研究的子类为 2026-10-09 依摘要按《抽取与编码手册》判定要点补标，判定档案证据见 v1_subcode_assignment_evidence.txt；子类级 Kappa 为上表批编码子集的模拟结果。）
 
-注：Contribution type 的 Kappa=0.969 来自原始双人编码；最终 artifact-type 归一化（仅公开 Docker-artifact dataset、仅 implemented tool）在一致性计算之后完成，最终 flags 见 contribution_matrix_92.csv。
+注：Contribution type 的 Kappa=0.969 来自原始双人编码；最终 artifact-type 归一化（公开共享 dataset，含两项 v1 原始记录；仅 implemented tool）在一致性计算之后完成，最终 flags 见 contribution_matrix_92.csv。
