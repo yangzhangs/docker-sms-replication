@@ -54,6 +54,8 @@ def main() -> None:
             "extraction_master_92 must contain 92 unique paper IDs")
     require(all(r["authors"].strip() for r in master),
             "every extraction-master row must include authors")
+    require(all(r["doi"].strip() for r in master),
+            "every extraction-master row must include a DOI")
     require(sum(bool(r["artifact_details"].strip()) for r in master) == 50,
             "artifact_details must cover the 50 artifact studies")
     require(len(agenda) == 7, "Table IX must contain 7 agenda rows")
