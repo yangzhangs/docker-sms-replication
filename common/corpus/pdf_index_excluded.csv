@@ -1,0 +1,5 @@
+﻿P,zotero_key,title,year,venue,doi,public_url,publisher,source,local_pdf_available,pdf_filename,pdf_bytes,pdf_sha256,pdf_status,notes
+,5S6RZL73,A Dataset of Dockerfiles,,,,,,excluded,yes,5S6RZL73.pdf,129034,6cbe427cdd30b9d7d9dc1522105eab49093f89dc9d3722e1d161ba0632d15ac6,excluded_local_copy_not_distributed,duplicate PDF of final study BC3IEXSR
+,ISY75KBS,Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design,,,,,,excluded,yes,ISY75KBS.pdf,730565,b9093a0b6402c97eaf4779c728885d656475029c0866c8e371fbcde96324bfe1,excluded_local_copy_not_distributed,duplicate PDF of final study W63WUQ47
+,8MNW9V94,Static Vulnerability Analysis of Docker Images,,,,,,excluded,yes,8MNW9V94.pdf,527526,70bc38e98905e0962b311dddd95e3e455b924727c7e7f683e71c6912682f9688,excluded_local_copy_not_distributed,excluded review (Exclusion ④)
+,35II3U7K,Exploring Solutions for Container Image Security,,,,,,excluded,yes,35II3U7K.pdf,253375,27ee7325a7be3b18072c9c88e6fb8b17c9a70e78b7de50608c01d0f2f783c16f,excluded_local_copy_not_distributed,not in final 92-study corpus

@@ -1,0 +1,15 @@
+﻿stage,count,note
+records_identified,4382,"Five-library search, 2014-01 to 2026-09"
+duplicate_exports_merged,3,Identical exports consolidated before screening
+auto_filtered_non_archival,652,"Books, book chapters, workshop-only papers, posters, demos, doctoral abstracts"
+preliminary_screening,3727,Dual-author independent labeling; Kappa 0.872 multiclass and 0.707 binary
+excluded_total,3592,Dominant reason per record; 135 retained
+exclusion_no_se_contribution,2430,Criterion 5
+exclusion_non_se_domain,708,Criterion 6
+exclusion_short_or_non_archival,392,Criterion 1
+exclusion_review_or_survey,27,Criterion 4
+exclusion_venue_type,35,Criterion 7
+retained_records,135,Un-duplicated records after screening
+studies_from_searches,89,After de-duplication
+studies_from_snowballing,3,Backward 0; forward 3
+final_primary_studies,92,89 from searches plus 3 from snowballing

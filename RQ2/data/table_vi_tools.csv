@@ -1,0 +1,39 @@
+﻿P,zotero_key,tool_name,purpose,type,access_link,access_label,link_status
+P1,BC3IEXSR,Dockerfile parser toolchain,Parse and export Dockerfiles in five representations,supporting,https://doi.org/10.5281/zenodo.3628771,zenodo.3628771,provided
+P2,E3JT4WE8,Miners,Crawl and parse Docker Hub images and their Git repositories,supporting,https://github.com/linncy/icsme2020-docker-study,linncy/icsme2020-docker-study,provided
+P3,87S2TAVC,DockerAnalyser,Modular framework for customizable Docker image analysis,primary,https://github.com/di-unipi-socc/DockerAnalyser,di-unipi-socc/DockerAnalyser,provided
+P7,AGX9SKSZ,AI hardening system,Dockerfile hardening with vulnerability scanning and build verification,primary,,No link declared,none
+P8,J5GRW3LM,dockerparser,Parse and store Dockerfiles in a relational database (Postgres),supporting,https://github.com/sealuzh/dockerparser,sealuzh/dockerparser,provided
+P8,J5GRW3LM,dockolution,Compute structural changes across Dockerfile revisions,supporting,https://github.com/sealuzh/dockolution,sealuzh/dockolution,provided
+P15,EHVN7V6N,DRAFT,Iterative LLM-based generation and repair of Dockerfiles,primary,,No link declared,none
+P18,2YMKPNNB,StageCraft,Refactor single-stage Dockerfiles into multi-stage builds,primary,https://anonymous.4open.science/r/Supplemental-materials-EE15,Anonymous repository,provided
+P23,YGZZA8WT,EOL lineage checker,Indicate end-of-life status of container image lineages,supporting,https://tool.vulineage.com,tool.vulineage.com,provided
+P28,TTZZB66U,DockerChannel,Evaluate information leakages of Docker containers,primary,https://github.com/cybersecurity-cnr/DockerChannel,cybersecurity-cnr/DockerChannel,provided
+P29,FUX7WSZX,DockerCleaner,Automated repair of security smells in Dockerfiles,primary,https://github.com/tuhh-softsec/DockerCleaner,tuhh-softsec/DockerCleaner,provided
+P31,QWKHM8XD,FLAKIDOCK,"Detect, characterize, and repair Dockerfile flakiness",primary,https://github.com/flakidock/docker-flakiness-study,flakidock/docker-flakiness-study,provided
+P34,2CIMG7KK,DOCKERFINDER,Multi-attribute search of Docker images,primary,https://github.com/di-unipi-socc/DockerFinder,di-unipi-socc/DockerFinder,provided
+P35,AHVN3KNN,DockerGen,Knowledge-graph-based automatic Dockerfile generation,primary,,No link declared,none
+P36,SE7XRYDR,DockerizeMe,Infer environment dependencies for Python containerization,primary,https://github.com/dockerizeme/dockerizeme,dockerizeme/dockerizeme,provided
+P40,EUH9SFDQ,Doctor,Optimize image rebuild time by re-orchestrating instructions,primary,https://sites.google.com/view/doctor-dockerfile-optimization/home,Google site (Not released),not released
+P41,GGWYSZS2,DRIVE,Mine implicit rules and detect Dockerfile violations,primary,https://github.com/zwlin98/DRIVE,zwlin98/DRIVE,provided
+P42,MLXMAJNR,DRMiner,Detect and analyze refactorings in Dockerfile histories,primary,https://github.com/EmnaKsontini/DRMiner,EmnaKsontini/DRMiner,provided
+P43,NDUTJJLV,Parfum,"Detect, measure, and repair Dockerfile smells",primary,https://github.com/tdurieux/docker-parfum,tdurieux/docker-parfum,provided
+P45,MGVU74N2,dockerfile-dependency,Parse and generate Docker container pairs,supporting,https://github.com/yinyuanzhang/dockerdependency,yinyuanzhang/dockerdependency,provided
+P45,MGVU74N2,dockerfile-network,Construct Docker dependency networks and compute metrics,supporting,https://github.com/yinyuanzhang/dockernetwork,yinyuanzhang/dockernetwork,provided
+P46,RAYZ6GFV,Dockleaner,Automatically detect and fix common Dockerfile smells,primary,https://doi.org/10.6084/m9.figshare.23522679,figshare.23522679,provided
+P48,CNEIA3CF,Infragenie,Generate living UML diagrams from Compose files,primary,https://doi.org/10.5281/zenodo.15496366,zenodo.15496366,provided
+P49,W3MA2382,DIKG/DKRAG,Knowledge-graph-augmented retrieval and generation of Dockerfiles,primary,,No link declared,none
+P52,I3F27YWX,Binnacle,"Mine rules, detect violations, and support Dockerfiles",primary,https://github.com/jjhenkel/binnacle-icse2020,jjhenkel/binnacle-icse2020,provided
+P53,W63WUQ47,ecg,"Build Dockerfiles from research artifacts, capturing environment metadata",primary,https://github.com/GuilloteauQ/study-docker-repro-longevity,GuilloteauQ/study-docker-repro-longevity,provided
+P56,K6J65FBR,Modus,Alternative to Dockerfile-based image construction,primary,https://modus-continens.com/,Website (Unable to access),unreachable
+P66,G65DAZW6,Refactoring Tool,Automated Dockerfile refactoring for quality,primary,https://sites.google.com/view/msrdra25/home,Google site,provided
+P67,NXNF86IT,DGR,LLM- and graph-based repair of Dockerfile smells,primary,https://github.com/three-star-potato/docker_smell_emse,three-star-potato/docker_smell_emse,provided
+P69,KC3HXEM3,RUDSEA,Recommend Dockerfile updates upon software environment changes,primary,https://sites.google.com/site/rudseaproject/,Google site (Unable to access),unreachable
+P70,TRZBDHPN,δ-SCALPEL,Image slimming via source-code static analysis,primary,https://zenodo.org/records/13982576,zenodo.13982576,provided
+P72,SGTG3928,Security smell detector,LLM-based security smell detection with RAG repair,primary,,No link declared,none
+P76,VS2H6TXP,Shipwright,Human-in-the-loop repair of broken Dockerfiles,primary,https://github.com/STAR-RG/shipwright,STAR-RG/shipwright,provided
+P80,ZQIAID39,Dockerfile test generator,Generate tests for Dockerfile instructions from image-layer analysis,primary,https://zenodo.org/records/15023363,zenodo.15023363,provided
+P81,S9TNQ9LV,DBF-Assistant,Help developers diagnose and repair Docker build faults,supporting,https://sites.google.com/view/dbf-research,Google site,provided
+P86,UUNF5YAB,VDIRS,Vulnerable Docker image response with severity scoring and content trust,primary,,No link declared,none
+P87,NCJVDL6W,Vessel Diff,Automated classification of container image reproducibility failures,primary,https://github.com/cmu-sei/vessel,cmu-sei/vessel,provided
+P88,76BIB5JE,Docker Composer,Visual low-code alternative to textual Compose files,primary,https://zenodo.org/records/4001049,zenodo.4001049,provided

@@ -1,5 +1,5 @@
-# PDF payloads are kept locally for curation; public repo carries manifests/links only.
-corpus_v2_pdfs/*.pdf
-corpus_v2_pdfs/**/*.pdf
+# PDF payloads remain on the authors' machines; only pdf_index.csv is public.
+corpus_v2_pdfs/
+common/figures/fig3_demographics/_preview/
 __pycache__/
 *.pyc
