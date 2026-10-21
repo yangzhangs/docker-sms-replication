@@ -6,15 +6,15 @@ paper's selection flow.
 ## corpus/
 
 - `corpus_92.csv`: one row per primary study with P number, Zotero key, title,
-  year, venue, DOI/URL, publisher, CORE rank, selection channel, first-author country,
-  contribution flags, and PDF availability.
+  year, venue, DOI/URL, publisher, CORE rank, first-author country, contribution
+  flags, and PDF availability.
 - `pdf_index.csv`: PDF information table for the 92 studies (36 with a local
   copy, 56 metadata-only). `pdf_bytes` and `pdf_sha256` describe the local copies
   used during the study; no PDF payload is distributed.
 
 `local_pdf_available=yes` means a copy existed on the authors' machine for
-verification. `pdf_status=metadata_only_no_local_pdf` means the study has a
-bibliographic record and DOI/URL but no local PDF in the curated set.
+verification; `no` means the study has a bibliographic record and DOI/URL but no
+local PDF in the curated set.
 
 ## screening/
 

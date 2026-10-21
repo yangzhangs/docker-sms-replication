@@ -83,11 +83,9 @@ The public repository does **not** contain article PDFs, to respect publisher
 copyright. `common/corpus/pdf_index.csv` is the complete information table:
 
 - one row for each of the 92 active studies;
-- `P`, Zotero key, title, year, venue, DOI, public URL, publisher, and selection channel;
+- `P`, Zotero key, title, year, venue, DOI, public URL, and publisher;
 - `local_pdf_available`, `pdf_filename`, `pdf_bytes`, and `pdf_sha256` for every
   local copy used during the study;
-- `pdf_status` distinguishes active local copies from metadata-only records;
-- `notes` gives the copyright or availability note.
 
 The 36 local copies are retained only on the authors' machines for verification.
 All 92 studies have a bibliographic record and, where available, a DOI URL in the table.

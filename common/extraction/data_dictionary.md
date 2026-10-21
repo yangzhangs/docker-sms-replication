@@ -6,7 +6,6 @@ One row per primary study. Coded fields use `;` as the multi-label separator.
 
 | Field | Meaning |
 |---|---|
-| `selection_channel` | `initial_search`, `update_search`, `short_paper_rescreen`, or `snowballing` |
 | `zotero_key` | Stable Zotero item key used to join tables |
 | `title`, `year`, `venue_type`, `venue_name` | Bibliographic metadata |
 | `concerns` | RQ1 SE concerns |
@@ -19,21 +18,19 @@ One row per primary study. Coded fields use `;` as the multi-label separator.
 ## `study_ledger.csv`
 
 One row per study with the bibliographic and demographic fields used by the paper:
-`selection_channel`, title/year/venue, DOI, publisher, first-author country, CORE
-rank, author type, and the final topic/contribution/challenge/limitation codes.
+title/year/venue, DOI, publisher, first-author country, CORE rank, author type,
+and the final topic/contribution/challenge/limitation codes.
 
 ## `corpus_92.csv`
 
 One row per study with P number, Zotero key, title, year, venue, DOI/URL, publisher,
-CORE rank, selection channel, first-author country, contribution flags, and PDF
-availability.
+CORE rank, first-author country, contribution flags, and PDF availability.
 
 ## `pdf_index.csv`
 
-One row per study. `local_pdf_available=yes` means a local copy was used for
-verification; `metadata_only_no_local_pdf` means the row has bibliographic metadata
-and, where available, a DOI URL. `pdf_bytes` and `pdf_sha256` describe the local copy.
-No PDF payload is distributed.
+One row per study. `local_pdf_available=yes` means a local copy was used for verification;
+`no` means the row has bibliographic metadata and, where available, a DOI URL.
+`pdf_bytes` and `pdf_sha256` describe the local copy. No PDF payload is distributed.
 
 ## RQ data
 

@@ -49,7 +49,7 @@ def main() -> None:
             "P": r["P"], "zotero_key": key, "title": r["title"], "year": r["year"],
             "venue_type": meta["venue_type"], "venue_name": meta["venue_name"],
             "doi": meta["doi"], "public_url": ("https://doi.org/" + meta["doi"] if meta["doi"] else ""),
-            "publisher": meta["publisher"], "core": meta["core"], "selection_channel": meta["selection_channel"],
+            "publisher": meta["publisher"], "core": meta["core"],
             "first_author_country": meta["country"],
             "rep_package": r["rep_package"], "dataset": r["dataset"], "approach": r["approach"],
             "tool": r["tool"], "taxonomy": r["taxonomy"], "insight": r["insight"],
@@ -57,7 +57,6 @@ def main() -> None:
             "pdf_filename": p.get("pdf_filename", ""),
             "pdf_bytes": p.get("pdf_bytes", ""),
             "pdf_sha256": p.get("pdf_sha256", ""),
-            "pdf_distribution_status": p.get("pdf_status", "metadata_only_no_local_pdf"),
         })
 
     local = sum(r["local_pdf_available"] == "yes" for r in rows)

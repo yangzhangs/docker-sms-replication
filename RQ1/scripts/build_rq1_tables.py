@@ -142,6 +142,31 @@ def main() -> None:
               [{"docker_object": o, "count": len(object_studies[o]), "papers": "; ".join(object_studies[o])}
                for o in OBJECTS])
 
+    # Gap and concentration details used in Finding 1.
+    empty_cells = [f"{c} x {o}" for c in CONCERNS for o in OBJECTS if len(cells[(c, o)]) == 0]
+    sparse_cells = [f"{c} x {o}" for c in CONCERNS for o in OBJECTS if 0 < len(cells[(c, o)]) <= 2]
+    dense = sorted(
+        ((c, o, len(cells[(c, o)])) for c in CONCERNS for o in OBJECTS),
+        key=lambda x: (-x[2], x[0], x[1]),
+    )[:5]
+    recent_rows = [row for row in matrix if int(row["year"]) >= 2025]
+    recent_container = [
+        row["P"] for row in recent_rows
+        if "Container" in split_tags(master[row["zotero_key"]]["objects"], OBJECTS)
+    ]
+    gap_rows = [
+        {"metric": "populated_cells", "value": sum(1 for c in CONCERNS for o in OBJECTS if cells[(c, o)])},
+        {"metric": "empty_cells", "value": len(empty_cells)},
+        {"metric": "empty_cell_list", "value": "; ".join(empty_cells)},
+        {"metric": "sparse_cells_1_or_2_studies", "value": len(sparse_cells)},
+        {"metric": "sparse_cell_list", "value": "; ".join(sparse_cells)},
+        {"metric": "seven_topic_union", "value": len({p for row in topic_rows for p in row["papers"].split("; ") if p})},
+        {"metric": "dense_cells_top5", "value": "; ".join(f"{c} x {o} = {n}" for c, o, n in dense)},
+        {"metric": "studies_2025_2026", "value": len(recent_rows)},
+        {"metric": "runtime_container_studies_2025_2026", "value": len(recent_container)},
+    ]
+    write_csv(OUT / "rq1_gap_summary.csv", ["metric", "value"], gap_rows)
+
     temporal_rows = []
     for year in sorted(year_concern):
         for concern in CONCERNS:

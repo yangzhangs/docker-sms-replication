@@ -10,6 +10,8 @@ RQ1 uses the two-dimensional framework of six SE concerns and four Docker object
 - `data/rq1_concern_summary.csv`: unique studies and P lists per SE concern.
 - `data/rq1_object_summary.csv`: unique studies and P lists per Docker object.
 - `data/temporal_counts.csv`: concern/object counts by year, source for Fig. 4.
+- `data/rq1_gap_summary.csv`: empty cells, sparse cells, dense cells, and the
+  recent-year runtime figures used in Finding 1.
 - `figures/fig4_temporal_heatmap.pdf`: temporal heatmap used in the paper.
 
 ## Reproduction

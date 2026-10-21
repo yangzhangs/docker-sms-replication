@@ -42,9 +42,6 @@ Limitation subcategories:
 L1a 50; L1b 6; L1c 1; L1d 3; L2a 22; L2b 10; L2c 11;
 L3a 32; L3b 5; L3c 17; L3d 7.
 
-Selection channels:
-initial_search 55; update_search 14; short_paper_rescreen 20; snowballing 3.
-
 Venue type: conference 68; journal 24.
 
 Year: 2017 3; 2018 6; 2019 8; 2020 12; 2021 9; 2022 8; 2023 8;

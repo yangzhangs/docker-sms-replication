@@ -1,0 +1,10 @@
+﻿metric,value
+populated_cells,21
+empty_cells,3
+empty_cell_list,Reliability x Container; Evolution x Container; Adoption x Container
+sparse_cells_1_or_2_studies,4
+sparse_cell_list,Performance x Container; Maintainability x Container; Security x Build; Adoption x Build
+seven_topic_union,74
+dense_cells_top5,Maintainability x Specification = 38; Security x Image = 20; Performance x Specification = 13; Maintainability x Image = 11; Performance x Build = 10
+studies_2025_2026,29
+runtime_container_studies_2025_2026,3

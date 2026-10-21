@@ -5,7 +5,6 @@ reconstructed from the published tables; RQ3 evidence was coded with the same ru
 
 ## 1. Metadata and extraction fields
 
-- `selection_channel`: initial search, update search, short-paper re-screening, or snowballing.
 - `zotero_key`, `title`, `year`, `venue_type`, `venue_name`
 - `concerns`: RQ1 SE concerns (multi-label).
 - `objects`: RQ1 Docker objects (multi-label).

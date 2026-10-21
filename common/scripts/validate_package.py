@@ -28,6 +28,7 @@ def main() -> None:
     agenda = rows("common/tables/table_ix_research_agenda.csv")
     gs = rows("common/search/google_scholar_top500_noncorpus_classification.csv")
     gs_segments = rows("common/search/gs_top500_saturation_segments.csv")
+    rq1_gap = {r["metric"]: r["value"] for r in rows("RQ1/data/rq1_gap_summary.csv")}
     matrix = rows("RQ2/data/table_iv_contributions.csv")
     datasets = rows("RQ2/data/table_v_datasets.csv")
     tools = rows("RQ2/data/table_vi_tools.csv")
@@ -54,6 +55,8 @@ def main() -> None:
     require(len(agenda) == 7, "Table IX must contain 7 agenda rows")
     require(len(gs) == 213 and max(int(float(r["rank"])) for r in gs) <= 500,
             "Google Scholar non-corpus table must be restricted to the top 500")
+    require(rq1_gap["populated_cells"] == "21" and rq1_gap["empty_cells"] == "3",
+            "RQ1 gap summary must report 21 populated and 3 empty cells")
     require(len(gs_segments) == 5, "expected five 100-record saturation segments")
     require(sum(int(r["screened_records"]) for r in gs_segments) == 500,
             "saturation segments must cover 500 screened records")
