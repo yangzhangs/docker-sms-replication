@@ -1,0 +1,3 @@
+﻿selection_channel,zotero_key,title,year,venue_name,decision,notes
+initial_search,HVS63ITP,Refactorings and Technical Debt in Docker Projects: An Empirical Study,2021,2021 36th IEEE/ACM International Conference on Automated Software Engineering (A,,"团队既定规则(两边在库选期刊版): 本文为 ASE'21 会议版(68项目/24重构/7类TD); 其期刊扩展版 QBKAVWPW(TSE, 443项目/41重构/9类TD, 摘要明示 'we extend our prior study by expanding the dataset nearly sixfold')已入语料 → 本文按 Exclusion ③ 移出"
+snowballing,8MNW9V94,Static Vulnerability Analysis of Docker Images,2021,IOP Conference Series Materials Science and Engineering,,"团队终审(2026-10-08)改判: 综述性质(9页表格汇编,无实证实验) → Exclusion ④ 移出"

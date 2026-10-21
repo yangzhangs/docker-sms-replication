@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-"""v2 图 3 全套重绘（数字驱动，数据源 common/extraction/wp1_v2_ledger.csv）。
+"""Figure 3 demographic panels（数字驱动，数据源 common/extraction/study_ledger.csv）。
 环境：本机 Python 3.14.0a1 与 numpy ABI 不兼容、matplotlib 不可用，
 改用 PyMuPDF 矢量直绘（base-14 Times-Roman，贴合论文 serif 风格）。
 输出：common/figures/fig3_demographics/plots0..plots6.pdf
-数据源：common/extraction/wp1_v2_ledger.csv
+数据源：common/extraction/study_ledger.csv
 """
 import csv, json, math, sys, os
 from pathlib import Path
@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from venue_canon import canon
 
 WS = Path(__file__).resolve().parents[2]
-LEDGER = WS / 'common' / 'extraction' / 'wp1_v2_ledger.csv'
+LEDGER = WS / 'common' / 'extraction' / 'study_ledger.csv'
 OUT = WS / 'common' / 'figures' / 'fig3_demographics'
 OUT.mkdir(parents=True, exist_ok=True)
 
@@ -176,7 +176,7 @@ def year_stacked(W, H):
         if YJ[i]:
             sh.draw_rect(pymupdf.Rect(x0, ybase - h1 - h2, x0 + bw, ybase - h1))
     sh.commit()
-    # 柱内数值（橙色段用白字更清晰？v1 为深色，保持深色）
+    # 柱内数值
     for i in range(n):
         x0 = left + slot * i + (slot - bw) / 2
         h1 = ph * YC[i] / ymax; h2 = ph * YJ[i] / ymax

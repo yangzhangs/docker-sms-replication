@@ -18,7 +18,7 @@ RQ1 uses the two-dimensional framework of six SE concerns and four Docker object
 python RQ1/scripts/build_rq1_tables.py
 ```
 
-The script joins `common/extraction/extraction_master_94.csv` to the final P-number
+The script joins `common/extraction/extraction_master_92.csv` to the final P-number
 mapping in `RQ2/data/table_iv_contributions.csv`. It checks the key paper counts:
 21 of 24 cells populated; 40 Maintainability, 24 Security, 20 Performance,
 14 Adoption, 14 Reliability, 13 Evolution; 53 Specification, 45 Image, 17 Build,

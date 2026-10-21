@@ -25,7 +25,7 @@ def main() -> None:
     excluded_pdf = rows("common/corpus/pdf_index_excluded.csv")
     flow = {r["stage"]: int(r["count"]) for r in rows("common/screening/screening_flow.csv")}
     reasons = rows("common/screening/exclusion_reasons.csv")
-    master = rows("common/extraction/extraction_master_94.csv")
+    master = rows("common/extraction/extraction_master_92.csv")
     agenda = rows("common/tables/table_ix_research_agenda.csv")
     matrix = rows("RQ2/data/table_iv_contributions.csv")
     datasets = rows("RQ2/data/table_v_datasets.csv")
@@ -49,8 +49,8 @@ def main() -> None:
     require(flow["studies_from_searches"] + flow["studies_from_snowballing"] == flow["final_primary_studies"] == 92,
             "final corpus does not close")
 
-    require(sum(1 for r in master if not r.get("decision")) == 92,
-            "extraction_master_94 must contain 92 active rows")
+    require(len(master) == 92,
+            "extraction_master_92 must contain 92 rows")
     require(len(agenda) == 7, "Table IX must contain 7 agenda rows")
 
     require(len(matrix) == 92, "Table IV must contain 92 rows")

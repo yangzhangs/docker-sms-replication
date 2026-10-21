@@ -5,7 +5,7 @@ Data, process records, and analysis scripts for the systematic mapping study.
 Search window: **2014-01-01 through 2026-09-30**.  
 Final corpus: **92 primary studies**. 
 
-This package is organized around the paper's three research questions. `common/`
+This package is organized around the three research questions. `common/`
 contains the search, screening, corpus, extraction, and cross-RQ material. `RQ1/`,
 `RQ2/`, and `RQ3/` contain the data and scripts behind the corresponding results.
 
@@ -35,7 +35,7 @@ RQ2/
   scripts/                   Validates and summarises the RQ2 tables
 
 RQ3/
-  data/                      Table VIII categories/subcategories and v1 subcode evidence
+  data/                      Table VIII categories/subcategories and subcode evidence
   scripts/                   Validates the taxonomy against the extraction master
 ```
 
@@ -47,7 +47,7 @@ PDF payloads are **not** distributed; see the PDF policy below.
 | Paper item | Package file |
 |---|---|
 | Fig. 2 selection flow | `common/figures/fig2_selection.pdf`; counts in `common/screening/screening_flow.csv` |
-| Fig. 3 demographics | `common/figures/fig3_demographics/plots0.pdf` ... `plots6.pdf`; ledger in `common/extraction/wp1_v2_ledger.csv` |
+| Fig. 3 demographics | `common/figures/fig3_demographics/plots0.pdf` ... `plots6.pdf`; ledger in `common/extraction/study_ledger.csv` |
 | Table I positioning | No data export; a narrative comparison of secondary studies |
 | Table II extraction schema | `common/extraction/coding_manual.md` |
 | Table III topic map | `RQ1/data/table_iii_mapping.csv` |
@@ -65,8 +65,8 @@ and PI 10. Their union covers 74 of the 92 studies.
 
 ## Key counts
 
-- Corpus: **92 studies**; 55 retained from v1, 14 from the update searches,
-  20 from short-paper re-screening, and 3 from snowballing.
+- Corpus: **92 studies**; 89 from the five-library searches and short-paper
+  re-screening, plus 3 from snowballing.
 - Screening: 4,382 records identified; 3 identical exports merged; 652 non-archival
   records removed by the automatic bibliographic filter; **3,727 records**
   independently dual-labeled; 135 retained records; 89 studies after de-duplication;
@@ -83,7 +83,7 @@ copyright. `common/corpus/pdf_index.csv` is the complete information table:
 
 - one row for each of the 92 active studies;
 - one row for each of the 4 local copies that were excluded or duplicate;
-- `P`, Zotero key, title, year, venue, DOI, public URL, publisher, and source;
+- `P`, Zotero key, title, year, venue, DOI, public URL, publisher, and selection channel;
 - `local_pdf_available`, `pdf_filename`, `pdf_bytes`, and `pdf_sha256` for every
   local copy used during the study;
 - `pdf_status` distinguishes active local copies, metadata-only records, and
@@ -139,10 +139,10 @@ corpus; the paper's reported statistic is the N = 3,727 one.
 - The paper's exclusion criterion uses archival status and a five-page minimum;
   the page-count re-screening data are in `common/screening/`.
 - Contribution flags are the final post-audit flags. Dataset declarations include
-  two v1-original shared build/issue collections retained for continuity; see
+  two shared build/issue collections; see
   `RQ2/README.md` and the extraction notes.
-- `common/extraction/extraction_master_94.csv` contains 92 active studies plus two
-  removal records; the active rows are selected by an empty `decision` field.
+- `common/extraction/extraction_master_92.csv` contains the 92-study full corpus;
+  the two removed records are in `common/extraction/removal_records.csv`.
 - The public package contains the final vector figures and their source data. The
   selection figure was assembled from the authors' vector source; the PDF is the
   version used in the manuscript. One-off local Zotero synchronization, PowerPoint

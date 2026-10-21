@@ -4,7 +4,7 @@
 
 Inputs
 ------
-common/extraction/wp1_v2_ledger.csv
+common/extraction/study_ledger.csv
 RQ2/data/table_iv_contributions.csv
 common/corpus/pdf_index.csv
 
@@ -22,7 +22,7 @@ import csv
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-LEDGER = ROOT / "common" / "extraction" / "wp1_v2_ledger.csv"
+LEDGER = ROOT / "common" / "extraction" / "study_ledger.csv"
 MATRIX = ROOT / "RQ2" / "data" / "table_iv_contributions.csv"
 PDF_INDEX = ROOT / "common" / "corpus" / "pdf_index.csv"
 OUT = ROOT / "common" / "corpus" / "corpus_92.csv"
@@ -49,7 +49,7 @@ def main() -> None:
             "P": r["P"], "zotero_key": key, "title": r["title"], "year": r["year"],
             "venue_type": meta["venue_type"], "venue_name": meta["venue_name"],
             "doi": meta["doi"], "public_url": ("https://doi.org/" + meta["doi"] if meta["doi"] else ""),
-            "publisher": meta["publisher"], "core": meta["core"], "source": meta["source"],
+            "publisher": meta["publisher"], "core": meta["core"], "selection_channel": meta["selection_channel"],
             "first_author_country": meta["country"],
             "rep_package": r["rep_package"], "dataset": r["dataset"], "approach": r["approach"],
             "tool": r["tool"], "taxonomy": r["taxonomy"], "insight": r["insight"],

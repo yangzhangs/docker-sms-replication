@@ -1,6 +1,6 @@
-# 抽取与编码手册（WP0.6，v1.0 定稿）
+# 抽取与编码手册（定稿）
 
-> 适用：新增 38 篇（增量 14 + 短文 20 + 滚雪球 4）的全文抽取；v1 56 篇的确定性字段已从论文表重建，RQ3 原文摘录按本手册同口径补录。
+> 适用：全部 92 篇研究的全文抽取与编码；确定性字段从发表论文表格重建，RQ3 原文摘录按本手册同口径补录。
 > 双人模拟协议与本手册配套：编码员 A（严格，需原文证据）/ B（包容，合理推断可标 weak）→ 仲裁 → 高级审查；过程数据逐条留档。
 
 ---
@@ -8,7 +8,7 @@
 ## 一、字段定义与规则
 
 ### 1. 元数据（确定性，脚本已填）
-- source / pid_v1 / zotero_key / title / year / venue_type / venue_name
+- selection_channel / zotero_key / title / year / venue_type / venue_name
 
 ### 2. SE concern（RQ1，多标签，6 类）——**须有全文写明的证据**
 | 标签 | 判定要点 |
@@ -28,7 +28,7 @@
 | Specification | Dockerfile / docker-compose / 构建脚本等**配置文本** |
 | Build | 构建过程/构建系统（build 阶段行为、失败、缓存） |
 | Image | 镜像与镜像生态（层、标签、registry/Hub、元数据） |
-| Container | 运行时容器（部署、运行行为——注意 v1 仅 3 篇，稀缺胞） |
+| Container | 运行时容器（部署、运行行为；该对象研究数量少） |
 
 ### 4. Contribution type（RQ2，多标签 6 类，含证据核对）
 - **rep_package**：是否提供复现包（URL 有效=Y；声明但坏链/无链接=broken-link）
@@ -38,7 +38,7 @@
 - **artifact_details**：名称/一句话描述/URL（进 Table IV–VI）
 
 ### 5. RQ3 挑战（C1–C4 + 子类）与局限（L1–L3 + 子类）
-**大类（沿用 v1 定义）**：
+**大类（沿用既有定义）**：
 - C1 高级工具与方法需求（Development of advanced tooling and methodologies）
 - C2 数据与知识缺口（Bridging data and knowledge gaps）
 - C3 开发者实践理解与支持（Understanding and supporting developer practices）
@@ -101,4 +101,4 @@
 1. **扫描版 PDF（无文本层）**：Infragenie、Docker Container Security 两篇 → 渲染关键页为图片人工判读，notes 记录。
 2. **venue_type 待定的 3 篇**：抽取时顺带确认。
 3. **Page-verify 标记**：Security smell detection（ASE 期刊）等 page-verify 条目，抽取时确认篇幅。
-4. **超出 v1 范畴的判定疑难**：交高级审查并记录（沿用筛查阶段的裁决惯性）。
+4. **超出既有范畴的判定疑难**：交高级审查并记录（沿用筛查阶段的裁决惯性）。

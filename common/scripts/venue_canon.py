@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""场馆名归一化（v2 图表/统计共用）。
+"""Venue-name normalization for figures and statistics。
 规则顺序敏感：先特化（ESEM/TOSEM/SCAM/SANER截断等），后泛化。
 截断串兜底：80字符导入截断场景下用缩写 token 兜底匹配。
 """

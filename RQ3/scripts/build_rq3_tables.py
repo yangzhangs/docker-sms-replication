@@ -5,7 +5,7 @@
 Inputs
 ------
 RQ3/data/table_viii_categories.csv   Final Table VIII export
-common/extraction/extraction_master_94.csv
+common/extraction/extraction_master_92.csv
 RQ2/data/table_iv_contributions.csv  P-number to Zotero-key mapping
 
 Outputs
@@ -24,7 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "RQ3" / "data"
-MASTER = ROOT / "common" / "extraction" / "extraction_master_94.csv"
+MASTER = ROOT / "common" / "extraction" / "extraction_master_92.csv"
 MATRIX = ROOT / "RQ2" / "data" / "table_iv_contributions.csv"
 CATEGORIES = ["C1", "C2", "C3", "C4", "L1", "L2", "L3"]
 EXPECTED_CATEGORY_COUNTS = {"C1": 71, "C2": 18, "C3": 31, "C4": 19, "L1": 53, "L2": 35, "L3": 59}
@@ -54,7 +54,6 @@ def main() -> None:
     active = {
         row["zotero_key"]: row
         for row in csv.DictReader(MASTER.open(encoding="utf-8-sig", newline=""))
-        if not row.get("decision")
     }
     p_by_key = {row["zotero_key"]: row["P"]
                 for row in csv.DictReader(MATRIX.open(encoding="utf-8-sig", newline=""))}

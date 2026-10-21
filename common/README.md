@@ -6,7 +6,7 @@ paper's selection flow.
 ## corpus/
 
 - `corpus_92.csv`: one row per primary study with P number, Zotero key, title,
-  year, venue, DOI/URL, publisher, CORE rank, source, first-author country,
+  year, venue, DOI/URL, publisher, CORE rank, selection channel, first-author country,
   contribution flags, and PDF availability.
 - `pdf_index.csv`: complete PDF information table, 96 rows: 92 active studies
   (36 with a local copy, 56 metadata-only) and 4 excluded/duplicate local copies.
@@ -24,10 +24,10 @@ bibliographic record and DOI/URL but no local PDF in the curated set.
 - `exclusion_reasons.csv`: per-criterion counts that sum to 3,592.
 - `auto_filtered_652_records.csv`: records removed by the automatic bibliographic filter.
 - `kappa_report_preliminary_3727.txt`: the Kappa report reported in the paper.
-- `v1_relabel_worksheet.csv`, `increment_screening_coded.csv`,
+- `screening_worksheet.csv`, `increment_screening_coded.csv`,
   `snowballing_candidates_coded.csv`: dual-coded screening worksheets.
-- `v1_shortpaper_rescreen.csv`, `v1_shortpaper_additions.csv`,
-  `v1_shortpaper_verification.csv`, `v1_pagecheck_sample.csv`: page-count
+- `short_paper_rescreen.csv`, `short_paper_additions.csv`,
+  `short_paper_verification.csv`, `page_count_verification_sample.csv`: page-count
   re-screening and the 40-record verification sample.
 - `screening_process_log.csv`, `senior_overrides.json`,
   `extension_pairs_report.csv`: process log, adjudications, and version replacement.
@@ -38,10 +38,10 @@ corpus; the paper's reported statistic is the N = 3,727 one.
 
 ## extraction/
 
-- `extraction_master_94.csv`: final extraction (92 active studies plus two
-  removal records; select active rows with an empty `decision` field).
-- `wp1_v2_ledger.csv`: demographic and bibliographic ledger for the 92 studies.
-- `wp1_v2_stats_final.md`: demographic statistics used in the paper.
+- `extraction_master_92.csv`: final extraction for the full 92-study corpus.
+  The two removed records are in `removal_records.csv`.
+- `study_ledger.csv`: demographic and bibliographic ledger for the 92 studies.
+- `demographic_statistics.md`: demographic statistics used in the paper.
 - `coding_manual.md`: coding definitions and subcategory rules.
 - `reliability_and_summary.txt`: per-dimension extraction reliability and coded
   distributions.

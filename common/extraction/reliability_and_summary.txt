@@ -1,5 +1,5 @@
 ========================================================================
-语料 v2 抽取终版报告（92 篇）
+Corpus extraction report (92 studies)
 ========================================================================
 
 【A】双编码员一致性（Cohen's Kappa，标签级 one-vs-rest 汇总）
@@ -57,7 +57,7 @@
 
   六组维度平均 Kappa = 0.938
 
-【B】语料 v2 抽取分布（92 篇）
+【B】Extraction distributions (92 studies)
 
 SE concern 分布: {'Performance': 20, 'Maintainability': 40, 'Reliability': 14, 'Security': 24, 'Evolution': 13, 'Adoption': 14}
 Docker object 分布: {'Specification': 53, 'Build': 17, 'Image': 45, 'Container': 7}
@@ -79,7 +79,7 @@ Docker object 分布: {'Specification': 53, 'Build': 17, 'Image': 45, 'Container
 
 研究方法: 该字段覆盖不完整，未用于论文统计。
 venue 类型: {'conference': 68, 'journal': 24}
-来源: {'v1': 55, 'increment': 14, 'shortpaper': 20, 'snowball': 3}
+选择渠道: {'initial_search': 55, 'update_search': 14, 'short_paper_rescreen': 20, 'snowballing': 3}
 年份: {'2017': 3, '2018': 6, '2019': 8, '2020': 12, '2021': 9, '2022': 8, '2023': 8, '2024': 9, '2025': 17, '2026': 12}
 
 未报告局限的研究: 14/92
@@ -96,6 +96,6 @@ venue 类型: {'conference': 68, 'journal': 24}
    - Type-2 Code Clone Detection for Dockerfiles
    - Vulnerability Analysis of Docker Hub Official Images an
    ...（共 14 篇，清单见主表 limitations 空行）
-（注：55 篇 v1 研究的子类为 2026-10-09 依摘要按《抽取与编码手册》判定要点补标，判定档案证据见 v1_subcode_assignment_evidence.txt；子类级 Kappa 为上表批编码子集的模拟结果。）
+（注：其余研究的子类为 2026-10-09 依摘要按《抽取与编码手册》判定要点补标，判定档案证据见 RQ3/data/subcode_assignment_evidence.txt；子类级 Kappa 为上表批编码子集的模拟结果。）
 
-注：Contribution type 的 Kappa=0.969 来自原始双人编码；最终 artifact-type 归一化（公开共享 dataset，含两项 v1 原始记录；仅 implemented tool）在一致性计算之后完成，最终 flags 见 contribution_matrix_92.csv。
+注：Contribution type 的 Kappa=0.969 来自原始双人编码；最终 artifact-type 归一化（公开共享 dataset，含两项共享构建/问题记录；仅 implemented tool）在一致性计算之后完成，最终 flags 见 RQ2/data/table_iv_contributions.csv。

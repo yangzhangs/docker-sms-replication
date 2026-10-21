@@ -1,5 +1,5 @@
 # PDF payloads remain on the authors' machines; only pdf_index.csv is public.
-corpus_v2_pdfs/
+local_pdfs/
 common/figures/fig3_demographics/_preview/
 __pycache__/
 *.pyc

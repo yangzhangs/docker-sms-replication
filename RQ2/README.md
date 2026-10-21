@@ -20,9 +20,9 @@ The final flags give 50 replication packages, 24 datasets, 55 approaches,
 36 tool studies (38 tools), 10 taxonomies, and 67 insight studies. The
 contribution-type distribution is 17/26/30/12/7 for one through five types.
 
-Dataset note: the 24 datasets comprise 22 v2-audited Docker-artifact corpora plus
-two v1-original shared build/issue collections (Shipwright and Docker Build
-Faults) retained for continuity with the original submission.
+Dataset note: the 24 datasets comprise 22 Docker-artifact corpora plus two
+shared build/issue collections (Shipwright and Docker Build Faults) retained
+for continuity with the earlier submission.
 
 ## Reproduction
 

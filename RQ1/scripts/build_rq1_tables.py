@@ -4,7 +4,7 @@
 
 Inputs
 ------
-common/extraction/extraction_master_94.csv
+common/extraction/extraction_master_92.csv
 RQ2/data/table_iv_contributions.csv   (P-number to Zotero-key mapping)
 
 Outputs
@@ -25,7 +25,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-MASTER = ROOT / "common" / "extraction" / "extraction_master_94.csv"
+MASTER = ROOT / "common" / "extraction" / "extraction_master_92.csv"
 MATRIX = ROOT / "RQ2" / "data" / "table_iv_contributions.csv"
 OUT = ROOT / "RQ1" / "data"
 
@@ -70,7 +70,6 @@ def main() -> None:
     master = {
         row["zotero_key"]: row
         for row in csv.DictReader(MASTER.open(encoding="utf-8-sig", newline=""))
-        if not row.get("decision")
     }
     matrix = list(csv.DictReader(MATRIX.open(encoding="utf-8-sig", newline="")))
     if len(matrix) != 92:

@@ -12,7 +12,7 @@ import hashlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-EXCLUDE_DIRS = {".git", "__pycache__", "corpus_v2_pdfs", "_preview"}
+EXCLUDE_DIRS = {".git", "__pycache__", "local_pdfs", "_preview"}
 EXCLUDE_FILES = {"MANIFEST.csv"}
 
 
