@@ -17,25 +17,22 @@ common/
   search/                    Search log, top-500 Google Scholar saturation data and figure
   screening/                 Screening flow, exclusion reasons, dual-coding worksheets,
                              page-count re-screening, and Kappa report
-  corpus/                    corpus_92.csv and the 92-study PDF metadata index
+  corpus/                    corpus_92.csv and the 92-study bibliographic index
   extraction/                Extraction master, coding manual, data dictionary, ledger,
                              reliability report, and Kappa tables
   tables/                    Cross-RQ result data, including Table IX and tensions
   figures/                   Figure 2 selection flow and Figure 3 demographic panels
-  scripts/                   Corpus, figure, Kappa, and package-validation scripts
+  scripts/                   Corpus, figure, and Kappa scripts
 
 RQ1/
   data/                      Table III matrix, topic summaries, gap summary, temporal counts
   figures/                   Figure 4 temporal heatmap
-  scripts/                   Rebuilds all RQ1 tables
 
 RQ2/
   data/                      Tables IV-VII, contribution/combination summaries, artifact summary
-  scripts/                   Validates and summarises the RQ2 tables
 
 RQ3/
   data/                      Table VIII categories/subcategories and summaries
-  scripts/                   Validates the taxonomy against the extraction master
 ```
 
 `MANIFEST.csv` records byte sizes and SHA-256 checksums for every distributed file.
@@ -75,20 +72,15 @@ PDF payloads are not distributed.
 
 ## Common data
 
-### Corpus and PDF policy
+### Corpus
 
 `common/corpus/corpus_92.csv` has one row per study with P number, Zotero key,
 title, year, venue, DOI/URL, publisher, CORE rank, first-author country,
-contribution flags, and PDF availability.
+and contribution flags.
 
-The public repository does not contain article PDFs. `common/corpus/pdf_index.csv`
-is the complete information table for the 92 studies:
-
-- `P`, Zotero key, title, year, venue, DOI, public URL, publisher;
-- `local_pdf_available`, `pdf_filename`, `pdf_bytes`, and `pdf_sha256` for local copies.
-
-There are 36 local copies and 56 metadata-only records. Local copies remain on the
-authors' machines for verification.
+`common/corpus/pdf_index.csv` is the 92-study bibliographic index with P number,
+Zotero key, title, year, venue, DOI, public URL, and publisher. Article PDFs are
+not distributed, and no local-file metadata is included.
 
 ### Screening
 
@@ -141,9 +133,6 @@ segments, and `figures/gs_saturation.pdf` shows the saturation curve.
 - `RQ1/data/rq1_gap_summary.csv`: empty cells, sparse cells, dense cells, and
   recent-year runtime figures.
 
-`python RQ1/scripts/build_rq1_tables.py` rebuilds these tables and checks 21 of 24
-populated cells, the concern/object counts, and the 74-study seven-topic union.
-
 ## RQ2: Research contributions
 
 - `RQ2/data/table_iv_contributions.csv`: 92 studies and six contribution flags.
@@ -162,8 +151,6 @@ studies (38 tools), 10 taxonomies, and 67 insight studies. The distribution is
 22 Docker-artifact corpora plus two shared build/issue collections retained for
 continuity with the earlier submission.
 
-`python RQ2/scripts/build_rq2_tables.py` validates and rewrites the three summary CSVs.
-
 ## RQ3: Challenges and limitations
 
 - `RQ3/data/table_viii_categories.csv`: 32 rows (7 categories and 25 subcategories).
@@ -171,8 +158,6 @@ continuity with the earlier submission.
 - `RQ3/data/rq3_subcategory_summary.csv`: subcategory counts and P lists.
 
 Category counts are C1 71, C2 18, C3 31, C4 19, L1 53, L2 35, L3 59.
-`python RQ3/scripts/build_rq3_tables.py` verifies subcategory P lists against the
-extraction master and checks that each category is the union of its subcategories.
 
 ## Reproduction
 
@@ -182,16 +167,10 @@ Requirements: Python 3.10+ and PyMuPDF for vector figures.
 python -m pip install -r requirements.txt
 
 python common/scripts/build_corpus_tables.py
-python RQ1/scripts/build_rq1_tables.py
-python RQ2/scripts/build_rq2_tables.py
-python RQ3/scripts/build_rq3_tables.py
 python common/scripts/make_demographic_figures.py
 python common/scripts/regen_saturation_500.py
 python common/scripts/compute_extraction_kappa.py
-python common/scripts/validate_package.py
 ```
-
-The scripts use only files in this package and fail when a reported count drifts.
 
 ## Notes
 
@@ -199,6 +178,3 @@ The scripts use only files in this package and fail when a reported count drifts
   page-count re-screening data are in `common/screening/`.
 - Contribution flags are the final post-audit flags.
 - `common/extraction/extraction_master_92.csv` contains the 92-study full corpus.
-- Kappa values were recomputed after the second independent coding of the 55
-  retained studies. Challenge and limitation agreement is lower than for concerns,
-  objects, and contributions; the paper reports the recomputed values.

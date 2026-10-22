@@ -34,13 +34,13 @@ topic/contribution/challenge/limitation codes.
 ## `corpus_92.csv`
 
 One row per study with P number, Zotero key, title, year, venue, DOI/URL, publisher,
-CORE rank, first-author country, contribution flags, and PDF availability.
+CORE rank, first-author country, and contribution flags.
 
 ## `pdf_index.csv`
 
-One row per study. `local_pdf_available=yes` means a local copy was used for verification;
-`no` means the row has bibliographic metadata and, where available, a DOI URL.
-`pdf_bytes` and `pdf_sha256` describe the local copy. No PDF payload is distributed.
+One row per study with P number, Zotero key, title, year, venue, DOI, public URL,
+and publisher. It is a bibliographic index only: no PDF payloads, local filenames,
+file sizes, or checksums are distributed.
 
 ## RQ data
 

@@ -1,4 +1,4 @@
-# PDF payloads remain on the authors' machines; only pdf_index.csv is public.
+# PDF payloads remain on the authors' machines; the bibliographic index is public.
 local_pdfs/
 common/figures/fig3_demographics/_preview/
 __pycache__/
