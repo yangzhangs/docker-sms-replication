@@ -70,8 +70,8 @@ PDF payloads are not distributed.
 - Reporting: 50 replication packages, 24 datasets, 38 tools from 36 studies,
   10 taxonomies, 25 challenge/limitation subcategories.
 - Screening Kappa: 0.872 (multi-class) and 0.707 (binary) over N = 3,727.
-- Extraction Kappa: 0.673 SE concern, 0.848 Docker object, 0.779 contribution
-  type, 0.539 challenge, 0.468 limitation; average 0.661.
+- Extraction Kappa: 0.683 SE concern, 0.865 Docker object, 0.696 contribution
+  type, 0.586 challenge, 0.488 limitation; average 0.664.
 
 ## Common data
 

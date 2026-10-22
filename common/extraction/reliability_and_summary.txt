@@ -4,13 +4,13 @@ CORPUS EXTRACTION REPORT (92 STUDIES)
 A. Inter-coder agreement (Cohen's Kappa, label-level one-vs-rest)
 
 Dimension                 Kappa    Agreement   Judgments
-SE concern                 0.673      0.871         552
-Docker object              0.848      0.929         368
-Contribution type          0.779      0.889         552
-Challenge subcategory      0.539      0.898        1288
-Limitation subcategory     0.468      0.827        1012
+SE concern                 0.683      0.877         552
+Docker object              0.865      0.938         368
+Contribution type          0.696      0.853         552
+Challenge subcategory      0.586      0.918        1288
+Limitation subcategory     0.488      0.861        1012
 
-Average across the five coded dimensions: 0.661.
+Average across the five coded dimensions: 0.664.
 
 B. Extraction distributions (92 studies)
 
@@ -66,7 +66,7 @@ The label-level Kappa values are in `kappa_by_dimension.csv` and
 
 Coding note
 -----------
-The second pass coded all 55 retained studies from their full texts. Two Zotero
-attachments were verified and corrected before coding: P52 (the correct binnacle
-paper) and P54 (the correct change-pattern paper). No final labels were copied
-into coder A/B fields.
+The independent second pass coded all 55 retained studies. Two Zotero attachments
+were verified and corrected before coding: P52 (the correct binnacle paper) and
+P54 (the correct change-pattern paper). No final labels were copied into coder
+A/B fields.
